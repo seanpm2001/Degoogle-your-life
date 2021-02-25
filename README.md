@@ -7,7 +7,13 @@ Read in a different language:
 
 Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 19th 2021. Please report translation errors [here](https://github.com/seanpm2001/Degoogle-your-life/issues/) look for the correct language translation thread. Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
+![DEGOOGLE1.jpeg](DEGOOGLE1.jpeg)
+
 # Degoogling
+
+This is the main degoogling article for general degoogling info and a link to the other articles.
+
+[See the list as a GitHub organization](https://github.com/Degoogle-your-life)
 
 ***
 
@@ -31,17 +37,27 @@ Translations in languages other than English are machine translated and are not 
 
 > [04.0.2 - Ongoing](#Ongoing)
 
-[05.0 - Sources](#Sources)
+[05.0 - Countering other arguments](#Countering-other-arguments)
 
-[06.0 - Other things to check out](#Other-things-to-check-out)
+> [05.0.1 - Convenience](#Convenience)
 
-[06.0 - File info](#File-info)
+> [05.0.2 - Why does it matter? It's too late anyways](#Why-does-it-matter,-its-too-late-anyways)
 
-> [06.0.1 - Software status](#Software-status)
+> [05.0.3 - Other](#Other)
 
-[07.0 - File history](#File-history)
+[06.0 - Sources](#Sources)
 
-[08.0 - Footer](#Footer)
+[07.0 - Download links](#Download-links)
+
+[08.0 - Other things to check out](#Other-things-to-check-out)
+
+[09.0 - File info](#File-info)
+
+> [09.0.1 - Software status](#Software-status)
+
+[10.0 - File history](#File-history)
+
+[11.0 - Footer](#Footer)
 
 ***
 
@@ -63,6 +79,10 @@ A repository for general degoogling info and links to my other degoogling reposi
 ***
 
 ## Articles
+
+### Article status
+
+_All articles are currently a work in progress and need massive improvements. Suggestions and fixes are allowed._
 
 [Why you should stop using Google Chrome](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome) <!-- 1 !-->
 
@@ -91,6 +111,92 @@ A repository for general degoogling info and links to my other degoogling reposi
 [Stop reading from Google/Play books](https://github.com/seanpm2001/Stop-reading-from-Google-Books) <!-- 13 !-->
 
 [Stop using Google Classroom](https://github.com/seanpm2001/Stop-using-Google-Classroom) <!-- 14 !-->
+
+[Why you should stop using Google Translate](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Translate) <!-- 15 !-->
+
+[Why you should stop using your Google Account(s)](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Accounts) <!-- 16 !-->
+
+**New articles to be written soon:**
+
+[Why you should stop using Gerrit](https://github.com/seanpm2001/Why-you-should-stop-using-Gerrit) <!-- 17 !-->
+
+[Why you should stop using Google Analytics (the repository is broken on my end as of Wednesday, February 24th 2021 at 4:13 pm)](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics) <!-- 18 !-->
+
+<!-- Work divider !-->
+
+[Why you should stop using Google AdSense](https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdSense) <!-- 19 !-->
+
+[Why you should stop using Google One](https://github.com/seanpm2001/Why-you-should-stop-using-Google-One) <!-- 20 !-->
+
+[Why you should stop using Google+ (defunct)](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Plus) <!-- 21 !-->
+
+[Why you should stop using the Google Play Store](https://github.com/seanpm2001/Why-you-should-stop-using-the-Google-Play-Store) <!-- 22 !-->
+
+[Why you should stop using Google Docs](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Docs) <!-- 23 !-->
+
+[Why you should stop using Google Slides](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Slides) <!-- 24 !-->
+
+[Why you should stop using Google Sheets](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sheets) <!-- 25 !-->
+
+[Why you should stop using Google Forms](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Forms) <!-- 26 !-->
+
+[Why you should stop using Google Cardboard](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cardboard) <!-- 27 !-->
+
+[Why you should stop using Google Messages](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Messages) <!-- 28 !-->
+
+[Why you should stop using Google Material Design](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Material-Design) <!-- 29 !-->
+
+[Why you should stop using Google Glass/Glasses](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Glass) <!-- 30 !-->
+
+[Why you should stop using Google Fuchsia](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fuchsia) <!-- 31 !-->
+
+[Why you should stop using GBoard](https://github.com/seanpm2001/Why-you-should-stop-using-GBoard) <!-- 32 !-->
+
+[Why you should stop using Google Home](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Home) <!-- 33 !-->
+
+[Why you should stop using Google Nest](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Nest) <!-- 34 !-->
+
+[Why you should stop using Google Hangouts (defunct)](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Hangouts) <!-- 35 !-->
+
+[Why you should stop using Google Duo](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Duo) <!-- 36 !-->
+
+[Why you should stop using Google Tensorflow](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tensorflow) <!-- 37 !-->
+
+[Why you should stop using Google Blockly](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Blockly) <!-- 38 !-->
+
+[Why you should stop using Google Flutter](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Flutter) <!-- 39 !-->
+
+[Why you should stop using Googles Go programming language](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Go) <!-- 40 !-->
+
+[Why you should stop using Googles Dart programming language](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Dart) <!-- 41 !-->
+
+[Why you should stop using Googles WebP image format](https://github.com/seanpm2001/Why-you-should-stop-using-Google-WebP) <!-- 42 !-->
+
+[Why you should stop using Googles WebM video format](https://github.com/seanpm2001/Why-you-should-stop-using-Google-WebM) <!-- 43 !--> 
+
+[Why you should stop using Google Video](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Video) <!-- 44 !-->
+
+[Why you should stop using Google Sites (classic)](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_Classic) <!-- 45 !-->
+
+[Why you should stop using Google Sites ("New")](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_New) <!-- 46 !-->
+
+[Why you should stop using Google Pay](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Pay) <!-- 47 !-->
+
+[Why you should stop using Android Pay](https://github.com/seanpm2001/Why-you-should-stop-using-Android-Pay) <!-- 48 !-->
+
+[Why you should stop using Google VPN (oxymoron)](https://github.com/seanpm2001/Why-you-should-stop-using-Google-VPN) <!-- 49 !-->
+
+[Why you should stop using Google Photos](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Photos) <!-- 50 !-->
+
+[Why you should stop using Google Calendar](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calendar) <!-- 51 !-->
+
+[Why you should stop using VirusTotal (since it has been owned by Google since September 2012](https://github.com/seanpm2001/Why-you-should-stop-using-VirusTotal) <!-- 52 !-->
+
+**Article [roadmap AB](DegoogleCampaign_2021Roadmap_Part1.md) (up to March 12th 2021) 2 days off** 
+
+Article status
+
+All articles are currently a work in progress and need massive improvements. Suggestions and fixes are allowed.
 
 **Related**
 
@@ -158,6 +264,34 @@ _This list is currently empty._
 
 ***
 
+## Countering other arguments
+
+There are some arguments people make to justify Google. One of the first major one is already debunked [here](#Privacy) but here are some other ones:
+
+### Convenience
+
+Yes, Google products seem convenient. However, you are trading everything good for convenience, including security, privacy, and reliability. Google has been getting lazier over the years, and their servers have gone down more and more. Right now, the Google servers go down for nearly an hour 1-2 times per month (most notably YouTube)
+
+Unfortunately, due to societies reliance on Google, Google has come to dominate the Internet, and is seeking to control more and more. In 2012, when Google went down for 5 minutes, it was reported that **global** Internet traffic **dropped by 40%** Google frequently goes down for 1-2 hours, and with the [firing of their ethics team](https://techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/) among other things, they are going to become less and less convenient.
+
+Convenience isn't always a good thing. You should be aware of what is going on and be prepared for when they go down, as there isn't a way to have a server not go down every once in a while.
+
+Google also isn't as convenient as you think. There are other much more convenient sites. Google is far from convenient, when you account their random account suspensions and terminations with no response (unless you draw enough attention to the Google twitter account or sue them for $100,000,000 or more) then they have taken advantage of you, screwed you over, and forced you to scream into a pillow, where no-one could hear your screams for help.
+
+### Why does it matter, its too late anyways
+
+This is a less common argument, but it needs explanation. With the current state, most world governments, along with several powerful corporations seem to know your every move, so why even bother to get away from it? The answer is simple: **you deserve better**. If you manage to get away from them at this point, it is harder for them to track your moves further, and you can build a new more private life.
+
+[1 source](https://www.reddit.com/r/degoogle/comments/huk4rp/why_you_should_degoogle_intro_degoogling/) By the way, I have been giving my free Reddit award to this post every time I get it for over a week now (along with all 500 of my free coins) to boost this topic up further. So far, I have given this post over 14 free awards. It isn't much, but small things can make a big impact, depending on how it is perceived, and by whom.
+
+### Other
+
+I don't have any other arguments at the moment.
+
+_This list is incomplete_
+
+***
+
 ## Sources
 
 Copy:
@@ -198,9 +332,9 @@ Some fact checking is needed for this article
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines and compiler line): `298`
+Line count (including blank lines and compiler line): `466`
 
-File version: `2 (Friday, February 19th 2021 at 5:26 pm)`
+File version: `3 (Wednesday, February 24th 2021 at 7:56 pm)`
 
 ***
 
@@ -270,11 +404,29 @@ Version 2 (Friday, February 19th 2021 at 5:26 pm)
 
 > * No other changes in version 2
 
-Version 3 (Coming soon)
+Version 3 (Wednesday, February 24th 2021 at 7:56 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the index
+
+> * Referenced the degoogle icon and the new GitHub organization
+
+> * Added links to newer articles
+
+> * Added the countering other arguments section
+
+> > * Added the convenience subsection
+
+> > * Added the Why even bother subsection
+
+> > * Added the other subsection
+
+> * Updated some data
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 3
 
@@ -285,6 +437,22 @@ Version 4 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 4
+
+Version 5 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+Version 6 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
 
 ***
 
