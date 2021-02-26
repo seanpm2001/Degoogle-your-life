@@ -49,15 +49,21 @@ This is the main degoogling article for general degoogling info and a link to th
 
 [07.0 - Download links](#Download-links)
 
-[08.0 - Other things to check out](#Other-things-to-check-out)
+[08.0 - My degoogling experience](#My-degoogling-experience)
 
-[09.0 - File info](#File-info)
+> [08.0.1 - What I switched from](#What-I-switched-from)
 
-> [09.0.1 - Software status](#Software-status)
+> [08.0.2 - Products I still can't get away from](#Products-I-still-cannot-get-away-from)
 
-[10.0 - File history](#File-history)
+[09.0 - Other things to check out](#Other-things-to-check-out)
 
-[11.0 - Footer](#Footer)
+[10.0 - File info](#File-info)
+
+> [10.0.1 - Software status](#Software-status)
+
+[11.0 - File history](#File-history)
+
+[12.0 - Footer](#Footer)
 
 ***
 
@@ -190,9 +196,31 @@ _All articles are currently a work in progress and need massive improvements. Su
 
 [Why you should stop using Google Calendar](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calendar) <!-- 51 !-->
 
-[Why you should stop using VirusTotal (since it has been owned by Google since September 2012](https://github.com/seanpm2001/Why-you-should-stop-using-VirusTotal) <!-- 52 !-->
+[Why you should stop using VirusTotal (since it has been owned by Google since September 2012](https://github.com/seanpm2001/Why-you-should-stop-using-VirusTotal)  <!-- 52 !-->
+
+[Why you should stop using Google Fi](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fi) <!-- 53 !-->
+
+[Why you should stop using Google Stadia](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Stadia) <!-- 54 !-->
+
+[Why you should stop using Google Keep](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Keep) <!-- 55 !-->
+
+[Why you should stop using Google Base](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Base) <!-- 56 !-->
+
+[Why you should stop participating in the Google Summer of Code](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Summer-of-code) <!-- 57 !-->
+
+[Why you should stop using Google Camera](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Camera) <!-- 58 !-->
+
+[Why you should stop using Google Calculator (may seem extreme, but you should degoogle from everything, extremely easy to alternate from)](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calculator) <!-- 59 !-->
+
+[Why you should stop using Google Survey + rewards](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Survey-rewards) <!-- 60 !-->
+
+[Why you should stop using Google Drawings](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings) <!-- 61 !-->
+
+[Why you should stop using Tenor (GIF site, owned by Google since 2019)](Https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tenor) <!-- 62 !-->
 
 **Article [roadmap AB](DegoogleCampaign_2021Roadmap_Part1.md) (up to March 12th 2021) 2 days off** 
+
+**Article [roadmap BB](DegoogleCampaign_2021Roadmao_Part2.md) (up to ? 2021) 2 days off**
 
 Article status
 
@@ -310,6 +338,99 @@ Other sources:
 
 ***
 
+## My degoogling experience
+
+I finally started to see the problems with big tech in 2018, and I began degoogling. In the first few months, I made significant progress. It slowed down immensely since then.
+
+
+### What I switched from
+
+Google Chrome -> Firefox/Tor
+
+Google Search -> DuckDuckGo (default)/Ecosia (when I feel like it)/Bing (rarely)
+
+GMail - ProtonMail (not yet fully switched)
+
+Google Sites -> Self hosting (not yet fully switched)
+
+Google+ -> Hardly ever used, deleted itself due to its own shutdown
+
+Google Docs -> Never used, I just use Microsoft Word 2013 (before 2019) and LibreOffice (2019-onward) instead.
+
+Google Sheets -> Never used, I just use Microsoft Excel 2013 (before 2019) and LibreOffice (2019-onward) instead.
+
+Google Slides -> Never used, I just use Microsoft PowerPoint 2013 (before 2019) and LibreOffice (2019-onward) instead.
+
+Google Drawings -> Never used, I just use LibreOffice (2019-onward) instead.
+
+Gerrit -> Never ussed, I just use GitHub (current default), GitLab, BitBucket, and SourceForge instead.
+
+Google Photos -> Never used
+
+Google Drive -> OneDrive (2019-2020) Degoo (2020-2020) pCloud (2020-present)
+
+Google Maps -> OpenStreetMaps/Apple Maps
+
+Go - Making a special exception, but not using as a functional programming language
+
+Dart - Making a special exception, but not using as a functional programming language
+
+Flutter - Making a special exception, but not using as a functional programming language
+
+Google Earth -> OpenStreetMaps/Apple Maps
+
+Google Streetview -> Never used, I find it extra creepy
+
+Google Fi -> Never used
+
+Google Calendar -> Never used
+
+Google calculator -> Literally any other calculator app, even a Linux terminal running in Python mode if I feel like it
+
+Google Nest -> Never used
+
+Google AMP -> Never used
+
+Google VPN -> Never used, also an oxymoron
+
+Google Pay -> Never used
+
+Google Summer of Code -> Never participated
+
+Tenor -> Other GIF sites, although GIFs aren't too important to me. I normally get GIF files from DuckDuckGo images, Imgur, Reddit, or other sites.
+
+Blockly -> No longer used, not sure if Scratch directly ran blockly. I became a functional programmer in 2017 onward, and grew out of Scratch.
+
+GBoard -> Used once, but abandoned
+
+Google Glass -> Never used, considered as a young child but decided not to get one/use one if I had the option
+
+_List may be incomplete._
+
+### Products I still cannot get away from
+
+As of February 25th 2021, these are the Google products that are keeping me from fully degoogling:
+
+1. YouTube
+
+2. Android
+
+3. Google Play Store
+
+4. GMail (only for school and some sites)
+
+5. Google Classroom (only for school)
+
+6. Google Translate
+
+7. Google Account
+
+8. Google Sites (as Google is violating the laws of the GDPR (and can face another €5,000,000.00 fine until they get it fixed) and forbidding downloads of this product)
+
+I have degoogled from everything else.
+
+***
+
 ## Other things to check out
 
 [The Google Graveyard (killedbygoogle.com) - a sorted list of the 224+ products Google has killed](https://killedbygoogle.com/)
@@ -332,9 +453,9 @@ Some fact checking is needed for this article
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines and compiler line): `466`
+Line count (including blank lines and compiler line): `611`
 
-File version: `3 (Wednesday, February 24th 2021 at 7:56 pm)`
+File version: `4 (Thursday, February 25th 2021 at 9:31 pm)`
 
 ***
 
@@ -430,11 +551,19 @@ Version 3 (Wednesday, February 24th 2021 at 7:56 pm)
 
 > * No other changes in version 3
 
-Version 4 (Coming soon)
+Version 4 (Thurday, February 25th 2021 at 9:31 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added links to 10 new articles
+
+> * Added a section about my experience degoogling
+
+> * Updated the index
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 4
 
@@ -453,6 +582,22 @@ Version 6 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 6
+
+Version 7 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 7
+
+Version 8 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 8
 
 ***
 
