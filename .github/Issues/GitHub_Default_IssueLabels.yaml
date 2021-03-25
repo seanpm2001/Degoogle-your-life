@@ -1,0 +1,14 @@
+# Default GitHub issue data file (YAML)
+issuelabel_1: color1: "#ffffff" title1: "wontfix" description1: "This will not be worked on"
+issueLabel_2: color2: "#d876e3" title2: "question" description2: "Further information is requested"
+issueLabel_3: color3: "#e4e669" title3: "invalid" description3: "This doesn't seem right"
+issueLabel_4: color4: "#008672" title4: "help wanted" description4: "Extra attention is needed"
+issueLabel_5: color5: "#7057ff" title5: "good first issue" description5: "Good for newcomers"
+issueLabel_6: color6: "#a2eeef" title6: "enhancement" description6: "New feature or request"
+issueLabel_7: color7: "#cfd3d7" title7: "duplicate" description7: "This issue or pull request already exists"
+issueLabel_8: color8: "#0075ca" title8: "documentation" description8: "Improvements or additions to documentation"
+issueLabel_9: color9: "#d73a4a" title9: "bug" description9: "Something isn't working"
+# Users can also create their own issue labels, and customize the color, title, and description
+# issueLabel_10: color10: "#000000" title10: "void" description10: "not yet created"
+# No known limit on # of issue labels
+# End of file
