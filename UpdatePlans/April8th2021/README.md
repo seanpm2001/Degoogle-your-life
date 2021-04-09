@@ -47,4 +47,16 @@ Plans for updating the article (hopefully tomorrow, Friday, April 9th 2021, or a
 
 * [https://github.com/LinuxCafeFederation/Delightful-Privacy](https://github.com/LinuxCafeFederation/Delightful-Privacy) (English)
 
+## Other details:
+
+* 1. Fix translation links
+
+* 2. Forked degoogle project convenience + credit and promotion
+
+* 3. Lack of updates to the anti-Google movement from me lately
+
+* 4. Small contributions matter: 23+ Reddit free awards given to top post on r/degoogle
+
+* 5. Problems with Brave, and other Chromium browsers
+
 ***
