@@ -17,6 +17,10 @@ _Read this article in a different language:_
 
 _🌐 List of languages_
 
+**Sorted by:** `A-Z`
+
+[Sorting options unavailable](https://github.com/Degoogle-your-Life)
+
 ( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
 
 Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/Degoogle-your-life/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
@@ -33,11 +37,17 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 [00.0 - Title](#Degoogling---Degoogle-your-life)
 
-> [00.5 - Index](#Index)
+> [00.1 - Index](#Index)
 
 [01.0 - Basic description](#Basic-description)
 
-> [01.5 - Repository header](#Degoogle-your-life)
+> [01.1 - Repository header](#Degoogle-your-life)
+
+> [01.2 - Wuest3NFuchs description overview](#Overview-by-Wuest3nFuchs)
+
+> > [01.2.1 - What does it mean?](#What-does-it-mean--by-Wuest3nFuchs)
+
+> > [01.2.2 - Why Degoogle?](#Why-Degoogle--by-Wuest3nFuchs)
 
 [02.0 - Articles](#Articles)
 
@@ -63,15 +73,17 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 [08.0 - My degoogling experience](#My-degoogling-experience)
 
-> [08.0.1 - What I switched from](#What-I-switched-from)
+> [08.1 - What I switched from](#What-I-switched-from)
 
-> [08.0.2 - Products I still can't get away from](#Products-I-still-cannot-get-away-from)
+> [08.2 - Products I still can't get away from](#Products-I-still-cannot-get-away-from)
 
 [09.0 - Other things to check out](#Other-things-to-check-out)
 
 [10.0 - File info](#File-info)
 
-> [10.0.1 - Software status](#Software-status)
+> [10.1 - Software status](#Software-status)
+
+> [10.2 - Sponsor info](#Sponsor-info)
 
 [11.0 - File history](#File-history)
 
@@ -96,11 +108,38 @@ A repository for general degoogling info and links to my other degoogling reposi
 
 ***
 
+## Overview by Wuest3nFuchs
+
+A better description, provided by [Wuest3nFuchs](https://github.com/Wuest3nFuchs) - source: [Wuest3nFuchs/Degoogle](https://github.com/Wuest3nFuchs/Degoogle)
+
+### What does it mean? by Wuest3nFuchs
+
+[Degoogling means](https://en.wikipedia.org/wiki/DeGoogle) to stop using anything that belongs to Google, anything that was made by Google. I'm talking about their [search engine](https://en.wikipedia.org/wiki/Google_Search), their mail service ([Gmail](https://en.wikipedia.org/wiki/Gmail), [Youtube](https://en.wikipedia.org/wiki/Criticism_of_Google#YouTube), [etc](https://en.wikipedia.org/wiki/List_of_Google_products).
+
+### Why Degoogle? by Wuest3nFuchs
+
+Google is one of the most powerful companies in the world right now. [They](https://www.cnbc.com/2017/11/20/what-does-google-know-about-me.html) [have](https://vulcanpost.com/636465/google-personal-info/) stored a huge amount of [information](https://www.security-faqs.com/how-many-ways-does-google-store-your-personal-information.html) [on](https://www.cnet.com/how-to/google-collects-a-frightening-amount-of-data-about-you-you-can-find-and-delete-it-now/) [all](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy) [of](https://www.nbcnews.com/tech/tech-news/google-sells-future-powered-your-personal-data-n870501) [us](https://www.wired.com/story/google-tracks-you-privacy/). Some would argue that our information is safe with them because they know how to protect it. But this isn't true. Google has been penetrated before and it will be penetrated in the future. Maybe not by some script kiddie but it will be done by a nation state. Google stores personal information on all of us because this is how they make money.
+
+[They scan our emails](https://www.forbes.com/sites/daveywinder/2020/02/28/google-confirms-new-ai-tool-scans-300-billion-gmail-attachments-every-week/), [store what we search when we're using their search engine](https://www.wired.com/story/google-tracks-you-privacy/), [what videos we watch on Youtube](https://www.nytimes.com/2016/08/13/technology/personaltech/how-to-make-youtube-stop-watching-what-you-watch.html). This is how they target us and build a profile on us to show us some ad based on what we talked about with our best friend so they can show us an ad for something we need, but this is too creepy. Thanks to [Mr. Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) we now know that Google has shared our personal information with NSA under a program called **"[PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))"**.
+
+
+In the future someone will be capable of accessing all that information and I assure you something really [bad](https://en.wikipedia.org/wiki/Nazi_Germany) is going to happen. To prevent that from happening, you should start Degoogling right now. Also you shouldn't use products by a company that shares your data with **[NSA](https://en.wikipedia.org/wiki/National_Security_Agency)**. You should put a stop to all of this by degoogling.
+
+**If other people can do it, you can do it too.**
+
+[Read more here](https://github.com/Wuest3nFuchs/Degoogle)
+
+<!-- A link to the fork is currently not listed, as I do not own this repository entirely, and want to promote other sources. It would be selfish to link to my own https://github.com/Degoogle-your-life/Degoogle !-->
+
+***
+
 ## Articles
 
 ### Article status
 
 _All articles are currently a work in progress and need massive improvements. Suggestions and fixes are allowed._
+
+_As of April 18th 2021 at 4:09 pm, most articles haven't been started yet. I am working on finding time and effort to start them._
 
 [Why you should stop using Google Chrome](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome) <!-- 1 !-->
 
@@ -228,7 +267,11 @@ _All articles are currently a work in progress and need massive improvements. Su
 
 [Why you should stop using Google Drawings](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings) <!-- 61 !-->
 
-[Why you should stop using Tenor (GIF site, owned by Google since 2019)](Https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tenor) <!-- 62 !-->
+[Why you should stop using Tenor (GIF site, owned by Google since 2019)](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tenor) <!-- 62 !-->
+
+[What the FLoC - Why you should avoid Googles big FLoCing problem (stop using Google Chrome)](https://github.com/seanpm2001/What-the-FLoC) <!-- 63 !-->
+
+**Total articles:** `63`
 
 **Article [roadmap AB](DegoogleCampaign_2021Roadmap_Part1.md) (up to March 12th 2021) 2 days off** 
 
@@ -249,6 +292,8 @@ Expanding my Degoogle network, and adding some ease of access, and community sho
 3. [Delightful-Privacy](https://github.com/Degoogle-your-life/Delightful-Privacy) | Forked from: [https://github.com/LinuxCafeFederation/Delightful-Privacy](https://github.com/LinuxCafeFederation/Delightful-Privacy) (English)
 
 4. [Blocklists](https://github.com/Degoogle-your-life/blocklists) | Forked from: [https://github.com/jmdugan/blocklists](https://github.com/jmdugan/blocklists) (English)
+
+5. [Degoogle, by Wuest3nFuchs](https://github.com/Degoogle-your-life/Degoogle) | Forked from: [https://github.com/Wuest3nFuchs/Degoogle](https://github.com/Wuest3nFuchs/Degoogle) (English)
 
 **Related**
 
@@ -641,9 +686,9 @@ Some fact checking is needed for this article
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines and compiler line): `895`
+Line count (including blank lines and compiler line): `968`
 
-File version: `5 (Friday, April 9th 2021 at 6:02 pm)`
+File version: `6 (Sunday, April 18th 2021 at 4:29 pm)`
 
 ***
 
@@ -841,11 +886,23 @@ _There has been a lack of updates to the anti-Google movement from me lately, I 
 
 > * No other changes in version 5
 
-Version 6 (Coming soon)
+Version 6 (Sunday, April 18th 2021 at 4:29 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the index
+
+> * Added a new overview description
+
+> * Updated article status info
+
+> * Added a link to the new Google FLoC article
+
+> * Added a link to Wuest 3n Fuchs Degoogle article and general info on it
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 6
 
@@ -880,6 +937,22 @@ Version 10 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 10
+
+Version 11 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 11
+
+Version 12 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 12
 
 ***
 
