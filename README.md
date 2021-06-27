@@ -15,6 +15,9 @@ _Read this article in a different language:_
 
 **Current language is:** `English (US)` _(translations may need to be corrected to fix English replacing the correct language)_
 
+<details open>
+<summary>[Click/tap here to expand/collapse the language list]</summary>
+
 _🌐 List of languages_
 
 **Sorted by:** `A-Z`
@@ -31,9 +34,14 @@ Translations are done with Google Translate due to limited or no support for the
 
 Due to maintenance issues, many translations are out of date and are using an outdated version of this `README` article file. A translator is needed. Also, as of April 9th 2021, it is going to take me a while to get all the new links working.
 
+</details>
+
 ***
 
 ## Index
+
+<details open>
+<summary>[Click/tap here to expand/collapse the Index]</summary>
 
 [00.0 - Title](#Degoogling---Degoogle-your-life)
 
@@ -77,17 +85,65 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 > [08.2 - Products I still can't get away from](#Products-I-still-cannot-get-away-from)
 
-[09.0 - Other things to check out](#Other-things-to-check-out)
+[09.0 - Go is evil](#Go-is-evil)
 
-[10.0 - File info](#File-info)
+[10.0 - Usage of DRM](#Usage-of-DRM)
 
-> [10.1 - Software status](#Software-status)
+[11.0 - Common misconceptions](#Common-misconceptions)
 
-> [10.2 - Sponsor info](#Sponsor-info)
+> [11.1 - Google is not the Internet](#Google-is-not-the-Internet)
 
-[11.0 - File history](#File-history)
+[12.0 - Internet Explorer 6 and Chrome](#Internet-Explorer-6-and-Chrome)
 
-[12.0 - Footer](#Footer)
+> [12.1 - The problem with Brave (browser)](#The-problem-with-Brave)
+
+[13.0 - Faux privacy reneweal](#Faux-privacy-renewal)
+
+> [13.1 - Open source cannot be partial](#Open-source-cannot-be-partial)
+
+> [13.2 - Oxymoron](#Oxymoron)
+
+[14.0 - Bad performance](#Bad-performance)
+
+[15.0 - Bad project management](#Bad-project-management)
+
+[16.0 - Horrible or no moderation of services](#Horrible-or-no-moderation-of-services)
+
+[17.0 - Astroturfing](#Astroturfing)
+
+[18.0 - Illegal and unethical business practices](#Illegal-and-unethical-business-practices)
+
+> [18.1 - In Europe](#In-Europe)
+
+> [18.2 - In North America](#In-North-America)
+
+> [18.3 - Controversies](#Controversies)
+
+[19.0 - Google is automated and why this is bad](#Google-is-automated)
+
+[20.0 - Small actions to help](#Small-actions-to-help)
+
+> [20.1 - Slacktivism](#Slacktivism)
+
+> [20.2 - Doing something](#Doing-something)
+
+[21.0 - Untrustable](#Untrustable)
+
+[22.0 - Other things to check out](#Other-things-to-check-out)
+
+[23.0 - File info](#File-info)
+
+> [23.1 - Software status](#Software-status)
+
+> [23.2 - Sponsor info](#Sponsor-info)
+
+[24.0 - File history](#File-history)
+
+[25.0 - Footer](#Footer)
+
+> [25.9 - EOF](#EOF)
+
+</details>
 
 ***
 
@@ -271,7 +327,11 @@ _As of April 18th 2021 at 4:09 pm, most articles haven't been started yet. I am 
 
 [What the FLoC - Why you should avoid Googles big FLoCing problem (stop using Google Chrome)](https://github.com/seanpm2001/What-the-FLoC) <!-- 63 !-->
 
-**Total articles:** `63`
+[Google performance issues](https://github.com/seanpm2001/Google-performance-issues) <!-- 64 !-->
+
+[Google security issues](https://github.com/seanpm2001/Google-security-issues) <!-- 65 !-->
+
+**Total articles:** `65`
 
 **Article [roadmap AB](DegoogleCampaign_2021Roadmap_Part1.md) (up to March 12th 2021) 2 days off** 
 
@@ -309,7 +369,51 @@ Expanding my Degoogle network, and adding some ease of access, and community sho
 
 [Alphabet worker union - The new workers union at Google with over 800 members](https://alphabetworkersunion.org/people/our-union/)
 
+**Dinosaur Easter egg offline**
+
 [Don't want to part with the dinosaur easter egg? This website has you covered](https://chromedino.com/)
+
+> Alternatively, there are at least 100 websites that successfully recreate the Google Chrome dinosaur Easter egg.
+
+**Privacy respecting Web browsers**
+
+[Get Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+[Get Konquerer (Linux)](https://apps.kde.org/konqueror/)
+
+**Mass surveillance**
+
+[List of worldwide government mass surveillance programs - Wikipedia](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects)
+
+[Mass surveillance in the United States - Wikipedia](https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_States)
+
+> [Boundless informant](https://en.wikipedia.org/wiki/Boundless_Informant)
+
+> [BULLRUN](https://en.wikipedia.org/wiki/Bullrun_(code_name))
+
+> [DCSNet](https://en.wikipedia.org/wiki/DCSNet)
+
+> [Magic lantern](https://en.wikipedia.org/wiki/Magic_Lantern_(software)( 
+
+> [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
+
+> And many more (unfortunately, the US has the most mass surveillance programs in the world, with over 20 disclosed surveillance programs, compared to the average 0-2 per country)
+
+[Mass surveillance - Wikipedia](https://en.wikipedia.org/wiki/Mass_surveillance)
+
+[2013-present Mass Surveillance disclosures](https://en.wikipedia.org/wiki/2013_mass_surveillance_disclosures)
+
+**Privacy respecting search engines**
+
+[DuckDuckGo](https://duckduckgo.com)
+
+> [Shortest URL: https://duck.com](https://duck.com)
+
+> [Normal URL: https://duckduckgo.com](https://duckduckgo.com)
+
+> [Safe search enabled URL: https://safe.duckduckgo.com](https://safe.duckduckgo.com)
+
+[Ecosia](https://www.ecosia.org/)
 
 ***
 
@@ -357,7 +461,13 @@ _No other entries at the moment._
 
 ### Ongoing
 
-_This list is currently empty._
+[Spread Privacy - By DuckDuckGo (?/2019-present)](https://spreadprivacy.com/)
+
+[Degoogle your Life (grassroots)](/404.html) - No link is available, as this is a grassroots movement, meaning it has no official websit. It can be anyone in the world who respects privacy and dislikes Google enough, they don't have to tell you to be a part of the movement. The link provided will take you to the 404 page for this site.
+
+[Degoogle Your Life - By Seanpm2001 (February 2021-present](https://github.com/Degoogle-your-life)
+
+_No other entries at the moment._
 
 ***
 
@@ -413,6 +523,13 @@ I finally started to see the problems with big tech in 2018, and I began degoogl
 
 
 ### What I switched from
+
+Update to /Degoogle-your-life/
+
+//:Switching.software
+//:SpreadPrivacy
+:Slacktivism can be good when paired with activism, although if you literally can't be an activist, you can at least be a slacktivist
+
 
 Google Chrome -> Firefox/Tor
 
@@ -475,6 +592,8 @@ GBoard -> Used once, but abandoned
 Google Glass -> Never used, considered as a young child but decided not to get one/use one if I had the option
 
 _List may be incomplete._
+
+**June 2021 update:** I have been doing a lot of switching between file services, recently settling back on Google Drive, but due to Chromium sync and dominance, the unsafeness of this method, and the future of Google outside Google Chrome, I forced myself to regain control, and switched back to full SD card backups, with AndrOpen Office replacing Microsoft Word after a few months of problems. Despite the ad festation before I open the document, it is the only way, as I can't use Google, and I can't pay for Microsoft Office. It is the only OpenOffice fork I can find for Android, and I like the interface due to its early 2000s design. Eventually, I will convert my Android phone to an Android virtual machine and probably switch to a PinePhone.
 
 ### Products I still cannot get away from
 
@@ -654,7 +773,21 @@ Several projects have been created to alternate from Android, but require rootin
 
 ## Small actions to help
 
-Spreading awareness in every way you can is important. For me, I not only frequently talk about degoogling, and write articles, but I also have a small little habit, where I give my daily free Reddit award to the pinned post on r/degoogle to raise awareness. So far, I have given nearly 30 awards to the pinned post (I also spent 500 of my free coins on 10 awards for that post)
+Spreading awareness in every way you can is important. For me, I not only frequently talk about degoogling, and write articles, but I also have a small little habit, where I give my daily free Reddit award to the pinned post on r/degoogle to raise awareness. So far, I have given nearly 30 awards to the pinned post (I also spent 500 of my free coins on 10 awards for that post) this is called [slacktivism](https://en.wikipedia.org/wiki/Slacktivism) which alone isn't too helpful but it can make an impact. If possible, you should also try to get the word out, and do something other than just slacktivism
+
+### Slacktivism
+
+[Slacktivism](https://en.wikipedia.org/wiki/Slacktivism) can be good when paired with activism, although if you literally can't be an activist, you can at least be a slacktivist. Slacktivism by itself isn't too helpful, but it can reach out to other people and get them to realize the issue. Although, you should at least try to do something. See below for more info.
+
+### Doing something
+
+If you remain hopeless and closed minded, and decide to not even try to Degoogle, you are only siding with Google and making the problem worse. You don't have to immediately switch from all Google products, most Degooglers slowly fix 1 problem at a time, with weeks to months in between at times.
+
+Here are some helpful links for finding alternatives to Google software:
+
+[Switching.software](https://switching.software/)
+
+_No other links at the moment_
 
 ***
 
@@ -686,9 +819,9 @@ Some fact checking is needed for this article
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines and compiler line): `968`
+Line count (including blank lines and compiler line): `1,137`
 
-File version: `6 (Sunday, April 18th 2021 at 4:29 pm)`
+File version: `7 (Saturday, June 26th 2021 at 8:20 pm)`
 
 ***
 
@@ -906,11 +1039,31 @@ Version 6 (Sunday, April 18th 2021 at 4:29 pm)
 
 > * No other changes in version 6
 
-Version 7 (Coming soon)
+Version 7 (Saturday, June 26th 2021 at 8:20 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the title section
+
+> * Updated the language list
+
+> * Updated the index
+
+> * Updated the anti-Google campaigns section
+
+> * Updated the see also section
+
+> * Updated the small actions to help section
+
+> > * 1. Created the Slacktivism section
+
+> > * 2. Created the Doing something section
+
+> * Updated the articles list
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 7
 
@@ -954,11 +1107,27 @@ Version 12 (Coming soon)
 
 > * No other changes in version 12
 
+Version 13 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 13
+
+Version 14 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 14
+
 ***
 
 ## Footer
 
-You have reached the end of this file
+You have reached the end of this file.
 
 ( [Back to top](#Top) | [Return to GitHub](https://github.com) ) 
 
