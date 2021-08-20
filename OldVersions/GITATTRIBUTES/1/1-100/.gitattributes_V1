@@ -1,0 +1,33 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# Makefile
+# Do not make this detectable, it will upset the balance. - August 19th 2021
+*.mk linguist-detectable=false
+*.mk linguist-documentation=false
+# YAML
+*.yml linguist-detectable=false
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=false
+*.yaml linguist-documentation=false
+# ReStructuredText
+*.rst linguist-detectable=false
+*.rst linguist-documentation=false
+# WebVTT
+*.vtt linguist-detectable=false
+*.vtt linguist-documentation=false
+# Markdown
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+# Still deciding if I want to switch the main language from HTML5 to Markdown - August 19th 2021
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+# End of linguist script
+# File info
+# File type: .gitattributes file
+# File version: 1 (Thursday, August 19th 2021 at 6:47 pm)
+# Line count (including blank lines and compiler line): 34
+# End of script
