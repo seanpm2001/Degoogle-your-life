@@ -9,25 +9,43 @@
 # Do not make this detectable, it will upset the balance. - August 19th 2021
 *.mk linguist-detectable=false
 *.mk linguist-documentation=false
+*.makefile linguist-detectable=false
+*.makefile linguist-documentation=false
 # YAML
+# Do not make this detectable, it will upset the balance - August 26th 2021
 *.yml linguist-detectable=false
 *.yml linguist-documentation=false
 *.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
-# ReStructuredText
-*.rst linguist-detectable=false
-*.rst linguist-documentation=false
-# WebVTT
-*.vtt linguist-detectable=false
-*.vtt linguist-documentation=false
+# HTML
+*.htm linguist-detectable=true
+*.htm linguist-documentation=false
+*.html linguist-detectable=true
+*.html linguist-documentation=false
+*.xhtm linguist-detectable=true
+*.xhtm linguist-documentation=false
+*.xhtml linguist-detectable=true
+*.xhtml linguist-documentation=false
+*.mhtm linguist-detectable=true
+*.mhtm linguist-documentation=false
+*.mhtml linguist-detectable=true
+*.mhtml linguist-documentation=false
+# SVG
+# Do not make this detectable, it will upset the balance - August 26th 2021
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 # Still deciding if I want to switch the main language from HTML5 to Markdown - August 19th 2021
 *.md linguist-detectable=false
 *.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
 # End of linguist script
 # File info
-# File type: .gitattributes file
-# File version: 1 (Thursday, August 19th 2021 at 6:47 pm)
-# Line count (including blank lines and compiler line): 34
+# File type: .gitattributes file (.gitattributes)
+# File version: 2 (Thursday, August 26th 2021 at 7:44 pm)
+# Line count (including blank lines and compiler line): 52
 # End of script
