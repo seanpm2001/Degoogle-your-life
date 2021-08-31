@@ -1,0 +1,6 @@
+# I decided to make submodules link to individual articles for this project.
+[submodule "Articles/Google-performance-issues/Goto/"]
+  path = Articles/Google-performance-issues/Goto/
+  url = https://github.com/seanpm2001/Google-performance-issues
+
+# Submodule count: 1
