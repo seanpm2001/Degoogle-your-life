@@ -1,0 +1,6 @@
+# I decided to make submodules link to individual articles for this project.
+[submodule "Articles/What-the-FLoC/Goto/"]
+  path = Articles/What-the-FLoC/Goto/
+  url = https://github.com/seanpm2001/What-the-FLoC
+
+# Submodule count: 1
