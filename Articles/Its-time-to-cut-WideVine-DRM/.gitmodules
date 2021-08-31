@@ -1,0 +1,6 @@
+# I decided to make submodules link to individual articles for this project.
+[submodule "Articles/Its-time-to-cut-WideVine-DRM/Goto/"]
+  path = Articles/Its-time-to-cut-WideVine-DRM/Goto/
+  url = https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM
+
+# Submodule count: 1
