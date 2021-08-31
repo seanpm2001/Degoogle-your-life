@@ -1,0 +1,6 @@
+# I decided to make submodules link to individual articles for this project.
+[submodule "Articles/Stop-Googling--Why-you-should-stop-using-Google-Search/Goto/"]
+  path = Articles/Stop-Googling--Why-you-should-stop-using-Google-Search/Goto/
+  url = https://github.com/seanpm2001/Stop-Googling--Why-you-should-stop-using-Google-Search
+
+# Submodule count: 1
