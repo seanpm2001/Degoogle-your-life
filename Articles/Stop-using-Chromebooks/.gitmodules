@@ -1,0 +1,6 @@
+# I decided to make submodules link to individual articles for this project.
+[submodule "Articles/Stop-using-Chromebooks/Goto/"]
+  path = Articles/Stop-using-Chromebooks/Goto/
+  url = https://github.com/seanpm2001/Stop-using-Chromebooks
+
+# Submodule count: 1
