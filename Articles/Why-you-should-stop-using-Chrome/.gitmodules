@@ -1,0 +1,6 @@
+# I decided to make submodules link to individual articles for this project.
+[submodule "Articles/Why-you-should-stop-using-Chrome/Goto/"]
+  path = Articles/Why-you-should-stop-using-Chrome/Goto/
+  url = https://github.com/seanpm2001/Why-you-should-stop-using-Chrome
+
+# Submodule count: 1
