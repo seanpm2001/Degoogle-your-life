@@ -1,0 +1,6 @@
+# I decided to make submodules link to individual articles for this project.
+[submodule "Articles/Alternating-from-YouTube/Goto/"]
+  path = Articles/Alternating-from-YouTube/Goto/
+  url = https://github.com/seanpm2001/Alternating-from-YouTube
+
+# Submodule count: 1
