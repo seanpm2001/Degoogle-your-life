@@ -1,0 +1,6 @@
+# I decided to make submodules link to individual articles for this project.
+[submodule "Articles/Degoogled_Android_Phone_VM_Research/Goto/"]
+  path = Articles/Degoogled_Android_Phone_VM_Research/Goto/
+  url = https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research
+
+# Submodule count: 1
