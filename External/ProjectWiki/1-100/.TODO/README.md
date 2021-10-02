@@ -11,9 +11,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 **Articles to write:** `260` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `11` / `260` (04.23%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `15` / `260` (05.77%) _Note: the homepage, footer, and sidebar are also included in this count._
 
-**Stats are as of 2021 Friday October 1st at 4:18 pm**
+**Stats are as of 2021 Friday October 1st at 5:37 pm**
 
 ## Checklist
 
@@ -70,7 +70,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google and privacy (2013-2021)
 
-* - [ ] 1998
+* - [x] 1998
 
 * - [ ] 1999
 
@@ -126,7 +126,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [x] PRISM (Surveillance program)
 
-* - [ ] .TEMPLATE_Year
+* - [x] .TEMPLATE_Year
 
 * - [ ] !Collection_list_of_Templates
 
@@ -160,7 +160,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Edward Snowden
 
-* - [ ] Google Chrome
+* - [x] Google Chrome
 
 * - [ ] Google Chromium
 
@@ -228,7 +228,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Hangouts
 
-* - [ ] KilledByGoogle
+* - [x] KilledByGoogle
 
 * - [ ] Google Chrome Dinosaur (include media)
 
@@ -542,9 +542,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 </details>
 
-**Total entries:** `260` **Completed:** `11` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `260` **Completed:** `15` _(as the footer, homepage, and sidebar are counted)_
 
-**Current completion status (as of 2021 Friday, October 1st at 4:18 pm):** `04.23%`
+**Current completion status (as of 2021 Friday, October 1st at 5:37 pm):** `05.77%`
 
 <details>
 	<summary><p>Click/tap here to expand/collapse the total percentage estimate mathematical formula</p></summary>
@@ -791,7 +791,7 @@ Sweden (ungooglebar)
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.markdown)`
 
-**Page version:** `1 (2021, Friday, October 1st at 4:18 pm)`
+**Page version:** `2 (2021, Friday, October 1st at 5:37 pm)`
 
 **First revision:** `1 (2021, Friday, October 1st at 4:18 pm)`
 
@@ -801,7 +801,7 @@ Sweden (ungooglebar)
 
 **Minority languages:** `English (US) / Markdown`
 
-**Current revision:** `1 (2021, Friday, October 1st at 4:18 pm)`
+**Current revision:** `2 (2021, Friday, October 1st at 5:37 pm)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
