@@ -9,9 +9,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 <!-- This project has become a strong Apple Wiki, and it expands outside the scope of just WacOS. Articles should still be based on WacOS when possible, but also contain info on Apple - 2021 Saturday September 18th !-->
 
-**Articles to write:** `260` _(this number will continue to go up over time, as more topics are found during research)_
+**Articles to write:** `264` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `15` / `260` (05.77%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `15` / `264` (05.77%) _Note: the homepage, footer, and sidebar are also included in this count._
 
 **Stats are as of 2021 Friday October 1st at 5:37 pm**
 
@@ -540,9 +540,17 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Goobuntu
 
+* - [ ] Google Chromium version history
+
+* - [ ] Google Map Maker
+
+* - [ ] Google Lens
+
+* - [ ] DeGoogle
+
 </details>
 
-**Total entries:** `260` **Completed:** `15` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `264` **Completed:** `15` _(as the footer, homepage, and sidebar are counted)_
 
 **Current completion status (as of 2021 Friday, October 1st at 5:37 pm):** `05.77%`
 
@@ -791,17 +799,17 @@ Sweden (ungooglebar)
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.markdown)`
 
-**Page version:** `2 (2021, Friday, October 1st at 5:37 pm)`
+**Page version:** `3 (2021, Friday, October 1st at 11:00 pm)`
 
 **First revision:** `1 (2021, Friday, October 1st at 4:18 pm)`
 
-**Line count (including blank lines and compiler line):** `0,813`
+**Line count (including blank lines and compiler line):** `0,821`
 
 **Majority language:** `English (US) / Markdown`
 
 **Minority languages:** `English (US) / Markdown`
 
-**Current revision:** `2 (2021, Friday, October 1st at 5:37 pm)`
+**Current revision:** `3 (2021, Friday, October 1st at 11:00 pm)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
