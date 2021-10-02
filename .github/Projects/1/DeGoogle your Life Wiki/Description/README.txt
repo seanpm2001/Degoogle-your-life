@@ -1,0 +1,1 @@
+The Degoogle-your-Life wiki project, for writing and maintaining this projects Wiki on the complete scope of the Google company and its products, and its relations with Degoogle-your-Life and its goal of helping alternate from them.
