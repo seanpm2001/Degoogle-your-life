@@ -9,11 +9,11 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 <!-- This project has become a strong Apple Wiki, and it expands outside the scope of just WacOS. Articles should still be based on WacOS when possible, but also contain info on Apple - 2021 Saturday September 18th !-->
 
-**Articles to write:** `267` _(this number will continue to go up over time, as more topics are found during research)_
+**Articles to write:** `266` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `24` / `267` (08.99%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `31` / `266` (11.65%) _Note: the homepage, footer, and sidebar are also included in this count._
 
-**Stats are as of 2021 Saturday October 2nd at 7:08 pm**
+**Stats are as of 2021 Saturday October 2nd at 9:34 pm**
 
 ## Checklist
 
@@ -120,17 +120,17 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Logo history
 
-* - [ ] Don't be evil
+* - [x] Don't be evil
 
 * - [x] PRISM (Surveillance program)
 
 * - [x] .TEMPLATE_Year
 
-* - [ ] !Collection_list_of_Templates
+* - [x] !Collection_list_of_Templates
 
-* - [ ] !Collection_list_of_Collections
+* - [x] !Collection_list_of_Collections
 
-* - [ ] !All_Rules
+* - [x] !All_Rules
 
 * - [ ] Google website
 
@@ -140,7 +140,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Emojis (see also: Emojipedia, etc.)
 
-* - [ ] !Redirects (A page of redirects, such as Goggle, Chrome (without Google), etc.)
+* - [x] !Redirects (A page of redirects, such as Goggle, Chrome (without Google), etc.)
 
 * - [ ] Seanpm2001 Google experience (2010-2018, 2018-2021)
 
@@ -150,9 +150,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] WideVine DRM
 
-* - [ ] WideVine DRM (article)
+* - [x] WideVine DRM (article)
 
-* - [ ] DRM
+* - [x] DRM
 
 * - [ ] Richard Stallman
 
@@ -205,8 +205,6 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 * - [ ] Open Handset Alliance
 
 * - [ ] Google Zero
-
-* - [ ] Chromium
 
 * - [ ] Ungoogled Chromium
 
@@ -556,9 +554,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 </details>
 
-**Total entries:** `267` **Completed:** `24` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `266` **Completed:** `31` _(as the footer, homepage, and sidebar are counted)_
 
-**Current completion status (as of 2021 Saturday, October 2nd at 7:08 pm):** `08.99%`
+**Current completion status (as of 2021 Saturday, October 2nd at 7:08 pm):** `11.65%`
 
 <details>
 	<summary><p>Click/tap here to expand/collapse the total percentage estimate mathematical formula</p></summary>
@@ -631,12 +629,19 @@ Note the lack of a blank line between each box. I choose to add the blank line, 
 
 ***
 
-<!-- Notes 2021 Monday September 20th
-https://github.com/seanpm2001/WacOS/blob/master/Graphics/MacWrite/MacWrite-software-icon.png
-https://github.com/seanpm2001/WacOS/blob/master/Graphics/MacWrite/MacWrite-software-screenshot.png
+<!-- To work on (2021 October 2nd)
+List of articles to write
 
-Wacky OS Wack o's 
-Start writing software for wacos
+Google and privacy
+Nothing to hide argument
+Go!
+Go
+Don't be evil
+Google-Chromium
+ChromeBit
+DeGoogle
+Criticism of Google
+Goobuntu
 !-->
 
 ## Article updates needed
@@ -805,17 +810,17 @@ Sweden (ungooglebar)
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.markdown)`
 
-**Page version:** `4 (2021, Saturday, October 2nd at 7:08 pm)`
+**Page version:** `5 (2021, Saturday, October 2nd at 9:34 pm)`
 
 **First revision:** `1 (2021, Friday, October 1st at 4:18 pm)`
 
-**Line count (including blank lines and compiler line):** `0,827`
+**Line count (including blank lines and compiler line):** `0,832`
 
 **Majority language:** `English (US) / Markdown`
 
 **Minority languages:** `English (US) / Markdown`
 
-**Current revision:** `4 (2021, Saturday, October 2nd at 7:08 pm))`
+**Current revision:** `5 (2021, Saturday, October 2nd at 9:34 pm)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
