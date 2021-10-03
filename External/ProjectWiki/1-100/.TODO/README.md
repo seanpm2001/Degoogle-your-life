@@ -9,11 +9,11 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 <!-- This project has become a strong Apple Wiki, and it expands outside the scope of just WacOS. Articles should still be based on WacOS when possible, but also contain info on Apple - 2021 Saturday September 18th !-->
 
-**Articles to write:** `264` _(this number will continue to go up over time, as more topics are found during research)_
+**Articles to write:** `267` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `15` / `264` (05.77%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `24` / `267` (08.99%) _Note: the homepage, footer, and sidebar are also included in this count._
 
-**Stats are as of 2021 Friday October 1st at 5:37 pm**
+**Stats are as of 2021 Saturday October 2nd at 7:08 pm**
 
 ## Checklist
 
@@ -54,7 +54,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Litigation
 
-* - [ ] Criticism of Google
+* - [x] Criticism of Google
 
 * - [ ] Google LLC
 
@@ -122,8 +122,6 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Don't be evil
 
-* - [ ] Power Macintosh 5200 LC
-
 * - [x] PRISM (Surveillance program)
 
 * - [x] .TEMPLATE_Year
@@ -162,7 +160,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [x] Google Chrome
 
-* - [ ] Google Chromium
+* - [x] Google Chromium
 
 * - [ ] Google Chrome version history
 
@@ -238,7 +236,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] ChromeBlet
 
-* - [ ] ChromeBit
+* - [x] ChromeBit
 
 * - [ ] ChromeCast
 
@@ -400,9 +398,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Search controversies
 
-* - [ ] Google Go
+* - [x] Google Go
 
-* - [ ] Go! (programming language)
+* - [x] Go! (programming language)
 
 * - [ ] Google Dart
 
@@ -504,7 +502,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Alphabet Workers Union
 
-* - [ ] Nothing to hide argument
+* - [x] Nothing to hide argument
 
 * - [ ] Sergey Brin
 
@@ -538,7 +536,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] YouTube Rewind 2020
 
-* - [ ] Goobuntu
+* - [x] Goobuntu
 
 * - [ ] Google Chromium version history
 
@@ -546,13 +544,21 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Lens
 
-* - [ ] DeGoogle
+* - [x] DeGoogle
+
+* - [ ] gLinux
+
+* - [ ] Google campus shooting
+
+* - [ ] WTFU
+
+* - [x] Google and privacy 
 
 </details>
 
-**Total entries:** `264` **Completed:** `15` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `267` **Completed:** `24` _(as the footer, homepage, and sidebar are counted)_
 
-**Current completion status (as of 2021 Friday, October 1st at 5:37 pm):** `05.77%`
+**Current completion status (as of 2021 Saturday, October 2nd at 7:08 pm):** `08.99%`
 
 <details>
 	<summary><p>Click/tap here to expand/collapse the total percentage estimate mathematical formula</p></summary>
@@ -799,17 +805,17 @@ Sweden (ungooglebar)
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.markdown)`
 
-**Page version:** `3 (2021, Friday, October 1st at 11:00 pm)`
+**Page version:** `4 (2021, Saturday, October 2nd at 7:08 pm)`
 
 **First revision:** `1 (2021, Friday, October 1st at 4:18 pm)`
 
-**Line count (including blank lines and compiler line):** `0,821`
+**Line count (including blank lines and compiler line):** `0,827`
 
 **Majority language:** `English (US) / Markdown`
 
 **Minority languages:** `English (US) / Markdown`
 
-**Current revision:** `3 (2021, Friday, October 1st at 11:00 pm)`
+**Current revision:** `4 (2021, Saturday, October 2nd at 7:08 pm))`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
