@@ -13,6 +13,8 @@
 
 ![https://github.com/seanpm2001/Degoogle-your-life/blob/main/Graphics/Android/Versions/4.4-KitKat/Nexus_5_(Android_4.4.2)_Screenshot.jpg](https://github.com/seanpm2001/Degoogle-your-life/blob/main/Graphics/Android/Versions/4.4-KitKat/Nexus_5_(Android_4.4.2)_Screenshot.jpg)
 
+( **Preceeded by:** [Android 4.1 (Jelly Bean)](https://github.com/seanpm2001/Degoogle-your-life/wiki/Android-4-1-Jelly-Bean/) | **Succeeded by:** [Android 5.0 (Lollipop)](https://github.com/seanpm2001/Degoogle-your-life/wiki/Android-5-0-Lollipop/) )
+
 **Developer:**	Google
 
 **Released to manufacturing:**	October 31, 2013;
@@ -113,15 +115,15 @@ Other sources are needed, and this article needs LOTS of improvement and origina
 
 **Written on:** `2021 Monday, October 4th at 1:26 pm`
 
-**Last revised on:** `2021 Monday, October 4th at 1:26 pm`
+**Last revised on:** `2021 Monday, October 4th at 1:35 pm`
 
 **File format** `Markdown document (*.md *.mkd *.markdown)`
 
-**Line count (including blank lines and compiler line):** `131`
+**Line count (including blank lines and compiler line):** `133`
 
 **Article language:** `English (US)`
 
-**Article version:** `1 (2021 Monday, October 4th at 1:26 pm)`
+**Article version:** `2 (2021 Monday, October 4th at 1:35 pm)` V2: Added the predecessor and successor section, as it was not added originally.
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
