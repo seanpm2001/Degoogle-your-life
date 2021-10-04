@@ -43,6 +43,8 @@ This section is empty.
 
 [Googol - Redirect: off]
 
+[GSoC - Redirect to Google Summer of Code](https://github.com/seanpm2001/Degoogle-your-life/wiki/Google-Summer-of-Code/)
+
 ## H
 
 This section is empty.
@@ -65,7 +67,7 @@ This section is empty.
 
 ## M
 
-This section is empty.
+[Market - Redirect to Android Market](https://github.com/seanpm2001/Degoogle-your-life/wiki/Market/)
 
 ## N
 
@@ -91,9 +93,23 @@ This section is empty.
 
 [Starlark - Redirect to Google Bazel](https://github.com/seanpm2001/Degoogle-your-life/wiki/Google-Bazel/)
 
+[SoC - Redirect to Google Summer of Code](https://github.com/seanpm2001/Degoogle-your-life/wiki/Google-Summer-of-Code/)
+
+[Summer of Code - Redirect to Google Summer of Code](https://github.com/seanpm2001/Degoogle-your-life/wiki/Google-Summer-of-Code/)
+
+[Code of Summer - Redirect to Google Summer of Code](https://github.com/seanpm2001/Degoogle-your-life/wiki/Google-Summer-of-Code/)
+
 ## T
 
 [Translate - Redirect to Google Translate](https://github.com/seanpm2001/Degoogle-your-life/wiki/Google-Translate/)
+
+[Translater - Redirect to Google Translate](https://github.com/seanpm2001/Degoogle-your-life/wiki/Google-Translate/)
+
+[Google Translater - Redirect to Google Translate](https://github.com/seanpm2001/Degoogle-your-life/wiki/Google-Translate/)
+
+[Translator - Redirect to Google Translate](https://github.com/seanpm2001/Degoogle-your-life/wiki/Google-Translate/)
+
+[Google Translator - Redirect to Google Translate](https://github.com/seanpm2001/Degoogle-your-life/wiki/Google-Translate/)
 
 ## U
 
@@ -133,10 +149,10 @@ More sources coming soon.
 
 ## Article info
 
-**Written on:** `Saturday, 2021 October 2nd at 9:18 pm`
+**Written on:** `Sunday, 2021 October 3rd at 8:02 pm`
 
 **File format:** `Markdown document (*.md *.mkd *.markdown)`
 
-**Article version:** `1 (Saturday, 2021 October 2nd at 9:18 pm)`
+**Article version:** `2 (Sunday, 2021 October 3rd at 8:02 pm)`
 
 ***
