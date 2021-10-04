@@ -9,11 +9,11 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 <!-- This project has become a strong Apple Wiki, and it expands outside the scope of just WacOS. Articles should still be based on WacOS when possible, but also contain info on Apple - 2021 Saturday September 18th !-->
 
-**Articles to write:** `266` _(this number will continue to go up over time, as more topics are found during research)_
+**Articles to write:** `270` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `31` / `266` (11.65%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `38` / `270` (14.07%) _Note: the homepage, footer, and sidebar are also included in this count._
 
-**Stats are as of 2021 Saturday October 2nd at 9:34 pm**
+**Stats are as of 2021 Sunday October 3rd at 7:56 pm**
 
 ## Checklist
 
@@ -148,7 +148,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] XML
 
-* - [ ] WideVine DRM
+* - [x] WideVine DRM
 
 * - [x] WideVine DRM (article)
 
@@ -162,7 +162,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [x] Google Chromium
 
-* - [ ] Google Chrome version history
+* - [x] Google Chrome version history
 
 * - [ ] Google Search
 
@@ -182,7 +182,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] YouTube
 
-* - [ ] Alternating from YouTube (article)
+* - [ ] Alternating from YouTube (article) // Lets hold this one off for a while, as it will screw up the licensing
 
 * - [ ] Spread Privacy (DuckDuckGo)
 
@@ -200,7 +200,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Android version history
 
-* - [ ] Android
+* - [x] Android
 
 * - [ ] Open Handset Alliance
 
@@ -226,7 +226,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [x] KilledByGoogle
 
-* - [ ] Google Chrome Dinosaur (include media)
+* - [x] Google Chrome Dinosaur (include media)
 
 * - [ ] ChromeBook
 
@@ -324,7 +324,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Play music
 
-* - [ ] Android market
+* - [x] Android market
 
 * - [ ] YouTube music
 
@@ -408,7 +408,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Images
 
-* - [ ] Google Bazel
+* - [x] Google Bazel
 
 * - [ ] Google Calculator
 
@@ -448,7 +448,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Stadia
 
-* - [ ] Google Summer of Code
+* - [x] Google Summer of Code
 
 * - [ ] Google Survey Rewards
 
@@ -552,11 +552,19 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [x] Google and privacy 
 
+* - [ ] List of Google operating systems
+
+* - [ ] Elsagate // Lets hold this one off for a while, as it will screw up the licensing
+
+* - [ ] DaddyoFive
+
+* - [ ] Android Easter Eggs
+
 </details>
 
-**Total entries:** `266` **Completed:** `31` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `270` **Completed:** `38` _(as the footer, homepage, and sidebar are counted)_
 
-**Current completion status (as of 2021 Saturday, October 2nd at 7:08 pm):** `11.65%`
+**Current completion status (as of 2021 Saturday, October 2nd at 7:08 pm):** `14.07%`
 
 <details>
 	<summary><p>Click/tap here to expand/collapse the total percentage estimate mathematical formula</p></summary>
@@ -642,6 +650,48 @@ ChromeBit
 DeGoogle
 Criticism of Google
 Goobuntu
+!-->
+
+<!-- To work on (2021 October 3rd
+Articles to write today
+
+Chrome dino
+Google summer of code
+Google Chrome version history
+ChromeOS
+ChromiumOS
+Google search
+WideVine DRM
+Android 1.1 Petit Four
+Android 1.5 Cupcake
+Android 1.6 Donut
+Android 2.0 Eclair
+Android 2.1 Froyo
+Android 2.2 Gingerbread
+Android 3.0 HOneycomb
+Android 4.0 Ice cream sandwich
+Andriid 4.1 Jellybean
+Android 4.4 KitKat
+Android 5.0 Lollipop
+Android 6.0 Marshmallow
+Android 7.0 Nougat
+Android 8.0 Oreo
+Android 9.0 Pie
+Android 10.0
+Android 11.0
+Android 12.0
+Android Market
+Android
+Android version history
+Google slang (Googler, Google, Googling, Googled, Scroogled, FLoCed, YouTuber, Adpocalypse, Elsagate, )
+Elsagate
+Alternating from YouTube (article) - Lets see if it revokes the GPL license again
+!-->
+
+<!-- Redirect page
+More things to redirect from
+GSoC
+Market
 !-->
 
 ## Article updates needed
@@ -810,17 +860,17 @@ Sweden (ungooglebar)
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.markdown)`
 
-**Page version:** `5 (2021, Saturday, October 2nd at 9:34 pm)`
+**Page version:** `6 (2021, Saturday, October 2nd at 7:56 pm)`
 
 **First revision:** `1 (2021, Friday, October 1st at 4:18 pm)`
 
-**Line count (including blank lines and compiler line):** `0,832`
+**Line count (including blank lines and compiler line):** `0,882`
 
 **Majority language:** `English (US) / Markdown`
 
 **Minority languages:** `English (US) / Markdown`
 
-**Current revision:** `5 (2021, Saturday, October 2nd at 9:34 pm)`
+**Current revision:** `6 (2021, Sunday, October 3rd at 7:56 pm)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
