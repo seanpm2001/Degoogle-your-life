@@ -9,11 +9,11 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 <!-- This project has become a strong Apple Wiki, and it expands outside the scope of just WacOS. Articles should still be based on WacOS when possible, but also contain info on Apple - 2021 Saturday September 18th !-->
 
-**Articles to write:** `270` _(this number will continue to go up over time, as more topics are found during research)_
+**Articles to write:** `284` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `38` / `270` (14.07%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `59` / `284` (20.77%) _Note: the homepage, footer, and sidebar are also included in this count._
 
-**Stats are as of 2021 Sunday October 3rd at 7:56 pm**
+**Stats are as of 2021 Monday October 4th at 5:00 pm**
 
 ## Checklist
 
@@ -198,7 +198,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Drawings
 
-* - [ ] Android version history
+* - [x] Android version history
 
 * - [x] Android
 
@@ -246,39 +246,39 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Android 1.1 (petit four)
 
-* - [ ] Android 1.5 (cupcake)
+* - [x] Android 1.5 (cupcake)
 
-* - [ ] Android 1.6 (donut)
+* - [x] Android 1.6 (donut)
 
-* - [ ] Android 2.0 (eclair)
+* - [x] Android 2.0 (eclair)
 
-* - [ ] Android 2.1 (froyo)
+* - [x] Android 2.1 (froyo)
 
-* - [ ] Android 2.3 (Gingerbread)
+* - [x] Android 2.3 (Gingerbread)
 
-* - [ ] Android 3.0 (Honeycomb)
+* - [x] Android 3.0 (Honeycomb)
 
-* - [ ] Android 4.0 (Ice Cream Sandwich)
+* - [x] Android 4.0 (Ice Cream Sandwich)
 
-* - [ ] Android 4.1 (Jelly Bean)
+* - [x] Android 4.1 (Jelly Bean)
 
-* - [ ] Android 4.4 (Kitkat)
+* - [x] Android 4.4 (Kitkat)
 
-* - [ ] Android 5.0 (Lollipop)
+* - [x] Android 5.0 (Lollipop)
 
-* - [ ] Android 6.0 (Marshmallow)
+* - [x] Android 6.0 (Marshmallow)
 
-* - [ ] Android 7.0 (Nougat)
+* - [x] Android 7.0 (Nougat)
 
-* - [ ] Android 8.0 (Oreo)
+* - [x] Android 8.0 (Oreo)
 
-* - [ ] Android 9.0 (Pie)
+* - [x] Android 9.0 (Pie)
 
-* - [ ] Android 10.0
+* - [x] Android 10.0
 
-* - [ ] Android 11.0
+* - [x] Android 11.0
 
-* - [ ] Android 12.0
+* - [x] Android 12.0
 
 * - [ ] Material design
 
@@ -560,11 +560,41 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Android Easter Eggs
 
+* - [ ] Android mascot
+
+* - [ ] Google Play gift card
+
+* - [ ] Android logo history
+
+* - [x] Android logotype history
+
+* - [ ] Complete Android logo history
+
+* - [ ] 2016 GMail prank gone wrong
+
+* - [ ] Touchwiz
+
+* - [ ] Android Go
+
+* - [ ] Android alternatives
+
+* - [ ] ChromeOS alternatives
+
+* - [ ] Android Studio
+
+* - [ ] Android SDK
+
+* - [x] APK
+
+* - [x] Stagefright bug
+
+<!-- & - [ ] Something to do with phone displays !-->
+
 </details>
 
-**Total entries:** `270` **Completed:** `38` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `284` **Completed:** `59` _(as the footer, homepage, and sidebar are counted)_
 
-**Current completion status (as of 2021 Saturday, October 2nd at 7:08 pm):** `14.07%`
+**Current completion status (as of 2021 Monday, October 4th at 5:00 pm):** `20.77%`
 
 <details>
 	<summary><p>Click/tap here to expand/collapse the total percentage estimate mathematical formula</p></summary>
@@ -652,7 +682,7 @@ Criticism of Google
 Goobuntu
 !-->
 
-<!-- To work on (2021 October 3rd
+<!-- To work on (2021 October 3rd)
 Articles to write today
 
 Chrome dino
@@ -688,10 +718,145 @@ Elsagate
 Alternating from YouTube (article) - Lets see if it revokes the GPL license again
 !-->
 
+<!-- To continue working on (2021 October 4th)
+Articles to write today
+
+ChromeOS
+ChromiumOS
+Google search
+Android 1.1 Petit Four
+Android 1.5 Cupcake
+Android 1.6 Donut
+Android 2.0 Eclair
+Android 2.1 Froyo
+Android 2.2 Gingerbread
+Android 3.0 HOneycomb
+Android 4.0 Ice cream sandwich
+Andriid 4.1 Jellybean
+Android 4.4 KitKat
+Android 5.0 Lollipop
+Android 6.0 Marshmallow
+Android 7.0 Nougat
+Android 8.0 Oreo
+Android 9.0 Pie
+Android 10.0
+Android 11.0
+Android 12.0
+Android version history
+Google slang (Googler, Google, Googling, Googled, Scroogled, FLoCed, YouTuber, Adpocalypse, Elsagate, )
+Elsagate
+Alternating from YouTube (article) - Lets see if it revokes the GPL license again
+Stagefright
+Google Map Maker
+GMAIL 2016 April fools disaster
+!-->
+
 <!-- Redirect page
 More things to redirect from
 GSoC
 Market
+!-->
+
+<!-- Seanpm2001 experience with Google article
+Notes
+
+Google Chrome Angry Birds
+First gmail account
+Back button
+Minecraft early on
+Clash of Clans
+Morning gaming
+General stupidity
+Jacksfilms Chromebooks comment
+Early versions of Android
+Google search usage
+Switching to DuckDuckGo 2018/2019
+YouTube era {
+	Early videos
+	Stat videos
+	Video bragging
+}
+Galaxy core prime 2x experience
+SD card support
+Kindle Android early on
+Classroom usage dislike
+Google Forms + Windows era
+Google Sites
+Bad ads
+Developer settings
+S7 edge experience {
+	New system
+	Memory problems over time, even 32 GB isn't enough now
+	Failing battery
+	Broken speakers
+}
+S20 FE experience {
+	Starting to move from ANdroid
+	The mass APK download
+}
+!-->
+
+<!-- Redirects added in V3
+
+New shortcuts
+
+Android A - 1.0
+Android B - 1.1
+Android C - 1.5
+Android D - 1.6
+Android E - 2.0
+Android F - 2.2
+Android G - 2.3
+Android H - 3.0
+Android I - 4.0
+Android J - 4.1
+Android K - 4.4
+Android L - 5.0
+Android M - 6.0
+Android N - 7.0
+Android O - 8.0
+Android P - 9.0
+Android Q - 10.0
+Android R - 11.0
+Android S - 12.0
+Android Petit Four - 1.1
+Android ice cream - 4.0
+Android ice cream sandvich - 4.0
+Android Ginger - 2.3
+Android Honey - 3.0
+Android Doughnut - 1.6
+Android cake - 1.5
+Android peppermint - 9.0
+Android Jelly - 4.1
+Android KK - 4.4
+Android 2.1 - Eclair
+Android 2.4 - Gingerbread
+Android 1.7 - Eclair
+Android 3.1 - Ice cream sandwich
+Android 4.2 - Jelly Bean
+Android 4.3 - Jelly Bean
+Android 4.5 - Lollipop
+Android 5.1 - Lollipop
+Android 5.2 - Marshmallow
+Android 6.0 - Marhsmallow
+Android 6.1 - Marhsmallow
+Android 6.2 - Nougat
+Android 7.0 - Nougat
+Android 7.1 - Nougat
+Android 7.2 - Oreo
+Android 8.0 - Oreo
+Android 8.1 - Oreo
+Android 8.2 - Pie
+Android 9.0 - Pie
+Android 9.1 - Pie
+Android 9.2 - 10.0
+Android 10.1 - 10.0
+Android 10.2 - 11.0
+Android 11.1 - 11.0
+Android 11.2 - 12.0
+Android 12.1 - 12.0
+<- Android 12.2 - 13.0 ->
+TouchWizard - Touchwiz
 !-->
 
 ## Article updates needed
@@ -860,17 +1025,17 @@ Sweden (ungooglebar)
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.markdown)`
 
-**Page version:** `6 (2021, Saturday, October 2nd at 7:56 pm)`
+**Page version:** `7 (2021, Monday, October 4th at 5:00 pm)`
 
 **First revision:** `1 (2021, Friday, October 1st at 4:18 pm)`
 
-**Line count (including blank lines and compiler line):** `0,882`
+**Line count (including blank lines and compiler line):** `1,047`
 
 **Majority language:** `English (US) / Markdown`
 
 **Minority languages:** `English (US) / Markdown`
 
-**Current revision:** `6 (2021, Sunday, October 3rd at 7:56 pm)`
+**Current revision:** `7 (2021, Monday, October 4th at 5:00 pm)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
