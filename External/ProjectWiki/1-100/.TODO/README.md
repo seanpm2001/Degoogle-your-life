@@ -11,9 +11,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 **Articles to write:** `284` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `59` / `284` (20.77%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `66` / `284` (23.24%) _Note: the homepage, footer, and sidebar are also included in this count._
 
-**Stats are as of 2021 Monday October 4th at 5:00 pm**
+**Stats are as of 2021 Tuesday October 5th at 5:45 pm**
 
 ## Checklist
 
@@ -62,7 +62,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] History of Google
 
-* - [ ] Google Slang
+* - [x] Google Slang
 
 * - [ ] Google and privacy (1998-2009)
 
@@ -142,7 +142,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [x] !Redirects (A page of redirects, such as Goggle, Chrome (without Google), etc.)
 
-* - [ ] Seanpm2001 Google experience (2010-2018, 2018-2021)
+* - [x] Seanpm2001 Google experience (2010-2018, 2018-2021)
 
 * - [ ] List of Google services
 
@@ -172,9 +172,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Corporate Memphis
 
-* - [ ] ChromeOS
+* - [x] ChromeOS
 
-* - [ ] ChromiumOS
+* - [x] ChromiumOS
 
 * - [ ] Google Fuchsia
 
@@ -344,7 +344,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Pixel 5
 
-* - [ ] Stagefright
+* - [ ] Stagefright (this entry is for the LIBrary, it is not to be confused with the bug)
 
 * - [ ] Google Pay
 
@@ -482,7 +482,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google vs Sweden
 
-* - [ ] Java (programming language)
+* - [x] Java (programming language)
 
 * - [ ] Google reviews
 
@@ -538,7 +538,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Google Chromium version history
 
-* - [ ] Google Map Maker
+* - [x] Google Map Maker
 
 * - [ ] Google Lens
 
@@ -562,7 +562,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Android mascot
 
-* - [ ] Google Play gift card
+* - [x] Google Play gift card
 
 * - [ ] Android logo history
 
@@ -570,7 +570,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Complete Android logo history
 
-* - [ ] 2016 GMail prank gone wrong
+* - [ ] 2016 GMail prank
 
 * - [ ] Touchwiz
 
@@ -592,9 +592,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 </details>
 
-**Total entries:** `284` **Completed:** `59` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `284` **Completed:** `66` _(as the footer, homepage, and sidebar are counted)_
 
-**Current completion status (as of 2021 Monday, October 4th at 5:00 pm):** `20.77%`
+**Current completion status (as of 2021 Tuesday, October 5th at 5:45 pm):** `23.24%`
 
 <details>
 	<summary><p>Click/tap here to expand/collapse the total percentage estimate mathematical formula</p></summary>
@@ -666,6 +666,16 @@ Note the lack of a blank line between each box. I choose to add the blank line, 
 </details>
 
 ***
+
+<!-- Removed comments (done to reduce page size and reduce the amount of duplicated lines)
+The October 2nd todo comment will be removed in V9 or later
+The October 3rd todo comment will be removed in V10 or later
+The redirects added on October 3rd section will be removed in V11 or later
+The October 4th todo comment will be removed in V12 or later
+The redirect section from October 4th will be removed in V13 or later
+The October 5th todo comment will be removed in V14 or later
+The removed comments section will have its first 6 entries removed in V19 or later
+!-->
 
 <!-- To work on (2021 October 2nd)
 List of articles to write
@@ -751,7 +761,7 @@ Google Map Maker
 GMAIL 2016 April fools disaster
 !-->
 
-<!-- Redirect page
+<!-- Redirect page (2021 October 4th)
 More things to redirect from
 GSoC
 Market
@@ -857,6 +867,18 @@ Android 11.2 - 12.0
 Android 12.1 - 12.0
 <- Android 12.2 - 13.0 ->
 TouchWizard - Touchwiz
+!-->
+
+<!-- Articles to write (October 5th)
+Java programming language
+Seanpm2001 experience with Google
+Google slang
+Google Map Maker
+ChromiumOS
+CHromeOS
+Google Play Gift card
+Google search
+GMAIL 2016 April fools disaster
 !-->
 
 ## Article updates needed
@@ -1025,17 +1047,17 @@ Sweden (ungooglebar)
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.markdown)`
 
-**Page version:** `7 (2021, Monday, October 4th at 5:00 pm)`
+**Page version:** `8 (2021, Tuesday, October 5th at 5:45 pm)`
 
 **First revision:** `1 (2021, Friday, October 1st at 4:18 pm)`
 
-**Line count (including blank lines and compiler line):** `1,047`
+**Line count (including blank lines and compiler line):** `1,069`
 
 **Majority language:** `English (US) / Markdown`
 
 **Minority languages:** `English (US) / Markdown`
 
-**Current revision:** `7 (2021, Monday, October 4th at 5:00 pm)`
+**Current revision:** `8 (2021, Tuesday, October 5th at 5:45 pm)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
