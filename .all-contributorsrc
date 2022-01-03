@@ -25,6 +25,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "GaurPeeyush",
+      "name": "Peeyush Gaur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81735768?v=4",
+      "profile": "http://gaurpeeyush.github.io/PeeyushGaur/",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
