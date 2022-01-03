@@ -4,13 +4,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
-![DEGOOGLE1.jpeg](DEGOOGLE1.jpeg)
+![/DEGOOGLE1.jpeg](/DEGOOGLE1.jpeg)
 
 # Degoogling - Degoogle your life
 
 This is the main degoogling article for general degoogling info and a link to the other articles.
 
-[See the list as a GitHub organization](https://github.com/Degoogle-your-life)
+[See the list as a GitHub organization](https://github.com/Degoogle-your-life/)
 
 ***
 
@@ -152,7 +152,7 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 ## Basic description
 
-[From Wikipedia: Degoogle](https://en.wikipedia.org/wiki/DeGoogle)
+[From Wikipedia: Degoogle](https://en.wikipedia.org/wiki/DeGoogle/)
 
 The DeGoogle movement (also called the de-Google movement) is a grassroots campaign that has spawned as privacy activists urge users to stop using Google products entirely due to growing privacy concerns regarding the company. The term refers to the act of removing Google from one's life. As the growing market share of the internet giant creates monopolistic power for the company in digital spaces, increasing numbers of journalists have noted the difficulty to find alternatives to the company's products.
 
@@ -169,7 +169,7 @@ A repository for general degoogling info and links to my other degoogling reposi
 
 ## Overview by Wuest3nFuchs
 
-A better description, provided by [Wuest3nFuchs](https://github.com/Wuest3nFuchs) - source: [Wuest3nFuchs/Degoogle](https://github.com/Wuest3nFuchs/Degoogle)
+A better description, provided by [Wuest3nFuchs](https://github.com/Wuest3nFuchs/) - source: [Wuest3nFuchs/Degoogle](https://github.com/Wuest3nFuchs/Degoogle/)
 
 ### What does it mean? by Wuest3nFuchs
 
@@ -186,7 +186,7 @@ In the future someone will be capable of accessing all that information and I as
 
 **If other people can do it, you can do it too.**
 
-[Read more here](https://github.com/Wuest3nFuchs/Degoogle)
+[Read more here](https://github.com/Wuest3nFuchs/Degoogle/)
 
 <!-- A link to the fork is currently not listed, as I do not own this repository entirely, and want to promote other sources. It would be selfish to link to my own https://github.com/Degoogle-your-life/Degoogle !-->
 
@@ -510,7 +510,7 @@ Copy:
 
 Other sources:
 
-[Five eyes Alliance](https://en.wikipedia.org/wiki/Five_Eyes)[Nineteen eighty four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+[Five eyes Alliance/](https://en.wikipedia.org/wiki/Five_Eyes)[Nineteen eighty four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four/)
 
 ***
 
@@ -820,11 +820,17 @@ Some fact checking is needed for this article
 
 ## File info
 
-File type: `Markdown (*.md)`
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-Line count (including blank lines and compiler line): `1,137`
+**Line count (including blank lines and compiler line):** `1,284`
 
-File version: `7 (Saturday, June 26th 2021 at 8:20 pm)`
+**File version:** `11 (2022, Monday, January 3rd at 3:30 pm)`
+
+**All times are UTC-7 (PDT/Pacific Time)** account for daylight savings time as well (it's a pain, I know)
+
+**The encoding is UTF-8 and is compatible with Unicode 5.0 and up**
+
+**You may need special rendering support for the `<dropdown` tag used in this article**
 
 ***
 
@@ -858,7 +864,13 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 ## File history
 
-Version 1 (Friday, February 19th 2021 at 5:20 pm)
+This section has been collapsed to improve readability.
+
+<details><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
+
+**Version 1 (Friday, February 19th 2021 at 5:20 pm)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -882,7 +894,9 @@ Version 1 (Friday, February 19th 2021 at 5:20 pm)
 
 > * No other changes in version 1
 
-Version 2 (Friday, February 19th 2021 at 5:26 pm)
+**Version 2 (Friday, February 19th 2021 at 5:26 pm)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -912,7 +926,9 @@ Version 2 (Friday, February 19th 2021 at 5:26 pm)
 
 > * No other changes in version 2
 
-Version 3 (Wednesday, February 24th 2021 at 7:56 pm)
+**Version 3 (Wednesday, February 24th 2021 at 7:56 pm)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -938,7 +954,9 @@ Version 3 (Wednesday, February 24th 2021 at 7:56 pm)
 
 > * No other changes in version 3
 
-Version 4 (Thurday, February 25th 2021 at 9:31 pm)
+**Version 4 (Thurday, February 25th 2021 at 9:31 pm)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -954,7 +972,9 @@ Version 4 (Thurday, February 25th 2021 at 9:31 pm)
 
 > * No other changes in version 4
 
-Version 5 (Friday, April 9th 2021 at 6:02 pm)
+**Version 5 (Friday, April 9th 2021 at 6:02 pm)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
 _There has been a lack of updates to the anti-Google movement from me lately, I am working on getting back to it after a 1+ month hiatus._
 
@@ -1022,7 +1042,9 @@ _There has been a lack of updates to the anti-Google movement from me lately, I 
 
 > * No other changes in version 5
 
-Version 6 (Sunday, April 18th 2021 at 4:29 pm)
+**Version 6 (Sunday, April 18th 2021 at 4:29 pm)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -1042,7 +1064,9 @@ Version 6 (Sunday, April 18th 2021 at 4:29 pm)
 
 > * No other changes in version 6
 
-Version 7 (Saturday, June 26th 2021 at 8:20 pm)
+**Version 7 (Saturday, June 26th 2021 at 8:20 pm)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -1070,35 +1094,65 @@ Version 7 (Saturday, June 26th 2021 at 8:20 pm)
 
 > * No other changes in version 7
 
-Version 8 (Coming soon)
+**Version 8 (2022, Monday, January 3rd at 2:57 pm)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+> * Added the contributor badge
+
+> * Added the contributors section
+
+> > * Added [@seanpm2001](https://github.com/seanpm2001/) to the contributors section
 
 > * No other changes in version 8
 
-Version 9 (Coming soon)
+**Version 9 (2022, Monday, January 3rd at 3:01 pm)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributor badge, changing it to 2
+
+> * Updated the contributors section
+
+> > * Added [@all-contributors](https://github.com/all-contributors/) to the contributors section
 
 > * No other changes in version 9
 
-Version 10 (Coming soon)
+**Version 10 (2022, Monday, January 3rd at 3:05 pm)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributor badge, changing it to 3
+
+> * Updated the contributors section
+
+> > * Added [@GaurPeeyush](https://github.com/GaurPeeyush/) to the contributors section
 
 > * No other changes in version 10
 
-Version 11 (Coming soon)
+**Version 11 (2022, Monday, January 3rd at 3:30 pm)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
+
+Note: I have been working heavily on the [WideVine DRM article](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/) lately, as it is my most popular project, and my most popular DeGoogle project (currently at 29 stars)
 
 > Changes:
 
-> * Coming soon
+> * Fixed several links
+
+> * Duplicated the contributors badge and placed it directly above the contributors section
+
+> * Updated the footer
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 11
 
@@ -1126,17 +1180,85 @@ Version 14 (Coming soon)
 
 > * No other changes in version 14
 
+Version 15 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 15
+
+Version 16 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 16
+
+Version 17 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 17
+
+Version 18 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 18
+
+Version 19 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 19
+
+Version 20 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 20
+
+Version 21 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 21
+
+Version 22 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 21
+
+</details>
+
 ***
 
 ## Footer
 
 You have reached the end of this file.
 
-( [Back to top](#Top) | [Return to GitHub](https://github.com) ) 
+( [Back to top](#Top) | [Return to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo (sets safe search to strict)](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) ) 
 
 ### EOF
 
 ***
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 
 ## Contributors ✨
 
