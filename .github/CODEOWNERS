@@ -1,0 +1,102 @@
+# Start of script
+# I am going to keep trying on this until I get it right
+# @seanpm2001 is the global code owner for this project
+/// @seanpm2001
+/ @seanpm2001
+/* @seanpm2001
+* @seanpm2001
+# Directories at root
+/.github/ @seanpm2001
+/Articles/ @seanpm2001
+/Branches/ @seanpm2001
+/External/ @seanpm2001
+/Graphics/ @seanpm2001
+/OldVersions/ @seanpm2001
+/RepoData/ @seanpm2001
+/Research/ @seanpm2001
+/Roadmap/ @seanpm2001
+/The-end-goal/ @seanpm2001
+/UpdatePlans/ @seanpm2001
+/TODO/ @seanpm2001
+# Files at root
+.all-contributorsrc @seanpm2001
+.all-contributorsrc.json @seanpm2001
+.editorconfig @seanpm2001
+.gitattributes @seanpm2001
+.gitignore @seanpm2001
+AUTHORS @seanpm2001
+CITATION.cff @seanpm2001
+CONTRIBUTING.md @seanpm2001
+COPYINGL @seanpm2001
+CREDITS @seanpm2001
+DRM-free_label.en.svg @seanpm2001
+DEGOOGLE1.jpeg @seanpm2001
+FeatureRequests_February18th2021.md @seanpm2001
+FAIR-USE.md @seanpm2001
+INSTALL @seanpm2001
+K.desktop @seanpm2001
+LICENSE.txt @seanpm2001
+PROJECT_LANG_1.html @seanpm2001
+README.md @seanpm2001
+SECURITY.md @seanpm2001
+SponsorButton.png @seanpm2001 @seanpm2001
+desktop.ini @seanpm2001
+makefile.mk @seanpm2001
+LOGO removed background.png @seanpm2001 @gaurpeeyush
+WideVineLogoTransparent.png @seanpm2001
+WideVine_Logo.jpeg @seanpm2001
+# Individual file types
+*.txt @seanpm2001
+*.jpg @seanpm2001
+*.JPG @seanpm2001
+*.jpeg @seanpm2001
+*.JPEG @seanpm2001
+*.md @seanpm2001
+*.mkd @seanpm2001
+*.mdown @seanpm2001
+*.markdown @seanpm2001
+*.htm @seanpm2001
+*.html @seanpm2001
+*.mhtm @seanpm2001
+*.mhtml @seanpm2001
+*.xhtm @seanpm2001
+*.xhtml @seanpm2001
+*.HTM @seanpm2001
+*.HTML @seanpm2001
+*.MHTM @seanpm2001
+*.MHTML @seanpm2001
+*.XHTM @seanpm2001
+*.XHTML @seanpm2001
+*.png @seanpm2001
+*.svg @seanpm2001
+*.PNG @seanpm2001
+*.SVG @seanpm2001
+*.bib @seanpm2001
+*.tex @seanpm2001
+*.pdf @seanpm2001
+*.PDF @seanpm2001
+*.cff @seanpm2001
+*.url @seanpm2001
+*.gif @seanpm2001
+*.GIF @seanpm2001
+*.yml @seanpm2001
+*.yaml @seanpm2001
+*.YML @seanpm2001
+*.YAML @seanpm2001
+*.ini @seanpm2001
+*.INI @seanpm2001
+*.desktop @seanpm2001
+*.DESKTOP @seanpm2001
+*.ogg @seanpm2001
+*.OGG @seanpm2001
+*.oga @seanpm2001
+*.OGA @seanpm2001
+*.TEX @seanpm2001
+*.make @seanpm2001
+*.MAKE @seanpm2001
+# No more individual file types for now
+# File info
+# File type: codeowners file (CODEOWNERS)
+# File version: 1 (2022, Monday, January 10th at 6:35 pm)
+# Line count (including blank lines and compiler line): 103
+# End of script
