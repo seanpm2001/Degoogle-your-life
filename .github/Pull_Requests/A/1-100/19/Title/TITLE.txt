@@ -1,0 +1,1 @@
+docs: add seanpm2001 as a contributor for doc, content, maintenance, blog #19
