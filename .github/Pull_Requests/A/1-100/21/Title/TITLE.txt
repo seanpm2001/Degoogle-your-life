@@ -1,0 +1,1 @@
+docs: add GaurPeeyush as a contributor for design #21
