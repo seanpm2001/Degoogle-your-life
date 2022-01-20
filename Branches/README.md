@@ -19,8 +19,10 @@ Jump on over to another branch of this repository.
 
 [add-GaurPeeyush](https://github.com/seanpm2001/Degoogle-your-life/tree/all-contributors/add-GaurPeeyush/)
 
+[add-gamer191](https://github.com/seanpm2001/Degoogle-your-life/tree/all-contributors/add-gamer191/)
+
 ***
 
-**File version:** `1 (2022, Monday, January 10th at 5:24 pm)`
+**File version:** `2 (2022, Wednesday, January 19th at 4:48 pm)`
 
 ***
