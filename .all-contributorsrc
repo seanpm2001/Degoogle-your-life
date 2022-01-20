@@ -34,6 +34,18 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "gamer191",
+      "name": "gamer191",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83270075?v=4",
+      "profile": "https://github.com/gamer191",
+      "contributions": [
+        "doc",
+        "bug",
+        "mentoring",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
