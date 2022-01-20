@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1272,6 +1272,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3"><img src="https://avatars.githubusercontent.com/u/65933340?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sean P. Myrick V19.1.7.2</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001" title="Documentation">📖</a> <a href="#content-seanpm2001" title="Content">🖋</a> <a href="#maintenance-seanpm2001" title="Maintenance">🚧</a> <a href="#blog-seanpm2001" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=all-contributors" title="Documentation">📖</a></td>
     <td align="center"><a href="http://gaurpeeyush.github.io/PeeyushGaur/"><img src="https://avatars.githubusercontent.com/u/81735768?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peeyush Gaur</b></sub></a><br /><a href="#design-GaurPeeyush" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/gamer191"><img src="https://avatars.githubusercontent.com/u/83270075?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gamer191</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=gamer191" title="Documentation">📖</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/issues?q=author%3Agamer191" title="Bug reports">🐛</a> <a href="#mentoring-gamer191" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/pulls?q=is%3Apr+reviewed-by%3Agamer191" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
