@@ -1,0 +1,54 @@
+
+----
+
+== Credits ==
+
+{{int:version-credits-summary}}
+
+seanpm2001/DeGoogle your Life is a collaborative project, and is released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of DeGoogle your Life
+
+2. @all-contributors[bot] - Keeps up with crediting contributors
+
+3. No other contributors as of 2022, Tuesday, April 5th at 4:46 pm PST
+
+== Contributors ==
+
+<!-- BEGIN CONTRIBUTOR LIST -->
+
+1. @seanpm2001
+
+2. @all-contributors[bot] - Keeps up with crediting contributors
+
+3. @GitHub (For GitHub, and for being the first host of this project)
+
+4. @Edward_Joseph_Snowden (Not on GitHub, but big thanks to him for enabling the entire privacy movement and telling us what was really going on)
+
+5. @Richard_Matthew_Stallman (Not on GitHub, but big thanks to him for advocating for user privacy, the free software foundation and its many innovations, and many other acts)
+
+6. @Google (Go f##k yourself, you are the enemy here and everywhere)
+
+7. @GaurPeeyush (For the first external contribution to this project, which was improving the WideVine logo to have transparency)
+
+8. @Gamer191 (For pointing out some errors in the WideVine DRM article with constructive criticism)
+
+9. No other contributors as of 2022, Tuesday, April 5th at 4:46 pm PST
+
+----
+
+=== File info ===
+
+<b>File type:</b> <i>MediaWiki document (*.wiki)</i>
+
+<b>File version:</b> <i>2 (2022, Tuesday, April 5th at 4:46 pm PST)</i>
+
+<b>Line count (including blank lines and compiler line):</b> <i>55</i>
+
+----
