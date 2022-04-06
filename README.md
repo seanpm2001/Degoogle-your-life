@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1330,6 +1330,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://samsung.com/"><img src="https://avatars.githubusercontent.com/u/84940679?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Samsung</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-Samsung" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-Samsung" title="Documentation">📖</a> <a href="#platform-seanpm2001-Samsung" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-Samsung" title="Content">🖋</a> <a href="#design-seanpm2001-Samsung" title="Design">🎨</a> <a href="#maintenance-seanpm2001-Samsung" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="https://avatars.githubusercontent.com/u/71793933?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeanPM</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-software" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-software" title="Documentation">📖</a> <a href="#platform-seanpm2001-software" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-software" title="Content">🖋</a> <a href="#design-seanpm2001-software" title="Design">🎨</a> <a href="#maintenance-seanpm2001-software" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="https://avatars.githubusercontent.com/u/71748083?v=4?s=100" width="100px;" alt=""/><br /><sub><b>seanwallawalla</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanwallawalla-software" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanwallawalla-software" title="Documentation">📖</a> <a href="#platform-seanwallawalla-software" title="Packaging/porting to new platform">📦</a> <a href="#content-seanwallawalla-software" title="Content">🖋</a> <a href="#design-seanwallawalla-software" title="Design">🎨</a> <a href="#maintenance-seanwallawalla-software" title="Maintenance">🚧</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/seanpm2001/SNU_PrivacyInitiative"><img src="https://avatars.githubusercontent.com/u/86267835?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SNU Privacy</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=SNU-Privacy" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=SNU-Privacy" title="Documentation">📖</a> <a href="#platform-SNU-Privacy" title="Packaging/porting to new platform">📦</a> <a href="#content-SNU-Privacy" title="Content">🖋</a> <a href="#design-SNU-Privacy" title="Design">🎨</a> <a href="#maintenance-SNU-Privacy" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
