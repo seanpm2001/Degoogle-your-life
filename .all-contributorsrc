@@ -620,6 +620,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-Hardware",
+      "name": "Seanpm2001 Hardware Projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82983084?v=4",
+      "profile": "https://github.com/seanpm2001/Self-replicating-machine-research",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
