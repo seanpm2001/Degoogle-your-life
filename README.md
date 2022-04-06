@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1274,6 +1274,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://gaurpeeyush.github.io/PeeyushGaur/"><img src="https://avatars.githubusercontent.com/u/81735768?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peeyush Gaur</b></sub></a><br /><a href="#design-GaurPeeyush" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/gamer191"><img src="https://avatars.githubusercontent.com/u/83270075?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gamer191</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=gamer191" title="Documentation">📖</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/issues?q=author%3Agamer191" title="Bug reports">🐛</a> <a href="#mentoring-gamer191" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/pulls?q=is%3Apr+reviewed-by%3Agamer191" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Degoogle-your-life/Why-you-should-avoid-Google-AMP"><img src="https://avatars.githubusercontent.com/u/79488838?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Degoogle your life</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=degoogle-your-life" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=degoogle-your-life" title="Documentation">📖</a> <a href="#platform-degoogle-your-life" title="Packaging/porting to new platform">📦</a> <a href="#content-degoogle-your-life" title="Content">🖋</a> <a href="#design-degoogle-your-life" title="Design">🎨</a> <a href="#maintenance-degoogle-your-life" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/Degoogle-your-life"><img src="https://avatars.githubusercontent.com/u/90575832?v=4?s=100" width="100px;" alt=""/><br /><sub><b>It is time to cut WideVine DRM </b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=its-time-to-cut-widevine-drm" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=its-time-to-cut-widevine-drm" title="Documentation">📖</a> <a href="#platform-its-time-to-cut-widevine-drm" title="Packaging/porting to new platform">📦</a> <a href="#content-its-time-to-cut-widevine-drm" title="Content">🖋</a> <a href="#design-its-time-to-cut-widevine-drm" title="Design">🎨</a> <a href="#maintenance-its-time-to-cut-widevine-drm" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
