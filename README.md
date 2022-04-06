@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1279,6 +1279,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Degoogle-your-life"><img src="https://avatars.githubusercontent.com/u/84293808?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Google projects</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-google" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-google" title="Documentation">📖</a> <a href="#platform-seanpm2001-google" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-google" title="Content">🖋</a> <a href="#design-seanpm2001-google" title="Design">🎨</a> <a href="#maintenance-seanpm2001-google" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Android"><img src="https://avatars.githubusercontent.com/u/83522565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Android (Google)</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-android" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-android" title="Documentation">📖</a> <a href="#platform-seanpm2001-android" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-android" title="Content">🖋</a> <a href="#design-seanpm2001-android" title="Design">🎨</a> <a href="#maintenance-seanpm2001-android" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
