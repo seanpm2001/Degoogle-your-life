@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1325,6 +1325,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="https://avatars.githubusercontent.com/u/71908132?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeanWallaWalla Tools</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanwallawalla-tools" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanwallawalla-tools" title="Documentation">📖</a> <a href="#platform-seanwallawalla-tools" title="Packaging/porting to new platform">📦</a> <a href="#content-seanwallawalla-tools" title="Content">🖋</a> <a href="#design-seanwallawalla-tools" title="Design">🎨</a> <a href="#maintenance-seanwallawalla-tools" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="https://avatars.githubusercontent.com/u/71908648?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeanWallaWallaImages</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanwallawalla-images" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanwallawalla-images" title="Documentation">📖</a> <a href="#platform-seanwallawalla-images" title="Packaging/porting to new platform">📦</a> <a href="#content-seanwallawalla-images" title="Content">🖋</a> <a href="#design-seanwallawalla-images" title="Design">🎨</a> <a href="#maintenance-seanwallawalla-images" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SNU_2D_YouTubeMode"><img src="https://avatars.githubusercontent.com/u/85767117?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SNU YouTube mode</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=SNU-YouTubeMode" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=SNU-YouTubeMode" title="Documentation">📖</a> <a href="#platform-SNU-YouTubeMode" title="Packaging/porting to new platform">📦</a> <a href="#content-SNU-YouTubeMode" title="Content">🖋</a> <a href="#design-SNU-YouTubeMode" title="Design">🎨</a> <a href="#maintenance-SNU-YouTubeMode" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
