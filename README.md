@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1333,6 +1333,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/SNU_PrivacyInitiative"><img src="https://avatars.githubusercontent.com/u/86267835?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SNU Privacy</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=SNU-Privacy" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=SNU-Privacy" title="Documentation">📖</a> <a href="#platform-SNU-Privacy" title="Packaging/porting to new platform">📦</a> <a href="#content-SNU-Privacy" title="Content">🖋</a> <a href="#design-SNU-Privacy" title="Design">🎨</a> <a href="#maintenance-SNU-Privacy" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SNU_PrivacyInitiative"><img src="https://avatars.githubusercontent.com/u/86174451?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SNU Privacy Initiative</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=SNU-Privacyinitiative" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=SNU-Privacyinitiative" title="Documentation">📖</a> <a href="#platform-SNU-Privacyinitiative" title="Packaging/porting to new platform">📦</a> <a href="#content-SNU-Privacyinitiative" title="Content">🖋</a> <a href="#design-SNU-Privacyinitiative" title="Design">🎨</a> <a href="#maintenance-SNU-Privacyinitiative" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
