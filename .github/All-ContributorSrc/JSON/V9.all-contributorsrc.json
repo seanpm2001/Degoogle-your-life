@@ -1,0 +1,127 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "seanpm2001",
+      "name": "Sean P. Myrick V19.1.7.2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65933340?v=4",
+      "profile": "https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3",
+      "contributions": [
+        "doc",
+        "content",
+        "maintenance",
+        "blog"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "GaurPeeyush",
+      "name": "Peeyush Gaur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81735768?v=4",
+      "profile": "http://gaurpeeyush.github.io/PeeyushGaur/",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "gamer191",
+      "name": "gamer191",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83270075?v=4",
+      "profile": "https://github.com/gamer191",
+      "contributions": [
+        "doc",
+        "bug",
+        "mentoring",
+        "review"
+      ]
+    },
+    {
+      "login": "degoogle-your-life",
+      "name": "Degoogle your life",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79488838?v=4",
+      "profile": "https://github.com/Degoogle-your-life/Why-you-should-avoid-Google-AMP",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "its-time-to-cut-widevine-drm",
+      "name": "It is time to cut WideVine DRM ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90575832?v=4",
+      "profile": "https://github.com/Degoogle-your-life",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "what-the-floc",
+      "name": "What the FLoC (Federated Learning of Cohorts)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90883190?v=4",
+      "profile": "https://github.com/seanpm2001/What-the-FLoC",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "seanpm2001-google",
+      "name": "Seanpm2001 Google projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84293808?v=4",
+      "profile": "https://github.com/Degoogle-your-life",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "seanpm2001-android",
+      "name": "Seanpm2001 Android (Google)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83522565?v=4",
+      "profile": "https://github.com/seanpm2001/Why-you-should-stop-using-Android",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Degoogle-your-life",
+  "projectOwner": "seanpm2001",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
