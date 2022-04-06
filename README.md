@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1285,6 +1285,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/seanpm2001/Degoogle-your-life"><img src="https://avatars.githubusercontent.com/u/83519331?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Privacy Center</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-privacy" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-privacy" title="Documentation">📖</a> <a href="#platform-seanpm2001-privacy" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-privacy" title="Content">🖋</a> <a href="#design-seanpm2001-privacy" title="Design">🎨</a> <a href="#maintenance-seanpm2001-privacy" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/Seanpm2001-GPL"><img src="https://avatars.githubusercontent.com/u/86742875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 GPL (General Public License)</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-GPL" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-GPL" title="Documentation">📖</a> <a href="#platform-seanpm2001-GPL" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-GPL" title="Content">🖋</a> <a href="#design-seanpm2001-GPL" title="Design">🎨</a> <a href="#maintenance-seanpm2001-GPL" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="https://avatars.githubusercontent.com/u/71843643?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 (All)</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-all" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-all" title="Documentation">📖</a> <a href="#platform-seanpm2001-all" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-all" title="Content">🖋</a> <a href="#design-seanpm2001-all" title="Design">🎨</a> <a href="#maintenance-seanpm2001-all" title="Maintenance">🚧</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ddg.gg"><img src="https://avatars.githubusercontent.com/u/80805235?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 web software</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-web" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-web" title="Documentation">📖</a> <a href="#platform-seanpm2001-web" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-web" title="Content">🖋</a> <a href="#design-seanpm2001-web" title="Design">🎨</a> <a href="#maintenance-seanpm2001-web" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
