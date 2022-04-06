@@ -634,6 +634,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-Samsung",
+      "name": "Seanpm2001 Samsung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84940679?v=4",
+      "profile": "https://samsung.com/",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
