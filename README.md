@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1303,6 +1303,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Seanpm2001-Browsers"><img src="https://avatars.githubusercontent.com/u/86537491?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Browsers</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-browsers" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-browsers" title="Documentation">📖</a> <a href="#platform-seanpm2001-browsers" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-browsers" title="Content">🖋</a> <a href="#design-seanpm2001-browsers" title="Design">🎨</a> <a href="#maintenance-seanpm2001-browsers" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/seanwallawalla-security"><img src="https://avatars.githubusercontent.com/u/85585537?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Security</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-security" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-security" title="Documentation">📖</a> <a href="#platform-seanpm2001-security" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-security" title="Content">🖋</a> <a href="#design-seanpm2001-security" title="Design">🎨</a> <a href="#maintenance-seanpm2001-security" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/seanpm2001"><img src="https://avatars.githubusercontent.com/u/84939698?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Portals</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-portals" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-portals" title="Documentation">📖</a> <a href="#platform-seanpm2001-portals" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-portals" title="Content">🖋</a> <a href="#design-seanpm2001-portals" title="Design">🎨</a> <a href="#maintenance-seanpm2001-portals" title="Maintenance">🚧</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/seanpm2001/seanpm2001"><img src="https://avatars.githubusercontent.com/u/83986547?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001s most developed projects</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-mostdeveloped" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-mostdeveloped" title="Documentation">📖</a> <a href="#platform-seanpm2001-mostdeveloped" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-mostdeveloped" title="Content">🖋</a> <a href="#design-seanpm2001-mostdeveloped" title="Design">🎨</a> <a href="#maintenance-seanpm2001-mostdeveloped" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
