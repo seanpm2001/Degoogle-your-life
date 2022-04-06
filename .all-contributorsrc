@@ -158,6 +158,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-GPL",
+      "name": "Seanpm2001 GPL (General Public License)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86742875?v=4",
+      "profile": "https://github.com/Seanpm2001-GPL",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
