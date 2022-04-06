@@ -88,6 +88,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-google",
+      "name": "Seanpm2001 Google projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84293808?v=4",
+      "profile": "https://github.com/Degoogle-your-life",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
