@@ -186,6 +186,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-web",
+      "name": "Seanpm2001 web software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80805235?v=4",
+      "profile": "https://ddg.gg",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
