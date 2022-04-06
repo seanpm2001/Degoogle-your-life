@@ -522,6 +522,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-Ecosia",
+      "name": "Seanpm2001 Ecosia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87099061?v=4",
+      "profile": "https://github.com/seanpm2001/SeansLifeArchive_Images_Ecosia",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
