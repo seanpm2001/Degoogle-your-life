@@ -102,6 +102,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-android",
+      "name": "Seanpm2001 Android (Google)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83522565?v=4",
+      "profile": "https://github.com/seanpm2001/Why-you-should-stop-using-Android",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
