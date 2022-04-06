@@ -228,6 +228,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-HTML5-lang",
+      "name": "Seanpm2001 HTML5 projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83990679?v=4",
+      "profile": "https://en.wikipedia.org/wiki/HTML5",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
