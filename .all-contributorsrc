@@ -284,6 +284,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-starlark-lang",
+      "name": "Seanpm2001 Starlark language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88996715?v=4",
+      "profile": "https://github.com/Seanpm2001-Starlark-lang",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
