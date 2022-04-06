@@ -480,6 +480,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-social",
+      "name": "Seanpm2001 Social",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85585419?v=4",
+      "profile": "https://github.com/Seanpm2001-Social",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
