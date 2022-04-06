@@ -536,6 +536,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-SearchEngines",
+      "name": "Seanpm2001 Search Engines",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86497891?v=4",
+      "profile": "https://github.com/seanpm2001/SNU_Supersearch",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
