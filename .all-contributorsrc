@@ -508,6 +508,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-DDG",
+      "name": "Seanpm2001 DDG (DuckDuckGo)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84996802?v=4",
+      "profile": "https://duckduckgo.com/",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
