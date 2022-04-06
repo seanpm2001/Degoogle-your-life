@@ -74,6 +74,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "what-the-floc",
+      "name": "What the FLoC (Federated Learning of Cohorts)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90883190?v=4",
+      "profile": "https://github.com/seanpm2001/What-the-FLoC",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
