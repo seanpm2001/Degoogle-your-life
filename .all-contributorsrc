@@ -242,6 +242,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-Go-lang",
+      "name": "Seanpm2001 Go! language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85462615?v=4",
+      "profile": "https://en.wikipedia.org/wiki/Go!_(programming_language)#Conflict_with_Google",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
