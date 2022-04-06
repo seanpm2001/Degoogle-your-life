@@ -60,6 +60,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "its-time-to-cut-widevine-drm",
+      "name": "It is time to cut WideVine DRM ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90575832?v=4",
+      "profile": "https://github.com/Degoogle-your-life",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
