@@ -326,6 +326,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-research",
+      "name": "Seanpm2001 research facility",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82013182?v=4",
+      "profile": "https://github.com/organizations/Seanpm2001-research/",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
