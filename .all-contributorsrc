@@ -144,6 +144,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-privacy",
+      "name": "Seanpm2001 Privacy Center",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83519331?v=4",
+      "profile": "https://github.com/seanpm2001/Degoogle-your-life",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
