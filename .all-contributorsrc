@@ -438,6 +438,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-Makefile-lang",
+      "name": "Seanpm2001 Makefile language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85372130?v=4",
+      "profile": "https://github.com/seanpm2001/Makefile_Testing",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
