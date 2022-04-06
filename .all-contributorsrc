@@ -214,6 +214,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-documentation",
+      "name": "Seanpm2001 Documentation",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86445422?v=4",
+      "profile": "https://github.com/Seanpm2001-Documentation",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
