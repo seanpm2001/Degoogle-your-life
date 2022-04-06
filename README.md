@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1297,6 +1297,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Seanpm2001-Starlark-lang"><img src="https://avatars.githubusercontent.com/u/88996715?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Starlark language</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-starlark-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-starlark-lang" title="Documentation">📖</a> <a href="#platform-seanpm2001-starlark-lang" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-starlark-lang" title="Content">🖋</a> <a href="#design-seanpm2001-starlark-lang" title="Design">🎨</a> <a href="#maintenance-seanpm2001-starlark-lang" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Blockly"><img src="https://avatars.githubusercontent.com/u/85259350?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Blockly language</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-Blockly-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-Blockly-lang" title="Documentation">📖</a> <a href="#platform-seanpm2001-Blockly-lang" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-Blockly-lang" title="Content">🖋</a> <a href="#design-seanpm2001-Blockly-lang" title="Design">🎨</a> <a href="#maintenance-seanpm2001-Blockly-lang" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
