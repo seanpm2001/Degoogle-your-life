@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1315,6 +1315,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Seanpm2001-Social"><img src="https://avatars.githubusercontent.com/u/85585419?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Social</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-social" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-social" title="Documentation">📖</a> <a href="#platform-seanpm2001-social" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-social" title="Content">🖋</a> <a href="#design-seanpm2001-social" title="Design">🎨</a> <a href="#maintenance-seanpm2001-social" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://duck.com"><img src="https://avatars.githubusercontent.com/u/84941292?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 DuckDuckGo</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-DuckDuckGo" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-DuckDuckGo" title="Documentation">📖</a> <a href="#platform-seanpm2001-DuckDuckGo" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-DuckDuckGo" title="Content">🖋</a> <a href="#design-seanpm2001-DuckDuckGo" title="Design">🎨</a> <a href="#maintenance-seanpm2001-DuckDuckGo" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
