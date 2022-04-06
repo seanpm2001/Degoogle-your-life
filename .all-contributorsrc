@@ -354,6 +354,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "seanpm2001-security",
+      "name": "Seanpm2001 Security",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85585537?v=4",
+      "profile": "https://github.com/seanwallawalla-security",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
