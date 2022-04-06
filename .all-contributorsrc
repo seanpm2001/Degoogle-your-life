@@ -116,6 +116,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "candroid-dev",
+      "name": "Candroid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84545131?v=4",
+      "profile": "https://github.com/seanpm2001/Candroid",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
