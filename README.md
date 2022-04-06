@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1306,6 +1306,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/seanpm2001"><img src="https://avatars.githubusercontent.com/u/83986547?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001s most developed projects</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-mostdeveloped" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=seanpm2001-mostdeveloped" title="Documentation">📖</a> <a href="#platform-seanpm2001-mostdeveloped" title="Packaging/porting to new platform">📦</a> <a href="#content-seanpm2001-mostdeveloped" title="Content">🖋</a> <a href="#design-seanpm2001-mostdeveloped" title="Design">🎨</a> <a href="#maintenance-seanpm2001-mostdeveloped" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Go-ogle"><img src="https://avatars.githubusercontent.com/u/84747276?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Go!ogle Search engine</b></sub></a><br /><a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=Go-ogle-engine" title="Code">💻</a> <a href="https://github.com/seanpm2001/Degoogle-your-life/commits?author=Go-ogle-engine" title="Documentation">📖</a> <a href="#platform-Go-ogle-engine" title="Packaging/porting to new platform">📦</a> <a href="#content-Go-ogle-engine" title="Content">🖋</a> <a href="#design-Go-ogle-engine" title="Design">🎨</a> <a href="#maintenance-Go-ogle-engine" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
