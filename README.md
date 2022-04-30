@@ -56,9 +56,9 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 > [01.2 - Wuest3NFuchs description overview](#Overview-by-Wuest3nFuchs)
 
-> > [01.2.1 - What does it mean?](#What-does-it-mean--by-Wuest3nFuchs)
+> > [01.2.1 - What does it mean?](#what-does-it-mean-by-wuest3nfuchs)
 
-> > [01.2.2 - Why Degoogle?](#Why-Degoogle--by-Wuest3nFuchs)
+> > [01.2.2 - Why Degoogle?](#why-degoogle-by-wuest3nfuchs)
 
 [02.0 - Articles](#Articles)
 
