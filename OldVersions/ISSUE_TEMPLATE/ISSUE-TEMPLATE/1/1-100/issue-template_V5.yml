@@ -1,0 +1,200 @@
+name: General issue
+description: Report a bug or other issue/Opening an issue in this SNU Programming Tools IDE project
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Unknown
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        To rule out invalid issues, confirm and check each one of the checkboxes.
+      options:
+        - label: I verified that this is not an existing issue
+          required: true
+        - label: This is not a [question, poll, or discussion](https://github.com/seanpm2001/SNU_2D_ProgrammingTools/discussions/)
+          required: true
+        - label: I checked the [documentation](https://github.com/seanpm2001/SNU_2D_ProgrammingTools/tree/master/Docs/) to understand that the issue I report is not a normal behavior
+          required: true
+    validations:
+      required: true
+   
+  - type: checkboxes
+    attributes:
+      label: I tried to reproduce the issue when...
+      options:
+        - label: The repository was downloaded to my device/was viewing through the web browser
+          required: true
+        - label: I was using the latest version of the project
+          required: true
+        - label: I was using the version from the right source
+          required: false
+        - label: I did not modify the project
+          required: false
+  - type: textarea
+    attributes:
+      label: Description
+      description: Description of the bug or feature. Please also list the version of the programming language you tested with.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. [First Step]
+        2. [Second Step]
+        3. [and so on...]
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected Results
+      description: What you expected to happen, example - no error is thrown
+      placeholder: |
+        1. [First Step]
+        2. [Second Step]
+        3. [and so on...]
+      validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Actual results
+      description: What actually happened, error is thrown
+    validations:
+      required: true  
+
+  - type: input
+    attributes:
+      label: Git-image repository version
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: Browsers effected, please open an issue in [SNU BrowserNose](https://github.com/seanpm2001/SNU_BrowserNose) as well, if BrowserNose fails to do the task.
+      options:
+        label: Tor
+        required: false
+        label: Mozilla Firefox
+        required: false
+        label: SeaMonkey
+        required: false
+        label: Pale Moon
+        required: false
+        label: TenFourFox
+        required: false
+        label: Konquerer
+        required: false
+        label: Line Mode Browser
+        required: false
+        label: IceWeasel/IceCat
+        required: false
+        label: IceRaven
+        required: false
+        label: DuckDuckGo
+        required: false
+        label: Safari
+        required: false
+        label: Netscape Navigator
+        required: false
+        label: Nexus
+        required: false
+        label: SlimJet
+        required: false
+        label: AOL Explorer
+        required: false
+        label: Opera Mini
+        required: false
+        label: Android stock browser
+        required: false
+        label: Dot browser
+        required: false
+        label: Microsoft Edge
+        required: false
+        label: Opera
+        required: false
+        label: Samsung Internet
+        required: false
+        label: Google Chrome
+        required: false
+        label: Google Chromium
+        required: false
+        label: Internet Explorer
+        required: false
+        label: Other
+        required: false
+        validations:
+          required: true
+
+  - type: input
+    attributes:
+      label: Specify the specific browser version down to the last number (example Firefox 88.0.1esr)
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: I am running this repository in a virtual machine...
+      options:
+        - label: Yes (with Oracle VM VirtualBox)
+          required: false
+        - label: Yes (with VMWare)
+          required: false
+        - label: Yes (with Hyper-V)
+          required: false
+        - label: Yes (with Qemu)
+          required: false
+        - label: Yes (with another virtual machine option that isn't listed)
+          required: false
+        - label: No (I am running it on my host computer)
+          required: false
+
+  - type: textarea
+    attributes:
+      label: Additional virtual machine configuration
+      placeholder: |
+        Sample (overwrite this)
+        Microsoft Windows XP Service Pack 3
+        Registry modification for activation
+        Internet Explorer 6
+        VirtualBox 6.1.20 (64 bit)
+        512 MB RAM
+        32 Gigabyte disk space
+        Host operating system: Kubuntu 22.04
+        VirtualBox guest additions? Installed
+        Internet type: Broadband
+        Specific error: Page won't load, things aren't displaying correctly, see above validations:
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Version used
+      placeholder: |
+      	What version are you using? (supported versions only)
+    validations:
+      required: true
+
+    attributes:
+      label: Validate issue
+      options:
+        - label: I have filled out all the fields
+          required: true
+        - label: I agree to the terms of the [GPL3 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
+          required: true
+        - label: I have confirmed this issue isn't a duplicate
+          required: true         
+        - label: I agree to follow the [code of conduct](https://github.com/seanpm2001/CODE_OF_CONDUCT.md)
+          required: true
+        - label: I want my answer to be archived into the repository
+          required: false
+
+# Issue template info
+# 5B (2022, Thursday, May 19th at 6:58 pm PST)
+# File type: YAML document (*.yml *.yaml)
+# Line  count (including blank lines and compiler line): 201
+# File purpose: Serving as a modern issue template for this project.
