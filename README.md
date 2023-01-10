@@ -4,13 +4,49 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
-![/DEGOOGLE1.jpeg](/DEGOOGLE1.jpeg)
+<!-- | ![/DEGOOGLE1.jpeg](/DEGOOGLE1.jpeg) | ![Anti-Google_Icon2015_1024px_V1_HighCompression.png](/Anti-Google_Icon2015_1024px_V1_HighCompression.png) !-->
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
+| <img alt="Old DeGoogle logo failed to load. Click/tap here to attempt to view it" src="/DEGOOGLE1.jpeg" width="200" height="200"/> | <img alt="2015 DeGoogle logo failed to load. Click/tap here to attempt to view it" src="/Anti-Google_Icon2015_1024px_V1_HighCompression.png" width="200" height="200"/> |
+|---|---|
+| [`Old logo variant`](/DEGOOGLE1.jpeg) | [`New (2015) logo variant`](/Anti-Google_Icon2015_1024px_V1_HighCompression.png) |
+
+</details>
 
 # Degoogling - Degoogle your life
 
 This is the main degoogling article for general degoogling info and a link to the other articles.
 
-[See the list as a GitHub organization](https://github.com/Degoogle-your-life/)
+( [#Degoogle-your-life](https://github.com/topics/degoogle-your-life) [#Degoogle](https://github.com/topics/degoogle) [#Degoogling](https://github.com/topics/degoogling) [#Degoogled](https://github.com/topics/degoogled) <!-- [Degoogle your life project](https://github.com/Degoogle-your-life/) !--> [DeGoogle your Life project](https://github.com/seanpm2001/DeGoogle-your-Life/) )
+
+<!-- [See the list as a GitHub organization](https://github.com/Degoogle-your-life/) !-->
+
+**View articles by catalog**
+
+- [:octocat: `Catalog of only current Google products (seanpm2001)`](https://github.com/seanpm2001/DeGoogle-your-life-Current-Catalogue/) 🧿️
+- [:octocat: `Catalog of only discontinued Google products (seanpm2001)`](https://github.com/seanpm2001/DeGoogle-your-life-Graveyard-catalogue/) 🪦️
+- [:octocat: `Catalog of all Google products (seanpm2001)`](https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue/) 🧿️ & 🪦️
+
+**Mirrors of catalogs**
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+**GitHub**
+
+- [:octocat: `(seanwallawalla) Catalog of only current Google products`](https://github.com/seanwallawalla/DeGoogle-your-life-Current-Catalogue/)
+- [:octocat: `(seanwallawalla) CCatalog of only discontinued Google products`](https://github.com/seanwallawalla/DeGoogle-your-life-Graveyard-catalogue/)
+- [:octocat: `(seanwallawalla) CCatalog of all Google products`](https://github.com/seanwallawalla/DeGoogle-your-life-Full-catalogue/)
+
+**GitLab**
+
+- **Coming soon**
+
+**Other**
+
+- **Coming soon**
+
+</details>
 
 ***
 
@@ -18,8 +54,7 @@ _Read this article in a different language:_
 
 **Current language is:** `English (US)` _(translations may need to be corrected to fix English replacing the correct language)_
 
-<details open>
-<summary>[Click/tap here to expand/collapse the language list]</summary>
+<details open><summary>[Click/tap here to expand/collapse the language list]</summary>
 
 _🌐 List of languages_
 
@@ -43,8 +78,7 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 ## Index
 
-<details open>
-<summary>[Click/tap here to expand/collapse the Index]</summary>
+<details open><summary>[Click/tap here to expand/collapse the Index]</summary>
 
 [00.0 - Title](#Degoogling---Degoogle-your-life)
 
@@ -54,11 +88,13 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 > [01.1 - Repository header](#Degoogle-your-life)
 
-> [01.2 - Wuest3NFuchs description overview](#Overview-by-Wuest3nFuchs)
+> [01.2 - DeGoogle Ranking Scale](#DeGoogle-ranking-scale)
 
-> > [01.2.1 - What does it mean?](#what-does-it-mean-by-wuest3nfuchs)
+> [01.23- Wuest3NFuchs description overview](#Overview-by-Wuest3nFuchs)
 
-> > [01.2.2 - Why Degoogle?](#why-degoogle-by-wuest3nfuchs)
+> > [01.3.1 - What does it mean?](#what-does-it-mean-by-wuest3nfuchs)
+
+> > [01.3.2 - Why Degoogle?](#why-degoogle-by-wuest3nfuchs)
 
 [02.0 - Articles](#Articles)
 
@@ -124,33 +160,39 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 [19.0 - Google is automated and why this is bad](#Google-is-automated)
 
-[20.0 - Small actions to help](#Small-actions-to-help)
+[20.0 - Google is a monopoly](#Google-is-a-monopoly)
 
-> [20.1 - Slacktivism](#Slacktivism)
+> [20.1 - List of acquisitions and mergers by Google/Alphabet Inc](#List-of-acquisitions-and-mergers-by-Alphabet-Google)
 
-> [20.2 - Doing something](#Doing-something)
+[21.0 - Small actions to help](#Small-actions-to-help)
 
-[21.0 - Untrustable](#Untrustable)
+> [21.1 - Slacktivism](#Slacktivism)
 
-[22.0 - Other things to check out](#Other-things-to-check-out)
+> [21.2 - Doing something](#Doing-something)
 
-[23.0 - File info](#File-info)
+[22.0 - Untrustable](#Untrustable)
 
-> [23.1 - Software status](#Software-status)
+[23.0 - Other things to check out](#Other-things-to-check-out)
 
-> [23.2 - Sponsor info](#Sponsor-info)
+[24.0 - File info](#File-info)
 
-[24.0 - File history](#File-history)
+> [24.1 - Software status](#Software-status)
 
-[25.0 - Footer](#Footer)
+> [24.2 - Sponsor info](#Sponsor-info)
 
-> [25.9 - EOF](#EOF)
+[25.0 - File history](#File-history)
+
+[26.0 - Footer](#Footer)
+
+> [26.9 - EOF](#EOF)
 
 </details>
 
 ***
 
 ## Basic description
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 [From Wikipedia: Degoogle](https://en.wikipedia.org/wiki/DeGoogle/)
 
@@ -160,22 +202,67 @@ The DeGoogle movement (also called the de-Google movement) is a grassroots campa
 
 In 2013, John Koetsier of Venturebeat said Amazon's Kindle Fire Android-based tablet was "a de-Google-ized version of Android." In 2014 John Simpson of US News wrote about the “right to be forgotten” by Google and other search engines. In 2015, Derek Scally of Irish Times wrote an article on how to "De-Google your life." In 2016 Kris Carlon of Android Authority suggested that users of CyanogenMod 14 could “de-Google” their phones, because CyanogenMod works fine without Google apps too. In 2018 Nick Lucchesi of Inverse wrote about how ProtonMail was promoting how to "be able to completely de-Google-fy your life.” Lifehacker's Brendan Hesse wrote a detailed tutorial on "quitting Google." Gizmodo journalist Kashmir Hill claims that she missed meetings and had difficulties organizing meet ups without the use of Google Calendar. In 2019, Huawei gave a refund to phone owners in the Philippines who were inhibited from using services provided by Google because so few alternatives exist that the absence of the company's products made normal internet use unfeasible.
 
+</details>
+
 ***
 
 # Degoogle-your-life
 A repository for general degoogling info and links to my other degoogling repositories.
 
+### DeGoogle ranking scale
+
+[`Excerpt from seanpm2001/DeGoogle-Ranking-Scale`](https://github.com/seanpm2001/DeGoogle-Ranking-Scale#readme)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the legend</b></p></summary>
+
+![10Scale_Legend_V2.svg](/Graphics/Degoogle-your-life/DeGoogle_Ranking_Scale/Legend/10Scale_Legend_V2.svg)
+
+</details>
+
+<details open><summary><p><b>Click/tap here to expand/collapse the article</b></p></summary>
+
+The DeGoogle ranking is a 1-10 scale of how far one is willing to go to rid their life of Google. It is also used to determine the level of DeGoogling an article about Google is.
+
+On a scale of 1 to 10, how much of a DeGoogler are you?
+
+- **Level 1:** _Google Fanatic_ - Not worried about DeGoogling at all, will go for every Google product and service, and possibly go against DeGooglers
+- **Level 2:** _Google Cautious_ - A little worried about Google, will rid their life of some Google services, but not all. Will still use some Google Services, and may or may not block Google trackers
+- **Level 3:** _Google Anxious_ - Worried about Google, and will rid their life of Google services up to their comfort level.
+- **Level 4:** _Meek Anti-Google_ - Will cut out as many Google products from their life as they can, and possibly turn down jobs that use Google services
+- **Level 5:** _Weak Anti-Google_ - Will cut out all Google products from their life, except for difficult ones to get rid of, such as YouTube, or Android
+- **Level 6:** _Medium Anti-Google_ - Will cut out all Google products from their life, and will actively try to avoid Android and YouTube as well
+- **Level 7:** _DeGoogler_ - Successfully cut out all Google products from their life, and will prevent themselves from getting into any other Google products
+- **Level 8:** _DeGoogler strong_ - Has cut out all Google products from their life, not trying new Google services, and actively avoiding other services that have a strong emphasis on Google functionality. Will even turn down job offers that involve usage of Google products and services.
+- **Level 9:** _Strict DeGoogler_ - Has cut out all Google products from their life, avoids all possible connections and pings to Google, won't use Google services, actively avoids sites that have a strong emphasis on Google functionality, will even block Google fonts and graphics
+- **Level 10**: _Pure anti-Google_ - Will go to the point where they won't enter a different room or building that uses Google products or services, or displays the word Google anywhere. Will not use anything Google, even fonts and graphics, will turn down Google related jobs, will go the point of total social isolation to prevent Google from entering their lives.
+
+> **Note** It is not recommended to go above level 9. Level 10 is the strictest level, and is considered unhealthy
+
+</details>
+
 ***
 
-## Overview by Wuest3nFuchs
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
+### Overview by Wuest3nFuchs
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 A better description, provided by [Wuest3nFuchs](https://github.com/Wuest3nFuchs/) - source: [Wuest3nFuchs/Degoogle](https://github.com/Wuest3nFuchs/Degoogle/)
 
-### What does it mean? by Wuest3nFuchs
+</details>
+
+#### What does it mean? by Wuest3nFuchs
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 [Degoogling means](https://en.wikipedia.org/wiki/DeGoogle) to stop using anything that belongs to Google, anything that was made by Google. I'm talking about their [search engine](https://en.wikipedia.org/wiki/Google_Search), their mail service ([Gmail](https://en.wikipedia.org/wiki/Gmail), [Youtube](https://en.wikipedia.org/wiki/Criticism_of_Google#YouTube), [etc](https://en.wikipedia.org/wiki/List_of_Google_products).
 
-### Why Degoogle? by Wuest3nFuchs
+</details>
+
+#### Why Degoogle? by Wuest3nFuchs
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 Google is one of the most powerful companies in the world right now. [They](https://www.cnbc.com/2017/11/20/what-does-google-know-about-me.html) [have](https://vulcanpost.com/636465/google-personal-info/) stored a huge amount of [information](https://www.security-faqs.com/how-many-ways-does-google-store-your-personal-information.html) [on](https://www.cnet.com/how-to/google-collects-a-frightening-amount-of-data-about-you-you-can-find-and-delete-it-now/) [all](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy) [of](https://www.nbcnews.com/tech/tech-news/google-sells-future-powered-your-personal-data-n870501) [us](https://www.wired.com/story/google-tracks-you-privacy/). Some would argue that our information is safe with them because they know how to protect it. But this isn't true. Google has been penetrated before and it will be penetrated in the future. Maybe not by some script kiddie but it will be done by a nation state. Google stores personal information on all of us because this is how they make money.
 
@@ -190,15 +277,25 @@ In the future someone will be capable of accessing all that information and I as
 
 <!-- A link to the fork is currently not listed, as I do not own this repository entirely, and want to promote other sources. It would be selfish to link to my own https://github.com/Degoogle-your-life/Degoogle !-->
 
+</details>
+
+</details>
+
 ***
 
 ## Articles
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 ### Article status
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 _All articles are currently a work in progress and need massive improvements. Suggestions and fixes are allowed._
 
 _As of April 18th 2021 at 4:09 pm, most articles haven't been started yet. I am working on finding time and effort to start them._
+
+[See also: `Full list of repositories`](/REPO_LIST.urll)
 
 [Why you should stop using Google Chrome](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome) <!-- 1 !-->
 
@@ -334,7 +431,29 @@ _As of April 18th 2021 at 4:09 pm, most articles haven't been started yet. I am 
 
 [Google security issues](https://github.com/seanpm2001/Google-security-issues) <!-- 65 !-->
 
-**Total articles:** `65`
+<!-- More entries in between here possibly !-->
+
+[Problems with the Google Knowledge Graph](https://github.com/seanpm2001/Problems-with-the-Google-Knowledge-Graph/) <!-- 66 !-->
+
+[Why you should avoid Google News](https://github.com/seanpm2001/Why-you-should-avoid-Google-News/) <!-- 67 !-->
+
+[Why you should stop using Google Images](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Images/) <!-- 68 !-->
+
+[Why you should stop using Google Movies](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Movies/) <!-- 69 !-->
+
+[DeGoogle your Life current catalog](https://github.com/seanpm2001/DeGoogle-your-life-Current-Catalogue/) <!-- 70 !-->
+
+[DeGoogle your Life Graveyard catalog](https://github.com/seanpm2001/DeGoogle-your-life-Graveyard-catalogue/) <!-- 71 !-->
+
+[DeGoogle your Life full catalog](https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue/) <!-- 72 !-->
+
+[DeGoogle Ranking scale](https://github.com/seanpm2001/DeGoogle-Ranking-Scale/) <!-- 73 !-->
+
+[Why you should stop using Google Looker](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Looker/) <!-- 74 !-->
+
+[Why you should stop using Google Safe Browsing](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Safe-Browsing) <!-- 75 !-->
+
+**Total articles:** `75` _(there should be 78, this list has some missing entries)_
 
 **Article [roadmap AB](DegoogleCampaign_2021Roadmap_Part1.md) (up to March 12th 2021) 2 days off** 
 
@@ -418,9 +537,15 @@ Expanding my Degoogle network, and adding some ease of access, and community sho
 
 [Ecosia](https://www.ecosia.org/)
 
+</details>
+
+</details>
+
 ***
 
 ## Privacy
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 [G](https://en.wikipedia.org/wiki/Criticism_of_Google)[o](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))[o](https://www.reddit.com/r/degoogle/)[g](https://www.wired.com/2012/06/opinion-google-is-evil/)[l](https://securitygladiators.com/chrome-privacy-bad/)[e](https://www.zdnet.com/article/goodbye-google-why-and-how-to-take-back-your-privacy/) [h](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy)[a](https://www.vox.com/recode/2020/2/21/21146998/google-new-mexico-children-privacy-school-chromebook-lawsuit)[s](https://www.eff.org/deeplinks/2019/08/dont-play-googles-privacy-sandbox-1) [a](https://money.cnn.com/2017/10/11/technology/google-home-mini-security-flaw/index.html) [v](https://www.huffpost.com/entry/why-googles-spying-on-use_b_3530296)[e](https://medium.com/digiprivacy/i-stopped-using-google-as-my-search-engine-heres-why-7a3a1b4fef81)[r](https://www.theguardian.com/technology/2019/nov/05/fitbit-google-acquisition-health-data)[y](https://www.computerworld.com/article/3128791/how-google-homes-always-on-will-affect-privacy.html) [v](https://protonmail.com/blog/google-privacy-problem/)[e](https://www.forbes.com/sites/gordonkelly/2020/02/23/google-chrome-80-upgrade-deep-linking-update-chrome-browser/)[r](https://www.wired.co.uk/article/duckduckgo-google-alternative-search-privacy)[y](https://en.wikipedia.org/wiki/Nothing_to_hide_argument#Criticism) [b](https://spreadprivacy.com/three-reasons-why-the-nothing-to-hide-argument-is-flawed/)[a](https://eduzaurus.com/free-essay-samples/nothing-to-hide-argument-has-nothing-to-say/)[d](https://www.cnet.com/how-to/google-collects-a-frightening-amount-of-data-about-you-you-can-find-and-delete-it-now/) [r](https://www.nbcnews.com/tech/tech-news/google-sells-future-powered-your-personal-data-n870501)[e](https://www.eff.org/deeplinks/2020/03/google-says-it-doesnt-sell-your-data-heres-how-company-shares-monetizes-and)[c](https://www.wired.com/story/google-tracks-you-privacy/)[o](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy)[r](https://www.dailymail.co.uk/sciencetech/article-5743829/Googles-vision-TOTAL-data-collection-revealed.html)[d](https://www.reuters.com/article/us-alphabet-google-privacy-lawsuit-idUSKBN23933H) [w](https://www.wired.com/story/health-fitness-data-privacy/)[h](https://www.pcmag.com/news/google-sued-over-kids-data-collection-on-education-chromebooks)[e](https://mashable.com/article/google-android-data-collection-study/)[n](https://www.engadget.com/australian-government-google-data-collection-lawsuit-182043643.html) [i](https://www.maketecheasier.com/studyandroid-data-google-ios-apple/)[t](https://www.washingtonpost.com/technology/2019/07/23/never-googlers-web-users-take-ultimate-step-guard-their-data/) [c](https://www.cnn.com/2019/11/12/business/google-project-nightingale-ascension/index.html)[o](https://en.wikipedia.org/wiki/2018_Google_data_breach)[m](https://moz.com/blog/where-does-google-draw-the-data-collection-line)[e](https://mashable.com/article/google-android-data-collection-study/)[s](https://eandt.theiet.org/content/articles/2020/06/google-sued-over-data-collection-from-users-in-incognito-mode/) [t](https://www.nytimes.com/2019/01/21/technology/google-europe-gdpr-fine.html)[o](https://www.bloomberg.com/news/articles/2017-11-30/google-sued-over-data-claims-on-behalf-of-5-million-iphone-users) [u](https://time.com/23782/google-flu-trends-big-data-problems/)[s](https://www.reuters.com/article/dataprivacy-googleyoutube-kidsdata-idUSL1N2J306W)[e](https://www.adweek.com/performance-marketing/google-is-collecting-your-data-even-when-your-phone-isnt-in-use/)[r](https://www.computerworld.com/article/2914838/project-fi-will-help-google-amass-even-more-data-about-you.html) [p](https://topclassactions.com/lawsuit-settlements/privacy/google-says-class-action-lawsuit-plaintiffs-consented-to-data-collection/)[r](https://arstechnica.com/information-technology/2014/01/what-google-can-really-do-with-nest-or-really-nests-data/)[i](https://www.cbsnews.com/news/google-education-spies-on-collects-data-on-millions-of-kids-alleges-lawsuit-new-mexico-attorney-general/)[v](https://www.nationalreview.com/2018/04/the-student-data-mining-scandal-under-our-noses/)[a](https://www.wired.com/insights/2012/10/google-opt-out/)[c](https://www.nytimes.com/2019/09/04/technology/google-youtube-fine-ftc.html)[y](https://medium.com/@hansdezwart/during-world-war-ii-we-did-have-something-to-hide-40689565c550)[.](https://medium.com/digitalprivacywise/why-you-should-stop-using-google-chrome-6c934c9a827c) (I could go on and on with evidence of this, but it took a long time to find and go through all these articles)
 
@@ -450,35 +575,63 @@ If you think you have nothing to hide, **you are absolutely wrong**. This argume
 
 8. Ignacio Cofone, law professor, argues that the argument is mistaken in its own terms because, whenever people disclose relevant information to others, they also disclose irrelevant information. This irrelevant information has privacy costs and can lead to other harms, such as discrimination.
 
+</details>
+
 ***
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 ## Other anti-Google campaigns
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 This is a list of other notable anti-Google campaigns. This list is incomplete. You can help by expanding it.
 
+</details>
+
 ### Defunct
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 [Scroogled - By Microsoft (November 2012 to 2014)](https://en.wikipedia.org/wiki/Scroogled)
 
 _No other entries at the moment._
 
+</details>
+
 ### Ongoing
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 [Spread Privacy - By DuckDuckGo (?/2019-present)](https://spreadprivacy.com/)
 
 [Degoogle your Life (grassroots)](/404.html) - No link is available, as this is a grassroots movement, meaning it has no official websit. It can be anyone in the world who respects privacy and dislikes Google enough, they don't have to tell you to be a part of the movement. The link provided will take you to the 404 page for this site.
 
-[Degoogle Your Life - By Seanpm2001 (February 2021-present](https://github.com/Degoogle-your-life)
+<!-- [Degoogle Your Life - By Seanpm2001 (February 2021-present](https://github.com/Degoogle-your-life) !-->
+
+[Degoogle Your Life - By Seanpm2001 (February 2021-present](https://github.com/seanpm2001/Degoogle-your-life) !-->
 
 _No other entries at the moment._
 
+</details>
+
+</details>
+
 ***
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 ## Countering other arguments
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 There are some arguments people make to justify Google. One of the first major one is already debunked [here](#Privacy) but here are some other ones:
 
+</details>
+
 ### Convenience
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 Yes, Google products seem convenient. However, you are trading everything good for convenience, including security, privacy, and reliability. Google has been getting lazier over the years, and their servers have gone down more and more. Right now, the Google servers go down for nearly an hour 1-2 times per month (most notably YouTube)
 
@@ -488,21 +641,35 @@ Convenience isn't always a good thing. You should be aware of what is going on a
 
 Google also isn't as convenient as you think. There are other much more convenient sites. Google is far from convenient, when you account their random account suspensions and terminations with no response (unless you draw enough attention to the Google twitter account or sue them for $100,000,000 or more) then they have taken advantage of you, screwed you over, and forced you to scream into a pillow, where no-one could hear your screams for help.
 
+</details>
+
 ### Why does it matter, its too late anyways
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 This is a less common argument, but it needs explanation. With the current state, most world governments, along with several powerful corporations seem to know your every move, so why even bother to get away from it? The answer is simple: **you deserve better**. If you manage to get away from them at this point, it is harder for them to track your moves further, and you can build a new more private life.
 
 [1 source](https://www.reddit.com/r/degoogle/comments/huk4rp/why_you_should_degoogle_intro_degoogling/) By the way, I have been giving my free Reddit award to this post every time I get it for over a week now (along with all 500 of my free coins) to boost this topic up further. So far, I have given this post over 14 free awards. It isn't much, but small things can make a big impact, depending on how it is perceived, and by whom.
 
+</details>
+
 ### Other
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 I don't have any other arguments at the moment.
 
-_This list is incomplete_
+> **Note** _This list is incomplete_
+
+</details>
+
+</details>
 
 ***
 
 ## Sources
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 Copy:
 
@@ -512,27 +679,40 @@ Other sources:
 
 [Five eyes Alliance/](https://en.wikipedia.org/wiki/Five_Eyes)[Nineteen eighty four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four/)
 
+</details>
+
 ***
 
 ## Download links
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 [Get Firefox](https://www.mozilla.org/en-US/firefox/new/)[Get Tor browser](https://www.torproject.org/download/)[Other/unavailable](https://www.example.com)
+
+</details>
 
 ***
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 ## My degoogling experience
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 I finally started to see the problems with big tech in 2018, and I began degoogling. In the first few months, I made significant progress. It slowed down immensely since then.
 
+</details>
 
 ### What I switched from
 
-Update to /Degoogle-your-life/
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
+<!-- Update to /Degoogle-your-life/
 
 //:Switching.software
 //:SpreadPrivacy
 :Slacktivism can be good when paired with activism, although if you literally can't be an activist, you can at least be a slacktivist
-
+!-->
 
 Google Chrome -> Firefox/Tor
 
@@ -598,7 +778,11 @@ _List may be incomplete._
 
 **June 2021 update:** I have been doing a lot of switching between file services, recently settling back on Google Drive, but due to Chromium sync and dominance, the unsafeness of this method, and the future of Google outside Google Chrome, I forced myself to regain control, and switched back to full SD card backups, with AndrOpen Office replacing Microsoft Word after a few months of problems. Despite the ad festation before I open the document, it is the only way, as I can't use Google, and I can't pay for Microsoft Office. It is the only OpenOffice fork I can find for Android, and I like the interface due to its early 2000s design. Eventually, I will convert my Android phone to an Android virtual machine and probably switch to a PinePhone.
 
+</details>
+
 ### Products I still cannot get away from
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 As of February 25th 2021, these are the Google products that are keeping me from fully degoogling:
 
@@ -620,37 +804,63 @@ As of February 25th 2021, these are the Google products that are keeping me from
 
 I have degoogled from everything else.
 
+</details>
+
+</details>
+
 ***
 
 ## Go is evil
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 Google steamrolled over the 2003 Agent Based programming language `Go!` with their programming language `Go` (from 2009, 6 years later) and claimed that their language wouldn't affect the other language at all. Google was criticized heavily for this, as their `Don't be evil` motto was still active at the time, and this is one of the many incidents that got the don't be evil Motto retired.
 
 In the end, development of `Go!` ceased, while `Go` became more and more common. Google claimed they wouldn't stramroll over `Go!` but in the end, they did, and they got away with it (as of April 9th 2021)
 
-[Read more about Go and how to alternate here](https://github.com/Degoogle-your-life/Why-you-should-stop-using-Google-Go)
+[Read more about Go and how to alternate here](https://github.com/seanpm2001/Why-you-should-stop-using-Google-Go)
+
+</details>
 
 ***
 
 ## Usage of DRM
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 Google uses DRM (Digital Restrictions Management) through their WideVine DRM "service" and other forms. The goal of DRM is to destroy the open Internet and give companies monopolistic power over users. You should get rid of WideVine completely, no matter the cost.
 
-[Read more about WideVine and its problems here](https://github.com/Degoogle-your-life/Its-time-to-cut-WideVine-DRM)
+[Read more about WideVine and its problems here](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM)
+
+</details>
 
 ***
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 ## Common misconceptions
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 This is a list of some common misconceptions with Google products.
 
+</details>
+
 ### Google is not the Internet
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 Google/Google search is not the Internet, Google search is just a search engine, kind of like how not every game for a Nintendo platform is made by Nintendo, but is licensed by Nintendo, but to a much greater extent. If all of Googles servers were to be simultaneously destroyed right now, only Google Sites like YouTube, Gmail, Google Docs, Google search, etc. would be gone, but the majority of the Internet would still be there (Wikipedia, Stackoverflow, GitHub, all of Microsofts websites, NYTimes, Samsung, TikTok, etc.) they may lose their Google sign-in and analytical functionality, but they would still be functional (unless they were poorly programmed and relied directly on Google)
+
+</details>
+
+</details>
 
 ***
 
 ## Internet Explorer 6 and Chrome
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 Google Chrome is becoming the new Internet Explorer 6. When Google Chrome originally came out, Firefox was the dominant browser, and had mostly killed off Internet Explorers marketshare (which surpassed 96% before millions of people switched to Firefox and other browsers) when Google Chrome came out, people switched due to its speed and it being by Google (which wasn't considered as evil at the time, as most privacy issues hadn't come to light yet) Google Chrome originally respected web standards (which is what Firefox did that killed off Internet Explorers 96% browser marketshare) however, as Google Chromes marketshare rose, Google began removing more and more features, adding more spyware, and stopped accepting web standards, Google Chrome has become the new Internet Explorer 6.
 
@@ -658,47 +868,75 @@ The major problem right now is websites that are Chrome only, and won't work on 
 
 Even Google themselves is making their sites Chrome only. For example, Google search will prompt you to download Chrome 3 times every 10 seconds if it detects you are not using Google Chrome (even other Chromium-based browsers such as Brave are affected) and sites like Google Earth don't allow Firefox users to use their site (as of 2020) plus Google Translate does not support voice input on Firefox, and other non-Google Chrome browsers.
 
+</details>
+
 ### The problem with Brave
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 Other browsers that are based on Chromium, such as Brave and Microsoft Edge aren't completely free of Google spyware. Brave is commonly recommended by the wrong side of the privacy community, but Brave is still a problem, as it uses Chromium. The Internet shouldn't consist of Chromium only browsers, there should be a variety of choice. Brave is the wrong way to go.
 
-[Read more about degoogling from Google Chrome/Chromium here](https://github.com/Degoogle-your-life/Why-you-should-stop-using-Chrome)
+[Read more about degoogling from Google Chrome/Chromium here](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome)
 
-[Read more about degoogling from ChromeOS/ChromiumOS (Chromebooks/Chromeboxes/Chromeblets/ChromeBits/ChromeETC) here](https://github.com/Degoogle-your-life/Stop-using-Chromebooks)
+[Read more about degoogling from ChromeOS/ChromiumOS (Chromebooks/Chromeboxes/Chromeblets/ChromeBits/ChromeETC) here](https://github.com/seanpm2001/Stop-using-Chromebooks)
+
+</details>
 
 ***
 
 ## Faux privacy renewal
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 Google has been trying to tell the world they care about privacy, after it was already too late. They continue to claim they respect user privacy, but they still aren't fixing all their privacy problems. 
 
+</details>
+
 ### Open source cannot be partial
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 Open source can't be partial. Google is proof of this. Every bit and byte of the source code must be visible to the public, with not even an 8th of a byte hidden.
 
 Projects like Android and ChromeOS are partially open source, but contain a majority of proprietary, spyware elements.
 
+</details>
+
 ### Oxymoron
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 Google VPN is an oxymoron. Google does not care about privacy, and a Virtual Private Network (VPN) from a company like them would be one of the worst possible choices for a VPN service.
+
+</details>
 
 ***
 
 ## Bad performance
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 Google does not care about the performance of their products as of at least 2017, as their last benchmarking software (Google Octane) was discontinued in 2017.
+
+</details>
 
 ***
 
 ## Bad project management
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 Google has a very bad internal project management system. Some common examples of programs that have gotten more and more downgraded include Google Duo and YouTube music (formerly Google Play Music)
 
 In Googles internal development system, 1 app leads to another app with half the functionality, then the original app gets deleted. A couple years later, a new app with 75% less functionality is made, and then the app with 50% functionality is removed, followed by a new app with 87.5% of the functionality being created, then the app with 75% functionality is discontinued, and so on.
 
+</details>
+
 ***
 
 ## Horrible or no moderation of services
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 YouTube is the most common example in the world of bad moderation creating the worst platform in existence. Google also doesn't seem to get that YouTube isn't YouTube kids.
 
@@ -718,11 +956,15 @@ Several advertisements are also very lewd, and attempt to get users (majority of
 
 Many apps use bots and astroturf their products, so whenever a bad review is made, sock puppet bot accounts will start posting 5 star reviews and attempt to negate your criticism. [Google is doing this themselves as well](#Astroturfing)
 
-[Read more about issues with Google AdSense](https://github.com/Degoogle-your-life/Why-you-should-stop-using-Google-AdSense)
+[Read more about issues with Google AdSense](https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdSense)
+
+</details>
 
 ***
 
 ## Astroturfing
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 General definition [(from Wikipedia)](https://en.wikipedia.org/wiki/Astroturfing)
 
@@ -732,35 +974,61 @@ Astroturfing is the practice of masking the sponsors of a message or organizatio
 
 Google has a history of astroturfing to make it seem like they aren't doing anything evil (in the process, astroturfing is evil) for example, posting critism of Google on a platform like Twitter (which they have an account on) will result in several accounts that have existed for a while but never posted before coming out and claiming that what you said is false, and then claiming that Google is the best company, but done in a way that it may not be obvious that these are bots to most people.
 
+</details>
+
 ***
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 ## Illegal and unethical business practices
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 Google uses illegal and unethical business practices to further their monopoly, such as using tax havens, outsourcing jobs, and continuing to do illegal invasive activities as a cost of doing business.
+
+</details>
 
 ### In Europe
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 Europe has frequently sued Google, the biggest lawsuit being against illegal behavior in Android, which resulted in Google receiving a €5,000,000,000 (equivalent to $5,947,083,703.68 in April 9th 2021 money)
+
+</details>
 
 ### In North America
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 The United States has not given nearly enough of a fine to Google yet, compared to Europes €5,000,000,000 fine.
+
+</details>
 
 ### Controversies
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 Google doesn't care about a problem until it creates a controversy, then they will make a poor attempt to fix it, just enough for the controversy to temporarily go away, and the problem then gets exponentially worse until it creates another controversy, and the cycle continues. They simply don't care enough to do anything serious about it.
+
+</details>
 
 ***
 
 ## Google is automated
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 As a company, Google is mostly automated, with less moderation than automation.
 
 A company should not be fully automated. Google is an example of this. Moderation is horrible when done only by AI, YouTube is a good example, even with the extra few (hundreds, or maybe a thousand) people moderating the site, where it is apparently so bad that most of them have to get therapy while working.
 
+</details>
+
 ***
 
 ## Android
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 Android is owned by Google. Part of the Open Handset Alliance (which hasn't been open since Android) Android has become another monopoly point for Google, and a very hard one to escape.
 
@@ -770,19 +1038,59 @@ Several projects have been created to alternate from Android, but require rootin
 
 [See my research on getting a degoogled Android virtual machine functional](https://github.com/Degoogle-your-life/Degoogled_Android_Phone_VM_Research)
 
-[See how to degoogle from Android](https://github.com/Degoogle-your-life/Why-you-should-stop-using-Android)
+[See how to degoogle from Android](https://github.com/seanpm2001/Why-you-should-stop-using-Android)
+
+</details>
 
 ***
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
+## Google is a monopoly
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
+Google is one of the big 5 tech companies of the United States. Although not legally declared a monopoly by court, they actually are one. You can't easily get away from Android, there is only 1 browser that isn't Chromium-based that has a high (but still very low) marketshare (Firefox, less than 8%) and more.
+
+</details>
+
+### List of acquisitions and mergers by Alphabet Google
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
+Alphabet is the parent company of Google. Alphabet Inc owns over 250 companies (255, as of 2023, Monday, January 9th) the full listing can be found here:
+
+[/Acquisitions_Mergers/](/Acquisitions_Mergers/)
+
+- **[2023, January 8th](/Acquisitions_Mergers/2023_01.08/)**
+- [As of 2023, January 8th (CSV)](/Acquisitions_Mergers/2023_01.08/CSV/Alphabet_Google_Acquisitions_and_mergers_as_of_2023January8th.csv)
+- [As of 2023, January 8th (ODS)](/Acquisitions_Mergers/2023_01.08/ODS/Alphabet_Google_Acquisitions_and_mergers_as_of_2023January8th.ods)
+
+</details>
+
+***
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 ## Small actions to help
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 Spreading awareness in every way you can is important. For me, I not only frequently talk about degoogling, and write articles, but I also have a small little habit, where I give my daily free Reddit award to the pinned post on r/degoogle to raise awareness. So far, I have given nearly 30 awards to the pinned post (I also spent 500 of my free coins on 10 awards for that post) this is called [slacktivism](https://en.wikipedia.org/wiki/Slacktivism) which alone isn't too helpful but it can make an impact. If possible, you should also try to get the word out, and do something other than just slacktivism
 
+</details>
+
 ### Slacktivism
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 [Slacktivism](https://en.wikipedia.org/wiki/Slacktivism) can be good when paired with activism, although if you literally can't be an activist, you can at least be a slacktivist. Slacktivism by itself isn't too helpful, but it can reach out to other people and get them to realize the issue. Although, you should at least try to do something. See below for more info.
 
+</details>
+
 ### Doing something
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 If you remain hopeless and closed minded, and decide to not even try to Degoogle, you are only siding with Google and making the problem worse. You don't have to immediately switch from all Google products, most Degooglers slowly fix 1 problem at a time, with weeks to months in between at times.
 
@@ -792,15 +1100,25 @@ Here are some helpful links for finding alternatives to Google software:
 
 _No other links at the moment_
 
+</details>
+
+</details>
+
 ***
 
 ## Untrustable
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 Google cannot be trusted, and can never be trusted ever again. They have completely gone from "don't be evil" (they were always evil) to just being completely evil and not trying to hide it.
+
+</details>
 
 ***
 
 ## Other things to check out
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 [The Google Graveyard (killedbygoogle.com) - a sorted list of the 224+ products Google has killed](https://killedbygoogle.com/)
 
@@ -812,29 +1130,39 @@ Google cannot be trusted, and can never be trusted ever again. They have complet
 
 There are other alternates, just search for them.
 
+</details>
+
 ***
 
-Some fact checking is needed for this article
+> **Note** Some fact checking is needed for this article
 
 ***
 
 ## File info
 
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
+
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `1,284`
+**Line count (including blank lines and compiler line):** `2,739`
 
-**File version:** `11 (2022, Monday, January 3rd at 3:30 pm)`
+**File version:** `63 (2023, Monday, January 9th at 4:44 pm PST)`
 
 **All times are UTC-7 (PDT/Pacific Time)** account for daylight savings time as well (it's a pain, I know)
 
 **The encoding is UTF-8 and is compatible with Unicode 5.0 and up**
 
-**You may need special rendering support for the `<dropdown` tag used in this article**
+> **Note** _on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+> **Note** **You may need special rendering support for the `<dropdown` tag used in this article**
+
+</details>
 
 ***
 
 ### Software status
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
 
@@ -848,9 +1176,13 @@ This section is used to raise awareness for the problems with DRM, and also to p
 
 Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
+</details>
+
 ***
 
 ## Sponsor info
+
+<details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
 ![SponsorButton.png](SponsorButton.png) <-- Don't click this button, it doesn't work, it is just an image. The real button is at the top of the page in the right (<- L **R** ->) corner
 
@@ -860,6 +1192,8 @@ You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-inf
 
 Try it out! The sponsor button is right up next to the watch/unwatch button.
 
+</details>
+
 ***
 
 ## File history
@@ -868,7 +1202,7 @@ This section has been collapsed to improve readability.
 
 <details><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-**Version 1 (Friday, February 19th 2021 at 5:20 pm)**
+**Version 1 (Friday, February 19th 2021 at 5:20 pm PST)**
 
 **This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -894,7 +1228,7 @@ This section has been collapsed to improve readability.
 
 > * No other changes in version 1
 
-**Version 2 (Friday, February 19th 2021 at 5:26 pm)**
+**Version 2 (Friday, February 19th 2021 at 5:26 pm PST)**
 
 **This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -926,7 +1260,7 @@ This section has been collapsed to improve readability.
 
 > * No other changes in version 2
 
-**Version 3 (Wednesday, February 24th 2021 at 7:56 pm)**
+**Version 3 (Wednesday, February 24th 2021 at 7:56 pm PST)**
 
 **This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -954,7 +1288,7 @@ This section has been collapsed to improve readability.
 
 > * No other changes in version 3
 
-**Version 4 (Thurday, February 25th 2021 at 9:31 pm)**
+**Version 4 (Thurday, February 25th 2021 at 9:31 pm PST)**
 
 **This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -972,7 +1306,7 @@ This section has been collapsed to improve readability.
 
 > * No other changes in version 4
 
-**Version 5 (Friday, April 9th 2021 at 6:02 pm)**
+**Version 5 (Friday, April 9th 2021 at 6:02 pm PST)**
 
 **This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -1042,7 +1376,7 @@ _There has been a lack of updates to the anti-Google movement from me lately, I 
 
 > * No other changes in version 5
 
-**Version 6 (Sunday, April 18th 2021 at 4:29 pm)**
+**Version 6 (Sunday, April 18th 2021 at 4:29 pm PST)**
 
 **This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -1064,7 +1398,7 @@ _There has been a lack of updates to the anti-Google movement from me lately, I 
 
 > * No other changes in version 6
 
-**Version 7 (Saturday, June 26th 2021 at 8:20 pm)**
+**Version 7 (Saturday, June 26th 2021 at 8:20 pm PST)**
 
 **This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -1094,7 +1428,7 @@ _There has been a lack of updates to the anti-Google movement from me lately, I 
 
 > * No other changes in version 7
 
-**Version 8 (2022, Monday, January 3rd at 2:57 pm)**
+**Version 8 (2022, Monday, January 3rd at 2:57 pm PST)**
 
 **This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -1108,7 +1442,7 @@ _There has been a lack of updates to the anti-Google movement from me lately, I 
 
 > * No other changes in version 8
 
-**Version 9 (2022, Monday, January 3rd at 3:01 pm)**
+**Version 9 (2022, Monday, January 3rd at 3:01 pm PST)**
 
 **This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -1122,7 +1456,7 @@ _There has been a lack of updates to the anti-Google movement from me lately, I 
 
 > * No other changes in version 9
 
-**Version 10 (2022, Monday, January 3rd at 3:05 pm)**
+**Version 10 (2022, Monday, January 3rd at 3:05 pm PST)**
 
 **This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -1136,11 +1470,11 @@ _There has been a lack of updates to the anti-Google movement from me lately, I 
 
 > * No other changes in version 10
 
-**Version 11 (2022, Monday, January 3rd at 3:30 pm)**
+**Version 11 (2022, Monday, January 3rd at 3:30 pm PST)**
 
 **This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
 
-Note: I have been working heavily on the [WideVine DRM article](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/) lately, as it is my most popular project, and my most popular DeGoogle project (currently at 29 stars)
+> **Note** I have been working heavily on the [WideVine DRM article](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/) lately, as it is my most popular project, and my most popular DeGoogle project (currently at 29 stars)
 
 > Changes:
 
@@ -1156,93 +1490,1150 @@ Note: I have been working heavily on the [WideVine DRM article](https://github.c
 
 > * No other changes in version 11
 
-Version 12 (Coming soon)
+**Version 12 (2022, Wednesday, January 19th at 4:23 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+- [x] Updated the contributor badge, changing it to 4
+- [x] Updated the contributors section
+- - [x] Added [@Gamer191](https://github.com/Gamer191/) to the contributors section
+- [ ] No other changes in version 12
 
-> * No other changes in version 12
+**Version 13 (2022, Tuesday, April 5th at 5:24 pm PST)**
 
-Version 13 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 13
-
-Version 14 (Coming soon)
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+- [x] Updated the contributor badge, changing it to 5
+- [x] Updated the contributors section
+- - [x] Added [@DeGoogle-your-Life](https://github.com/DeGoogle-your-Life/) to the contributors section
+- [ ] No other changes in version 13
 
-> * No other changes in version 14
+**Version 14 (2022, Tuesday, April 5th at 5:28 pm PST)**
 
-Version 15 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 15
-
-Version 16 (Coming soon)
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+- [x] Updated the contributor badge, changing it to 6
+- [x] Updated the contributors section
+- - [x] Added [@Its-time-to-cut-WideVine-DRM](https://github.com/Its-time-to-cut-WideVine-DRM/) to the contributors section
+- [ ] No other changes in version 14
 
-> * No other changes in version 16
+**Version 15 (2022, Tuesday, April 5th at 5:32 pm PST)**
 
-Version 17 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 17
-
-Version 18 (Coming soon)
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+- [x] Updated the contributor badge, changing it to 7
+- [x] Updated the contributors section
+- - [x] Added [@What-the-FLoC](https://github.com/What-the-FLoC/) to the contributors section
+- [ ] No other changes in version 15
 
-> * No other changes in version 18
+**Version 16 (2022, Tuesday, April 5th at 5:36 pm PST)**
 
-Version 19 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 19
-
-Version 20 (Coming soon)
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+- [x] Updated the contributor badge, changing it to 8
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Google](https://github.com/Seanpm2001-Google/) to the contributors section
+- [ ] No other changes in version 16
 
-> * No other changes in version 20
+**Version 17 (2022, Tuesday, April 5th at 5:39 pm PST)**
 
-Version 21 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 21
-
-Version 22 (Coming soon)
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+- [x] Updated the contributor badge, changing it to 9
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Android](https://github.com/Seanpm2001-Android/) to the contributors section
+- [ ] No other changes in version 17
 
-> * No other changes in version 21
+**Version 18 (2022, Tuesday, April 5th at 5:43 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 10
+- [x] Updated the contributors section
+- - [x] Added [@Candroid-dev](https://github.com/Candroid-dev/) to the contributors section
+- [ ] No other changes in version 18
+
+**Version 19 (2022, Tuesday, April 5th at 5:49 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 11
+- [x] Updated the contributors section
+- - [x] Added [@WebNetPlus](https://github.com/WebNetPlus/) to the contributors section
+- [ ] No other changes in version 19
+
+**Version 20 (2022, Tuesday, April 5th at 5:53 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 12
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Privacy](https://github.com/Seanpm2001-Privacy/) to the contributors section
+- [ ] No other changes in version 20
+
+**Version 21 (2022, Tuesday, April 5th at 5:58 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 13
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-GPL](https://github.com/Seanpm2001-GPL/) to the contributors section
+- [ ] No other changes in version 21
+
+**Version 22 (2022, Tuesday, April 5th at 6:02 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 14
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-All](https://github.com/Seanpm2001-All/) to the contributors section
+- [ ] No other changes in version 22
+
+**Version 23 (2022, Tuesday, April 5th at 6:05 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 15
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Web](https://github.com/Seanpm2001-Web/) to the contributors section
+- [ ] No other changes in version 23
+
+**Version 24 (2022, Tuesday, April 5th at 6:11 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 16
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Articles](https://github.com/Seanpm2001-Articles/) to the contributors section
+- [ ] No other changes in version 24
+
+**Version 25 (2022, Tuesday, April 5th at 6:15 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 17
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Documentation](https://github.com/Seanpm2001-Documentation/) to the contributors section
+- [ ] No other changes in version 25
+
+**Version 26 (2022, Tuesday, April 5th at 6:24 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 18
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-HTML5-lang](https://github.com/Seanpm2001-HTML5-lang/) to the contributors section
+- [ ] No other changes in version 26
+
+**Version 27 (2022, Tuesday, April 5th at 6:28 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 19
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Go-lang](https://github.com/Seanpm2001-Go-lang/) to the contributors section
+- [ ] No other changes in version 27
+
+**Version 28 (2022, Tuesday, April 5th at 6:31 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 20
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-GoogleGo-lang](https://github.com/Seanpm2001-GoogleGo-lang/) to the contributors section
+- [ ] No other changes in version 28
+
+**Version 29 (2022, Tuesday, April 5th at 6:35 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 21
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Dart-lang](https://github.com/Seanpm2001-Dart-lang/) to the contributors section
+- [ ] No other changes in version 29
+
+**Version 30 (2022, Tuesday, April 5th at 6:38 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 22
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Starlark-lang](https://github.com/Seanpm2001-Starlark-lang/) to the contributors section
+- [ ] No other changes in version 30
+
+**Version 31 (2022, Tuesday, April 5th at 6:42 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 23
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Blockly-lang](https://github.com/Seanpm2001-Blockly-lang/) to the contributors section
+- [ ] No other changes in version 31
+
+**Version 32 (2022, Tuesday, April 5th at 6:45 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 24
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-YouTube](https://github.com/Seanpm2001-YouTube/) to the contributors section
+- [ ] No other changes in version 32
+
+**Version 33 (2022, Tuesday, April 5th at 6:48 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 25
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Research](https://github.com/Seanpm2001-Research/) to the contributors section
+- [ ] No other changes in version 33
+
+**Version 34 (2022, Tuesday, April 5th at 6:52 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 26
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Browsers](https://github.com/Seanpm2001-Browsers/) to the contributors section
+- [ ] No other changes in version 34
+
+**Version 35 (2022, Tuesday, April 5th at 6:56 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 27
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Security](https://github.com/Seanpm2001-Security/) to the contributors section
+- [ ] No other changes in version 35
+
+**Version 36 (2022, Tuesday, April 5th at 6:59 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 28
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Portals](https://github.com/Seanpm2001-Portals/) to the contributors section
+- [ ] No other changes in version 36
+
+**Version 37 (2022, Tuesday, April 5th at 7:03 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 29
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-MostDeveloped](https://github.com/Seanpm2001-MostDeveloped/) to the contributors section
+- [ ] No other changes in version 37
+
+**Version 38 (2022, Tuesday, April 5th at 7:06 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 30
+- [x] Updated the contributors section
+- - [x] Added [@Go-ogle-engine](https://github.com/Go-ogle-engine/) to the contributors section
+- [ ] No other changes in version 38
+
+**Version 39 (2022, Tuesday, April 5th at 7:10 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 31
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-JSON-lang](https://github.com/Seanpm2001-JSON-lang/) to the contributors section
+- [ ] No other changes in version 39
+
+**Version 40 (2022, Tuesday, April 5th at 7:13 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 32
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Markdown-lang](https://github.com/Seanpm2001-Markdown-lang/) to the contributors section
+- [ ] No other changes in version 40
+
+**Version 41 (2022, Tuesday, April 5th at 7:18 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 33
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Makefile-lang](https://github.com/Seanpm2001-Makefile-lang/) to the contributors section
+- [ ] No other changes in version 41
+
+**Version 42 (2022, Tuesday, April 5th at 7:25 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 34
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-MediaWiki-lang](https://github.com/Seanpm2001-MediaWiki-lang/) to the contributors section
+- [ ] No other changes in version 42
+
+**Version 43 (2022, Tuesday, April 5th at 7:29 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 35
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-ReStructuredText-lang](https://github.com/Seanpm2001-ReStructuredText-lang/) to the contributors section
+- [ ] No other changes in version 43
+
+**Version 44 (2022, Tuesday, April 5th at 7:32 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 36
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Social](https://github.com/Seanpm2001-Social/) to the contributors section
+- [ ] No other changes in version 44
+
+**Version 45 (2022, Tuesday, April 5th at 7:36 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 37
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-DuckDuckGo](https://github.com/Seanpm2001-DuckDuckGo/) to the contributors section
+- [ ] No other changes in version 45
+
+**Version 46 (2022, Tuesday, April 5th at 7:39 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 38
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-DDG](https://github.com/Seanpm2001-DDG/) to the contributors section
+- [ ] No other changes in version 46
+
+**Version 47 (2022, Tuesday, April 5th at 7:42 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 39
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-Ecosia](https://github.com/Seanpm2001-Ecosia/) to the contributors section
+- [ ] No other changes in version 47
+
+**Version 48 (2022, Tuesday, April 5th at 7:45 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 40
+- [x] Updated the contributors section
+- - [x] Added [@Seanpm2001-SearchEngines](https://github.com/Seanpm2001-SearchEngines/) to the contributors section
+- [ ] No other changes in version 48
+
+**Version 49 (2022, Tuesday, April 5th at 7:48 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 41
+- [x] Updated the contributors section
+- - [x] Added [@seanwallawalla-social](https://github.com/seanwallawalla-social/) to the contributors section
+- [ ] No other changes in version 49
+
+**Version 50 (2022, Tuesday, April 5th at 7:51 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 42
+- [x] Updated the contributors section
+- - [x] Added [@seanwallawalla-security](https://github.com/seanwallawalla-security/) to the contributors section
+- [ ] No other changes in version 50
+
+**Version 51 (2022, Tuesday, April 5th at 7:54 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 43
+- [x] Updated the contributors section
+- - [x] Added [@seanwallawalla-tools](https://github.com/seanwallawalla-tools/) to the contributors section
+- [ ] No other changes in version 51
+
+**Version 52 (2022, Tuesday, April 5th at 7:57 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 44
+- [x] Updated the contributors section
+- - [x] Added [@seanwallawalla-images](https://github.com/seanwallawalla-images/) to the contributors section
+- [ ] No other changes in version 52
+
+**Version 53 (2022, Tuesday, April 5th at 8:00 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 45
+- [x] Updated the contributors section
+- - [x] Added [@SNU-YouTubeMode](https://github.com/SNU-YouTubeMode/) to the contributors section
+- [ ] No other changes in version 53
+
+**Version 54 (2022, Tuesday, April 5th at 8:04 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 46
+- [x] Updated the contributors section
+- - [x] Added [@seanpm2001-Hardware](https://github.com/seanpm2001-Hardware/) to the contributors section
+- [ ] No other changes in version 54
+
+**Version 55 (2022, Tuesday, April 5th at 8:08 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 47
+- [x] Updated the contributors section
+- - [x] Added [@seanpm2001-Samsung](https://github.com/seanpm2001-Samsung/) to the contributors section
+- [ ] No other changes in version 55
+
+**Version 56 (2022, Tuesday, April 5th at 8:11 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 48
+- [x] Updated the contributors section
+- - [x] Added [@seanpm2001-Software](https://github.com/seanpm2001-Software/) to the contributors section
+- [ ] No other changes in version 56
+
+**Version 57 (2022, Tuesday, April 5th at 8:14 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 49
+- [x] Updated the contributors section
+- - [x] Added [@seanwallawalla-Software](https://github.com/seanwallawalla-Software/) to the contributors section
+- [ ] No other changes in version 57
+
+**Version 58 (2022, Tuesday, April 5th at 8:17 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 50
+- [x] Updated the contributors section
+- - [x] Added [@SNU-Privacy](https://github.com/SNU-Privacy/) to the contributors section
+- [ ] No other changes in version 58
+
+**Version 59 (2022, Tuesday, April 5th at 8:21 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 51
+- [x] Updated the contributors section
+- - [x] Added [@SNU-Privacyinitiative](https://github.com/SNU-Privacyinitiative/) to the contributors section
+- [ ] No other changes in version 59
+
+**Version 60 (2022, Tuesday, April 5th at 8:24 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 52
+- [x] Updated the contributors section
+- - [x] Added [@Snapshot-Version-Control-System](https://github.com/Snapshot-Version-Control-System/) to the contributors section
+- [ ] No other changes in version 60
+> **Note** _A ton of entries (50) related to the [`@all-contributors`](https://github.com/all-contributors/) are currently in the process of being listed, along with 1 other contributed edit_
+
+**Version 61 (2022, Saturday, April 30th at 1:07 pm PST)**
+
+**This version was developed by [@indatawetrust](https://github.com/indatawetrust/)**
+
+> Changes:
+
+- [x] Optimized 2 links in the table of contents
+- [ ] No other changes in version 61
+
+**Version 62 (2022, Sunday, May 1st at 3:34 pm PST)**
+
+**This version was developed by [@all-contributors](https://github.com/all-contributors/)**
+
+> Changes:
+
+- [x] Updated the contributor badge, changing it to 53
+- [x] Updated the contributors section
+- - [x] Added [@indatawetrust](https://github.com/indatawetrust/) to the contributors section
+- [ ] No other changes in version 62
+
+<!-- OBSOLETE
+> **Note** _A ton of entries (50) related to the [`@all-contributors`](https://github.com/all-contributors/) are currently in the process of being listed, along with 1 other contributed edit_
+!-->
+
+<details><summary><p><b>Version 63 (2022, Monday, January 9th at 4:44 pm PST)</b></p></summary>
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
+
+> Changes:
+
+- [x] Updated the logo section, transforming it into a table, and adding the newer logo variant
+- [x] Added DeGoogle GitHub topic links
+- [x] Added the catalog minisection
+- [x] Added the catalog mirrors minisection
+- [x] Updated the table of contents
+- [x] Added an excerpt of the DeGoogle Ranking Scale
+- [x] Updated the article listing
+- [x] Added the `Google is a monopoly` section
+- - [x] Added the `Google acquisition and subsidiaries` subsection
+- [x] Fixed several dead links, due to the DeGoogle Your Life organization being deleted over 140 days ago due to [an incident](https://github.com/seanpm2001/GitHub_Organization_Info/tree/main/OrganizationGraphics/ByDate/2022/September/01/README.md)
+- [x] Turned every section above the file history section into a dropdown section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 12
+- - [x] Added an entry for version 13
+- - [x] Added an entry for version 14
+- - [x] Added an entry for version 15
+- - [x] Added an entry for version 16
+- - [x] Added an entry for version 17
+- - [x] Added an entry for version 18
+- - [x] Added an entry for version 19
+- - [x] Added an entry for version 20
+- - [x] Added an entry for version 21
+- - [x] Added an entry for version 22
+- - [x] Added an entry for version 23
+- - [x] Added an entry for version 24
+- - [x] Added an entry for version 25
+- - [x] Added an entry for version 26
+- - [x] Added an entry for version 27
+- - [x] Added an entry for version 28
+- - [x] Added an entry for version 29
+- - [x] Added an entry for version 30
+- - [x] Added an entry for version 31
+- - [x] Added an entry for version 32
+- - [x] Added an entry for version 33
+- - [x] Added an entry for version 34
+- - [x] Added an entry for version 35
+- - [x] Added an entry for version 36
+- - [x] Added an entry for version 37
+- - [x] Added an entry for version 38
+- - [x] Added an entry for version 39
+- - [x] Added an entry for version 40
+- - [x] Added an entry for version 41
+- - [x] Added an entry for version 42
+- - [x] Added an entry for version 43
+- - [x] Added an entry for version 44
+- - [x] Added an entry for version 45
+- - [x] Added an entry for version 46
+- - [x] Added an entry for version 47
+- - [x] Added an entry for version 48
+- - [x] Added an entry for version 49
+- - [x] Added an entry for version 50
+- - [x] Added an entry for version 51
+- - [x] Added an entry for version 52
+- - [x] Added an entry for version 53
+- - [x] Added an entry for version 54
+- - [x] Added an entry for version 55
+- - [x] Added an entry for version 56
+- - [x] Added an entry for version 57
+- - [x] Added an entry for version 58
+- - [x] Added an entry for version 59
+- - [x] Added an entry for version 60
+- - [x] Added an entry for version 61
+- - [x] Added an entry for version 62
+- - [x] Added an entry for version 63
+- - [x] Added a blank entry for version 64
+- - [x] Added a blank entry for version 65
+- - [x] Added a blank entry for version 66
+- - [x] Added a blank entry for version 67
+- - [x] Added a blank entry for version 68
+- - [x] Added a blank entry for version 69
+- - [x] Added a blank entry for version 70
+- - [x] Added a blank entry for version 71
+- - [x] Added a blank entry for version 72
+- - [x] Added a blank entry for version 73
+- - [x] Added a blank entry for version 74
+- - [x] Added a blank entry for version 75
+- - [x] Added a blank entry for version 76
+- - [x] Added a blank entry for version 77
+- - [x] Added a blank entry for version 78
+- - [x] Added a blank entry for version 79
+- - [x] Added a blank entry for version 80
+- - [x] Added a blank entry for version 81
+- - [x] Added a blank entry for version 82
+- - [x] Added a blank entry for version 83
+- - [x] Added a blank entry for version 84
+- - [x] Added a blank entry for version 85
+- - [x] Added a blank entry for version 86
+- - [x] Added a blank entry for version 87
+- - [x] Added a blank entry for version 88
+- - [x] Added a blank entry for version 89
+- - [x] Added a blank entry for version 90
+- - [x] Added a blank entry for version 91
+- - [x] Added a blank entry for version 92
+- - [x] Added a blank entry for version 93
+- - [x] Added a blank entry for version 94
+- - [x] Added a blank entry for version 95
+- - [x] Added a blank entry for version 96
+- - [x] Added a blank entry for version 97
+- - [x] Added a blank entry for version 98
+- - [x] Added a blank entry for version 99
+- - [x] Added a blank entry for version 100
+- - [x] Added a blank entry for version 101
+- - [x] Added a blank entry for version 102
+- - [x] Added a blank entry for version 103
+- - [x] Added a blank entry for version 104
+- - [x] Added a blank entry for version 105
+- - [x] Added a blank entry for version 106
+- - [x] Added a blank entry for version 107
+- - [x] Added a blank entry for version 108
+- - [x] Added a blank entry for version 109
+- - [x] Added a blank entry for version 110
+- - [x] Added a blank entry for version 111
+- - [x] Added a blank entry for version 112
+- - [x] Added a blank entry for version 113
+- - [x] Added a blank entry for version 114
+- - [x] Added a blank entry for version 115
+- - [x] Added a blank entry for version 116
+- - [x] Added a blank entry for version 117
+- - [x] Added a blank entry for version 118
+- - [x] Added a blank entry for version 119
+- - [x] Added a blank entry for version 120
+- - [x] Added a blank entry for version 121
+- - [x] Added a blank entry for version 122
+- - [x] Added a blank entry for version 123
+- - [x] Added a blank entry for version 124
+- - [x] Added a blank entry for version 125
+- - [x] Added a blank entry for version 126
+- [ ] No other changes in version 63
+
+TODO: Make all version entries into dropdowns
+
+</details>
+
+**Version 64 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 64
+
+**Version 65 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 65
+
+**Version 66 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 66
+
+**Version 67 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 67
+
+**Version 68 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 68
+
+**Version 69 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 69
+
+**Version 70 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 70
+
+**Version 71 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 71
+
+**Version 72 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 72
+
+**Version 73 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 73
+
+**Version 74 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 74
+
+**Version 75 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 75
+
+**Version 76 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 76
+
+**Version 77 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 77
+
+**Version 78 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 78
+
+**Version 79 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 79
+
+**Version 80 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 80
+
+**Version 81 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 81
+
+**Version 82 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 82
+
+**Version 83 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 83
+
+**Version 84 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 84
+
+**Version 85 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 85
+
+**Version 86 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 86
+
+**Version 87 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 87
+
+**Version 88 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 88
+
+**Version 89 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 89
+
+**Version 90 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 90
+
+**Version 91 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 91
+
+**Version 92 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 92
+
+**Version 93 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 93
+
+**Version 94 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 94
+
+**Version 95 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 95
+
+**Version 96 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 96
+
+**Version 97 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 97
+
+**Version 98 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 98
+
+**Version 99 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 99
+
+**Version 100 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 100
+
+**Version 101 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 101
+
+**Version 102 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 102
+
+**Version 103 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 103
+
+**Version 104 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 104
+
+**Version 105 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 105
+
+**Version 106 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 106
+
+**Version 107 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 107
+
+**Version 108 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 108
+
+**Version 109 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 109
+
+**Version 110 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 110
+
+**Version 111 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 111
+
+**Version 112 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 112
+
+**Version 113 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 113
+
+**Version 114 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 114
+
+**Version 115 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 115
+
+**Version 116 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 116
+
+**Version 117 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 117
+
+**Version 118 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 118
+
+**Version 119 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 119
+
+**Version 120 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 120
+
+**Version 121 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 121
+
+**Version 122 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 122
+
+**Version 123 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 123
+
+**Version 124 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 124
+
+**Version 125 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 125
+
+**Version 126 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 126
 
 </details>
 
