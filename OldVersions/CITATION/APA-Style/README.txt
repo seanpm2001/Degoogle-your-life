@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). DeGoogle article set (by Sean Patrick Myrick/@seanpm2001) on the problems with Google and its services. It also goes over the process of DeGoogling (taking Google out of your life) and having a better life. I am using this project for <your_reason_here> [Data set]. https://doi.org/10.0000/00000
