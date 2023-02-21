@@ -1,7 +1,7 @@
---URLL-version=2;
--- https://github.com/seanpm2001/URLL-Specification/
--- DeGoogle repository listing as of 2023, Monday, January 9th
--- START:
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// DeGoogle repository listing as of 2023, Tuesday, February 21st
+//// START:
 https://github.com/seanpm2001/Degoogle-your-life
 https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research
 https://github.com/seanpm2001/Google-security-issues
@@ -81,6 +81,19 @@ https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue
 https://github.com/seanpm2001/DeGoogle-Ranking-Scale
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Looker
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Safe-Browsing
--- END.
--- Repo count: 79
--- File version: 2 (2023, Monday, January 9th at 2:41 pm PST)
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Play-Movies
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Pixel
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Nexus
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Plus
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Scholar
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Stadia
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-ReCaptcha
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fiber
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Families
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Gallery
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Peridot
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fonts
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fit
+//// END.
+//// Repo count: 92
+//// File version: 3 (2023, Tuesday, February 21st at 3:24 pm PST)
