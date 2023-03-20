@@ -174,17 +174,25 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 [23.0 - Other things to check out](#Other-things-to-check-out)
 
-[24.0 - File info](#File-info)
+[24.0 - Frequently Asked Questions](#Frequently-Asked-Questions)
 
-> [24.1 - Software status](#Software-status)
+> [24.0.1 - Why do you hate Google?](#Why-do-you-hate-Google)
 
-> [24.2 - Sponsor info](#Sponsor-info)
+> [24.0.2 - Why do you fork Google projects if you hate Google?](#Why-do-you-fork-Google-projects-if-you-hate-Google)
 
-[25.0 - File history](#File-history)
+> [24.0.3 - Is this a smear campaign?](#Is-this-a-smear-campaign)
 
-[26.0 - Footer](#Footer)
+[25.0 - File info](#File-info)
 
-> [26.9 - EOF](#EOF)
+> [25.1 - Software status](#Software-status)
+
+> [25.2 - Sponsor info](#Sponsor-info)
+
+[26.0 - File history](#File-history)
+
+[27.0 - Footer](#Footer)
+
+> [27.9 - EOF](#EOF)
 
 </details>
 
@@ -1116,6 +1124,24 @@ Google cannot be trusted, and can never be trusted ever again. They have complet
 
 ***
 
+## Frequently Asked Questions
+
+No questions have been asked about the project yet, so I will add some that I believe will be common.
+
+### Why do you hate Google?
+
+Google has a history of bad business practices, spying on users, steamrolling over small developers, among other things.
+
+### Why do you fork Google projects if you hate Google?
+
+I am a software archivist, and even with my problems with Google, their works still need to be archived. I make forks, as it is easy to do, and creates a database of repository copy snapshots for future reference. I also hope for free software versions of Google Go, Dart, Mojom, Flutter, Protocol Buffer, LookML, and others in the future.
+
+### Is this a smear campaign?
+
+No, this project is not a smear campaign. It is an activist database of criticism of Google across all of its products, services, and hardware. Any claims made here have to be backed up with evidence, or else they will be removed.
+
+***
+
 ## Other things to check out
 
 <details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
@@ -1142,11 +1168,11 @@ There are other alternates, just search for them.
 
 <details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
-**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `2,739`
+**Line count (including blank lines and compiler line):** `2,776`
 
-**File version:** `63 (2023, Monday, January 9th at 4:44 pm PST)`
+**File version:** `64 (2023, Monday, March 20h at 2:56 pm PST)`
 
 **All times are UTC-7 (PDT/Pacific Time)** account for daylight savings time as well (it's a pain, I know)
 
@@ -2194,11 +2220,20 @@ TODO: Make all version entries into dropdowns
 
 </details>
 
-**Version 64 (Coming soon)**
+**Version 64 (2023, Monday, March 20th at 2:56 pm PST)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
+
+> **Note** _This release makes some changes to the project. I feel it is perfect for the time being now._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the index
+- [x] Added the FAQ (Frequently Asked Questions) section
+- [x] Updated the all-contributors section to clarify dead links
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 64
 - [ ] No other changes in version 64
 
 **Version 65 (Coming soon)**
@@ -2648,6 +2683,8 @@ You have reached the end of this file.
 ### EOF
 
 ***
+
+> **Note** Most links are dead, as my organizations had to be deleted in 2022 by GitHubs request. If new icons start appearing on this table, it means that someone has created a user/organization under this name. The only official names left are: @seanpm2001 @all-contributors @GaurPeeyush @gamer191 and @indatawetrust . All others were deleted. 2 organizations partially survived the deletion (@seanpm2001-all & @seanwallawalla-forks) but cannot be accessed, as they are still technically deleted.
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 
