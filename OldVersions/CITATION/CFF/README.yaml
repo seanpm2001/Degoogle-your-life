@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this article, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "DeGoogle-your-Life"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/DeGoogle-your-Life"
+cff-version: 1.2.0
+message: "If you use this article, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "DeGoogle article set on Google, its problems, and why it should not be used."
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-01-10
+url: "https://github.com/seanpm2001/Degoogle-your-Life"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 12
+  start: 1 # First page number
+  end: 978 # Last page number
+  title: "DeGoogle article set (by Sean Patrick Myrick/@seanpm2001) on the problems with Google and its services. It also goes over the process of DeGoogling (taking Google out of your life) and having a better life. I am using this project for <your_reason_here>" 
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Monday, January 10th at 5:53 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
