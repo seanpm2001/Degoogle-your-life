@@ -1,7 +1,9 @@
 /.github/
+/.gitlab/
 /Acquisitions_Mergers/
 /Articles/
 /Branches/
+/Catalog/
 /Chrome/
 /Docs/
 /External/
@@ -17,6 +19,7 @@
 /.editorconfig
 /.gitattributes
 /.gitignore
+/.gitlab-ci.yml
 /404.html
 /404.jpeg
 /404.md
