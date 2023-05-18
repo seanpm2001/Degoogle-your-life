@@ -1,0 +1,18 @@
+# Sampled from https://gitlab.wikimedia.org/toolforge-repos/wiki-gpt/-/blob/main/.gitlab-ci.yml
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+
+stages:
+  - build-commit
+
+build:
+  stage: build-commit
+  before_script:
+    - apt-get update -q -y && apt-get install -y git python3-pip
+  script:
+    - pip3 install pre-commit
+    - pre-commit run --all-files
+  artifacts:
+    untracked: true
+# File version: 1 (2023, Wednesday, May 3rd at 6:04 pm PST)
