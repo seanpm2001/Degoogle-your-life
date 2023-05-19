@@ -1,6 +1,6 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification/
-//// DeGoogle repository listing as of 2023, Thursday, May 18th
+//// DeGoogle repository listing as of 2023, Friday, May 19th
 //// START:
 https://github.com/seanpm2001/Degoogle-your-life
 https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research
@@ -96,6 +96,8 @@ https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fonts
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fit
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Travel
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Zircon
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Suite-GSuite
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Lens
 //// END.
-//// Repo count: 94
-//// File version: 5 (2023, Thursday, Thursday, May 18th at 3:59 pm PST)
+//// Repo count: 96
+//// File version: 6 (2023, Friday, May 19th at 3:16 pm PST)
