@@ -1,6 +1,6 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification/
-//// DeGoogle repository listing as of 2023, Tuesday, May 23rd
+//// DeGoogle repository listing as of 2023, Wednesday, May 24th
 //// START:
 https://github.com/seanpm2001/Degoogle-your-life
 https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research
@@ -106,6 +106,8 @@ https://github.com/seanpm2001/Why-you-should-have-avoided-Google-SMS
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Stackdriver
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tasks
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Meet
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Discover
+https://github.com/seanpm2001/Why-you-should-not-be-a-Google-Developer
 //// END.
-//// Repo count: 104
-//// File version: 10 (2023, Tuesday, May 23rd at 8:00 pm PST)
+//// Repo count: 106
+//// File version: 11 (2023, Wednesday, May 24th at 4:47 pm PST)
