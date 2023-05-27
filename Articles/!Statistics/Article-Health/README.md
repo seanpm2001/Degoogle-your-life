@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Thursday, May 25th at 7:10 pm PST`
+**Listing as of:** `2023, Friday, May 26th at 8:06 pm PST`
 
 #### [Legend](#Legend)
 
@@ -138,6 +138,8 @@ _⚠️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Meet
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Discover
 - https://github.com/seanpm2001/Why-you-should-not-be-a-Google-Developer `🌟️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Apps-Script
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Capital
 
 #### [Major stubs](#Major-stubs)
 
@@ -176,9 +178,9 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 # [File info](#File-info)
 
-**File version:** `2 (2023, Thursday, May 25th at 7:10 pm PST)`
+**File version:** `3 (2023, Friday, May 26th at 8:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `186`
+**Line count (including blank lines and compiler line):** `188`
 
 ###### [EOF](#EOF)
 
