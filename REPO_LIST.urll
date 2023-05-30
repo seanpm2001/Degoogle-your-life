@@ -1,6 +1,7 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification/
-//// DeGoogle repository listing as of 2023, Monday, May 29th at 10:28 pm PST
+//// DeGoogle repository listing as of 2023, Tuesday, May 30th at 4:08 pm PST
+//// ----------------------------------------------------------------------------------------- ////
 //// START:
 https://github.com/seanpm2001/Degoogle-your-life
 https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research
@@ -118,19 +119,297 @@ https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdMob
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-FireBase
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Dropcam
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-DoubleClick
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Arts-and-Culture
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-AlphaGo
 //// END.
-//// Repo count: 116
+//// Repo count: 118
+//// ----------------------------------------------------------------------------------------- ////
 //// Related projects:
-https://github.com/seanpm2001/Candroid
+//// The REAL Data liberation front (2 repositories)
 https://github.com/seanpm2001/The-REAL-Data-Liberation-Front
 https://github.com/seanpm2001/The-REAL-Data-Liberation-Front_Docs
+//// Go-ogle (1 repository)
 https://github.com/seanpm2001/Go-ogle
+//// NetM project (3 repositories)
 https://github.com/seanpm2001/NetV
 https://github.com/seanpm2001/NetM
 https://github.com/seanpm2001/NetP
+//// Seanpm2001 life archive (4 repositories)
+https://github.com/seanpm2001/GSoC
+https://github.com/seanpm2001/Seanpm2001-GSoC
+https://github.com/seanpm2001/Seanpm2001-Google
 https://github.com/seanpm2001/YouTube
+//// Candroid (28 repositories)
+https://github.com/seanpm2001/Candroid
+https://github.com/seanpm2001/Candroid-Catalogue
+https://github.com/seanpm2001/Candroid-Docs
+https://github.com/seanpm2001/Candroid-App-Store
+https://github.com/seanpm2001/Candroid-Assistant
+https://github.com/seanpm2001/Candroid-Battery-Monitor
+https://github.com/seanpm2001/Candroid-Browser
+https://github.com/seanpm2001/Candroid-Camera
+https://github.com/seanpm2001/Candroid-Calculator
+https://github.com/seanpm2001/Candroid-Calendar
+https://github.com/seanpm2001/Candroid-Clock
+https://github.com/seanpm2001/Candroid-Debug
+https://github.com/seanpm2001/Candroid-Contacts
+https://github.com/seanpm2001/Candroid-Easter-Egg
+https://github.com/seanpm2001/Candroid-Flashlight
+https://github.com/seanpm2001/Candroid-Keyboard
+https://github.com/seanpm2001/Candroid-Mail
+https://github.com/seanpm2001/Candroid-Market
+https://github.com/seanpm2001/Candroid-Notepad
+https://github.com/seanpm2001/Candroid-Photo-Viewer
+https://github.com/seanpm2001/Candroid-Phone
+https://github.com/seanpm2001/Candroid-Rotate
+https://github.com/seanpm2001/Candroid-Settings
+https://github.com/seanpm2001/Candroid-Tube
+https://github.com/seanpm2001/Candroid-TV
+https://github.com/seanpm2001/Candroid-Video
+https://github.com/seanpm2001/Candroid-Voicemail
+https://github.com/seanpm2001/Candroid-Wallpaper
+//// Android x128 (2 repositories)
+https://github.com/seanpm2001/Android-x128
+https://github.com/seanpm2001/Android-x128_Docs
+//// Android x64 (90 repositories)
+https://github.com/seanpm2001/Android-x64
+https://github.com/seanpm2001/Android-x64_Docs
+https://github.com/seanpm2001/Android-x64_Workspace_Firefox
+https://github.com/seanpm2001/Android-x64_LiveCD_15A
+https://github.com/seanpm2001/Android-x64_LiveCD_14A
+https://github.com/seanpm2001/Android-x64_LiveCD_13A
+https://github.com/seanpm2001/Android-x64_LiveCD_12C
+https://github.com/seanpm2001/Android-x64_LiveCD_12B
+https://github.com/seanpm2001/Android-x64_LiveCD_12A
+https://github.com/seanpm2001/Android-x64_LiveCD_11A
+https://github.com/seanpm2001/Android-x64_LiveCD_10A
+https://github.com/seanpm2001/Android-x64_LiveCD_9C
+https://github.com/seanpm2001/Android-x64_LiveCD_9B
+https://github.com/seanpm2001/Android-x64_LiveCD_9A
+https://github.com/seanpm2001/Android-x64_LiveCD_8C
+https://github.com/seanpm2001/Android-x64_LiveCD_8B
+https://github.com/seanpm2001/Android-x64_LiveCD_8A
+https://github.com/seanpm2001/Android-x64_LiveCD_7C
+https://github.com/seanpm2001/Android-x64_LiveCD_7B
+https://github.com/seanpm2001/Android-x64_LiveCD_7A
+https://github.com/seanpm2001/Android-x64_LiveCD_6C
+https://github.com/seanpm2001/Android-x64_LiveCD_6B
+https://github.com/seanpm2001/Android-x64_LiveCD_6A
+https://github.com/seanpm2001/Android-x64_LiveCD_5C
+https://github.com/seanpm2001/Android-x64_LiveCD_5B
+https://github.com/seanpm2001/Android-x64_LiveCD_5A
+https://github.com/seanpm2001/Android-x64_Android15.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android15.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android15.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android15.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android14.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android14.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android14.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android14.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android13_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android13_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android13_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android13_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android12.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android12.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android12.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android12.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android12_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android12_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android12_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android12_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android11_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android11_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android11_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android11_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android10_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android10_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android10_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android10_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android9_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android9_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android9_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android9_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android8.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android8.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android8.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android8.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android8.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android8.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android8.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android8.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android7.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android7.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android7.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android7.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android7.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android7.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android7.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android7.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android6.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android6.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android6.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android6.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android6.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android6.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android6.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android6.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android5.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android5.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android5.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android5.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android5.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition
+//// Android x32x64 (18 repositories)
+https://github.com/seanpm2001/Android-x32x64
+https://github.com/seanpm2001/Android-x32x64_Docs
+https://github.com/seanpm2001/Android-x32x64_LiveCD_15A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_14A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_13A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_12B_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_12A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_11A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_10A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_9A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_8B_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_8A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_7B_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_7A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_6B_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_6A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_5B_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_5A_Edition
+//// Android x32 (121 repositories)
+https://github.com/seanpm2001/Android-x32
+https://github.com/seanpm2001/Android-x32_Docs
+https://github.com/seanpm2001/Android-x32_LiveCD_4.4C
+https://github.com/seanpm2001/Android-x32_LiveCD_4.4B
+https://github.com/seanpm2001/Android-x32_LiveCD_4.4A
+https://github.com/seanpm2001/Android-x32_LiveCD_4.3C
+https://github.com/seanpm2001/Android-x32_LiveCD_4.3B
+https://github.com/seanpm2001/Android-x32_LiveCD_4.3A
+https://github.com/seanpm2001/Android-x32_LiveCD_4.2C
+https://github.com/seanpm2001/Android-x32_LiveCD_4.2B
+https://github.com/seanpm2001/Android-x32_LiveCD_4.2A
+https://github.com/seanpm2001/Android-x32_LiveCD_4.1C
+https://github.com/seanpm2001/Android-x32_LiveCD_4.1B
+https://github.com/seanpm2001/Android-x32_LiveCD_4.1A
+https://github.com/seanpm2001/Android-x32_LiveCD_4.0C
+https://github.com/seanpm2001/Android-x32_LiveCD_4.0B
+https://github.com/seanpm2001/Android-x32_LiveCD_4.0A
+https://github.com/seanpm2001/Android-x32_LiveCD_3.2C
+https://github.com/seanpm2001/Android-x32_LiveCD_3.2B
+https://github.com/seanpm2001/Android-x32_LiveCD_3.2A
+https://github.com/seanpm2001/Android-x32_LiveCD_3.1C
+https://github.com/seanpm2001/Android-x32_LiveCD_3.1B
+https://github.com/seanpm2001/Android-x32_LiveCD_3.1A
+https://github.com/seanpm2001/Android-x32_LiveCD_3.0C
+https://github.com/seanpm2001/Android-x32_LiveCD_3.0B
+https://github.com/seanpm2001/Android-x32_LiveCD_3.0A
+https://github.com/seanpm2001/Android-x32_LiveCD_2.3C
+https://github.com/seanpm2001/Android-x32_LiveCD_2.3B
+https://github.com/seanpm2001/Android-x32_LiveCD_2.3A
+https://github.com/seanpm2001/Android-x32_LiveCD_2.2C
+https://github.com/seanpm2001/Android-x32_LiveCD_2.2B
+https://github.com/seanpm2001/Android-x32_LiveCD_2.2A
+https://github.com/seanpm2001/Android-x32_LiveCD_2.1C
+https://github.com/seanpm2001/Android-x32_LiveCD_2.1B
+https://github.com/seanpm2001/Android-x32_LiveCD_2.1A
+https://github.com/seanpm2001/Android-x32_LiveCD_2.0C
+https://github.com/seanpm2001/Android-x32_LiveCD_2.0B
+https://github.com/seanpm2001/Android-x32_LiveCD_2.0A
+https://github.com/seanpm2001/Android-x32_LiveCD_1.6C
+https://github.com/seanpm2001/Android-x32_LiveCD_1.6B
+https://github.com/seanpm2001/Android-x32_LiveCD_1.6A
+https://github.com/seanpm2001/Android-x32_LiveCD_1.5C
+https://github.com/seanpm2001/Android-x32_LiveCD_1.5B
+https://github.com/seanpm2001/Android-x32_LiveCD_1.5A
+https://github.com/seanpm2001/Android-x32_LiveCD_1.1C
+https://github.com/seanpm2001/Android-x32_LiveCD_1.1B
+https://github.com/seanpm2001/Android-x32_LiveCD_1.1A
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0B
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0A
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0C
+https://github.com/seanpm2001/Android-x32_LiveCD_0.9C
+https://github.com/seanpm2001/Android-x32_LiveCD_0.9B
+https://github.com/seanpm2001/Android-x32_LiveCD_0.9A
+https://github.com/seanpm2001/Android-x32_Android4.4_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android4.4_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android4.4_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android4.4_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android4.3_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android4.3_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android4.3_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android4.3_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android4.2_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android4.2_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android4.2_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android4.2_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android4.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android4.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android4.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android4.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android4.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android4.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android4.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android4.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android3.2_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android3.2_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android3.2_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android3.2_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android3.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android3.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android3.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android3.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android3.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android3.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android3.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android3.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android2.3_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android2.3_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android2.3_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android2.3_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android2.2_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android2.2_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android2.2_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android2.2_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android2.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android2.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android2.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android2.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android2.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android2.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android2.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android2.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android1.6_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android1.6_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android1.6_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android1.6_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android1.5_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android1.5_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android1.5_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android1.5_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android1.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android1.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android1.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android1.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android1.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android1.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android1.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android1.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android0.9_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android0.9_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android0.9_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android0.9_LiveCD_Edition
+//// Other (1 repository)
+https://github.com/seanpm2001/Please-do-NOT-turn-off-your-adblocker
 //// END.
-//// Repo count: 8
+//// ----------------------------------------------------------------------------------------- ////
+//// Repo count: 270
+//// Combined repository count: 388
 //// FILE INFO:
-//// File version: 16 (2023, Monday, May 29th at 10:28 pm PST)
-//// Line count (including blank lines and compiler line): 137
+//// File version: 17 (2023, Tuesday, May 30th at 4:08 pm PST)
+//// Line count (including blank lines and compiler line): 416
+//// End of file
