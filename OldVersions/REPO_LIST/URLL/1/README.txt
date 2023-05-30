@@ -1,6 +1,6 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification/
-//// DeGoogle repository listing as of 2023, Sunday, May 28th at 9:44 pm PST
+//// DeGoogle repository listing as of 2023, Monday, May 29th at 10:28 pm PST
 //// START:
 https://github.com/seanpm2001/Degoogle-your-life
 https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research
@@ -116,6 +116,21 @@ https://github.com/seanpm2001/Why-you-should-stop-using-Google-Chat
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdWords
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdMob
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-FireBase
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Dropcam
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-DoubleClick
 //// END.
-//// Repo count: 114
-//// File version: 15 (2023, Sunday, May 28th at 9:44 pm PST)
+//// Repo count: 116
+//// Related projects:
+https://github.com/seanpm2001/Candroid
+https://github.com/seanpm2001/The-REAL-Data-Liberation-Front
+https://github.com/seanpm2001/The-REAL-Data-Liberation-Front_Docs
+https://github.com/seanpm2001/Go-ogle
+https://github.com/seanpm2001/NetV
+https://github.com/seanpm2001/NetM
+https://github.com/seanpm2001/NetP
+https://github.com/seanpm2001/YouTube
+//// END.
+//// Repo count: 8
+//// FILE INFO:
+//// File version: 16 (2023, Monday, May 29th at 10:28 pm PST)
+//// Line count (including blank lines and compiler line): 137
