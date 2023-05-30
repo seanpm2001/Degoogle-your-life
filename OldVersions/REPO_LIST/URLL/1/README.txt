@@ -1,6 +1,6 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification/
-//// DeGoogle repository listing as of 2023, Tuesday, May 30th at 4:08 pm PST
+//// DeGoogle repository listing as of 2023, Tuesday, May 30th at 4:11 pm PST
 //// ----------------------------------------------------------------------------------------- ////
 //// START:
 https://github.com/seanpm2001/Degoogle-your-life
@@ -80,6 +80,8 @@ https://github.com/seanpm2001/DeGoogle-your-life-Current-Catalogue
 https://github.com/seanpm2001/DeGoogle-your-life-Graveyard-catalogue
 https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue
 https://github.com/seanpm2001/DeGoogle-Ranking-Scale
+https://github.com/seanpm2001/Google-is-a-monopoly
+https://github.com/seanpm2001/Google-Outage-History
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Looker
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Safe-Browsing
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Play-Movies
@@ -122,7 +124,7 @@ https://github.com/seanpm2001/Why-you-should-stop-using-Google-DoubleClick
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Arts-and-Culture
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-AlphaGo
 //// END.
-//// Repo count: 118
+//// Repo count: 120
 //// ----------------------------------------------------------------------------------------- ////
 //// Related projects:
 //// The REAL Data liberation front (2 repositories)
@@ -408,8 +410,9 @@ https://github.com/seanpm2001/Please-do-NOT-turn-off-your-adblocker
 //// END.
 //// ----------------------------------------------------------------------------------------- ////
 //// Repo count: 270
-//// Combined repository count: 388
+//// Combined repository count: 390
 //// FILE INFO:
-//// File version: 17 (2023, Tuesday, May 30th at 4:08 pm PST)
-//// Line count (including blank lines and compiler line): 416
+//// File version: 18 (2023, Tuesday, May 30th at 4:11 pm PST)
+//// V8: Small revision, added back 2 missing entries
+//// Line count (including blank lines and compiler line): 419
 //// End of file
