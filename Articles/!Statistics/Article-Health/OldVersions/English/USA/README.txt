@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Monday, May 29th at 10:32 pm PST`
+**Listing as of:** `2023, Tuesday, May 30th at 4:15 pm PST`
 
 #### [Legend](#Legend)
 
@@ -50,6 +50,7 @@ _☑️ These articles are healthy, but need some improvements:_
 - https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Stadia
 - https://github.com/seanpm2001/Why-you-should-stop-using-the-Google-Play-Store `⭐️`
+- https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 
 #### [A little unhealthy](#A-little-unhealthy)
 
@@ -76,12 +77,11 @@ _ℹ️ These articles are starting to fall in ill health, and need some work:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-GMail `⭐️`
 - https://github.com/seanpm2001/Why-you-should-avoid-Google-AMP `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-ReCaptcha `⭐️`
+- https://github.com/seanpm2001/Google-Outage-History `🌟️`
 
 #### [Stubs](#Stubs)
 
 _⚠️ These articles are stubs and need significant expansion:_
-
-<!-- **Confirmed to not be major stubs** - I went back and checked everything !-->
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Currents
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Services `⭐️`
@@ -146,10 +146,10 @@ _⚠️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-FireBase `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Dropcam
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-DoubleClick`⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Arts-and-Culture
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-AlphaGo
 
 #### [Major stubs](#Major-stubs)
-
-<!-- This section was added later in development. It is for articles that have the least amount of development (not even a proper linguistic detected language) and need the most work. Most articles in [`#Stubs`](#Stubs) need to be moved here. !-->
 
 _⛔️ These articles have the least amount of development (not even a proper linguistic detected language) and need the most work:_
 
@@ -184,15 +184,10 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 # [File info](#File-info)
 
-**File version:** `6 (2023, Monday, May 29th at 10:32 pm PST)`
+**File version:** `7 (2023, Tuesday, May 30th at 4:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `199`
+**Line count (including blank lines and compiler line):** `194`
 
 ###### [EOF](#EOF)
 
 ***
-
-<!-- Missing entries
-https://github.com/seanpm2001/Google-is-a-monopoly
-LIST MORE HERE BEFORE ENTERING, ALSO ADD TO /REPO_LIST.urll
-!-->
