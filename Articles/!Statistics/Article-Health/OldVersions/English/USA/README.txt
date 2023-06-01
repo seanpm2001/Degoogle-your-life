@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Tuesday, May 30th at 4:15 pm PST`
+**Listing as of:** `2023, Wednesday, May 31st at 9:09 pm PST`
 
 #### [Legend](#Legend)
 
@@ -148,6 +148,7 @@ _⚠️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-DoubleClick`⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Arts-and-Culture
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-AlphaGo
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Print
 
 #### [Major stubs](#Major-stubs)
 
@@ -184,9 +185,9 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 # [File info](#File-info)
 
-**File version:** `7 (2023, Tuesday, May 30th at 4:15 pm PST)`
+**File version:** `8 (2023, Wednesday, May 31st at 9:09 pm PST)`
 
-**Line count (including blank lines and compiler line):** `194`
+**Line count (including blank lines and compiler line):** `195`
 
 ###### [EOF](#EOF)
 
