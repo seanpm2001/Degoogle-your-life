@@ -1,6 +1,6 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification/
-//// DeGoogle repository listing as of 2023, Wednesday, May 31st at 9:06 pm PST
+//// DeGoogle repository listing as of 2023, Thursday, June 1st at 4:34 pm PST
 //// ----------------------------------------------------------------------------------------- ////
 //// START:
 https://github.com/seanpm2001/Degoogle-your-life
@@ -124,8 +124,10 @@ https://github.com/seanpm2001/Why-you-should-stop-using-Google-DoubleClick
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Arts-and-Culture
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-AlphaGo
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Print
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-For-Education
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-For-Startups
 //// END.
-//// Repo count: 121
+//// Repo count: 123
 //// ----------------------------------------------------------------------------------------- ////
 //// Related projects:
 //// The REAL Data liberation front (2 repositories)
@@ -411,8 +413,8 @@ https://github.com/seanpm2001/Please-do-NOT-turn-off-your-adblocker
 //// END.
 //// ----------------------------------------------------------------------------------------- ////
 //// Repo count: 270
-//// Combined repository count: 391
+//// Combined repository count: 393
 //// FILE INFO:
-//// File version: 19 (2023, Wednesday, May 31st at 9:06 pm PST)
-//// Line count (including blank lines and compiler line): 419
+//// File version: 20 (2023, Thursday, June 1st at 4:34 pm PST)
+//// Line count (including blank lines and compiler line): 421
 //// End of file
