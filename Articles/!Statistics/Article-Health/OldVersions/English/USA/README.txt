@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Thursday, June 1st at 4:41 pm PST`
+**Listing as of:** `2023, Saturday, June 3rd at 9:53 pm PST`
 
 #### [Legend](#Legend)
 
@@ -37,6 +37,8 @@
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
+**Repo count (in this category):** `3` (as of 2023, Saturday, June 3rd)
+
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
 - https://github.com/seanpm2001/DeGoogle-your-Life_Wiki_2021 `🗄️`
@@ -44,6 +46,8 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 #### [Healthy](#Healthy)
 
 _☑️ These articles are healthy, but need some improvements:_
+
+**Repo count (in this category):** `6` (as of 2023, Saturday, June 3rd)
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -55,6 +59,8 @@ _☑️ These articles are healthy, but need some improvements:_
 #### [A little unhealthy](#A-little-unhealthy)
 
 _ℹ️ These articles are starting to fall in ill health, and need some work:_
+
+**Repo count (in this category):** `22` (as of 2023, Saturday, June 3rd)
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -82,6 +88,8 @@ _ℹ️ These articles are starting to fall in ill health, and need some work:_
 #### [Stubs](#Stubs)
 
 _⚠️ These articles are stubs and need significant expansion:_
+
+**Repo count (in this category):** `81` (as of 2023, Saturday, June 3rd)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
 - https://github.com/seanpm2001/Why-you-should-not-be-a-Google-Developer `🌟️`
@@ -112,6 +120,24 @@ _⚠️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Suite-GSuite `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-FireBase `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-DoubleClick `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Accounts `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Material-Design `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Pay `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Slides `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdSense `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Forms `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sheets `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tensorflow `⭐️`
+
+<!-- I tried to get to this today, but didn't have the time
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Docs `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Flutter `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings
+!-->
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-VPN
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Blockly
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Keep
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Video
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Lens
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Topaz
@@ -152,33 +178,25 @@ _⚠️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Print
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-For-Education
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-For-Startups
+- https://github.com/seanpm2001/Why-you-should-not-attend-Google-IO
 
 #### [Major stubs](#Major-stubs)
 
 _⛔️ These articles have the least amount of development (not even a proper linguistic detected language) and need the most work:_
 
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Flutter `⭐️`
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_New `⭐️`
+**Repo count (in this category):** `12` (as of 2023, Saturday, June 3rd)
+
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tenor `⭐️`
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Accounts `⭐️`
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tensorflow `⭐️`
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sheets `⭐️`
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Material-Design `⭐️`
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Pay `⭐️`
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Slides `⭐️`
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdSense `⭐️`
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Forms `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_New `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Docs `⭐️`
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_Classic
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-VPN
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Flutter `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_Classic
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Survey-rewards
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calculator
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Camera
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Blockly
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cardboard
 - https://github.com/seanpm2001/Why-you-should-stop-using-Android-Pay
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Keep
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fi
 
 > **Note** _This section will likely be obsoleted in the near future, and may require repurposing or deletion when necessary._
@@ -187,9 +205,9 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 # [File info](#File-info)
 
-**File version:** `9 (2023, Thursday, June 1st at 4:41 pm PST)`
+**File version:** `10 (2023, Saturday, June 3rd at 9:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `197`
+**Line count (including blank lines and compiler line):** `215`
 
 ###### [EOF](#EOF)
 
