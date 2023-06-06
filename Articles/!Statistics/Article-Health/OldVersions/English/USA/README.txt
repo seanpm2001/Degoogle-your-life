@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Sunday, June 4th at 9:28 pm PST`
+**Listing as of:** `2023, Monday, June 5th at 9:34 pm PST`
 
 #### [Legend](#Legend)
 
@@ -15,9 +15,9 @@
 
 - [`0 - Very healthy ✅️`](#Very-healthy)
 - [`1 - Healthy ☑️`](#Healthy)
-- [`2 - A little unhealthy ℹ️`](#A-little-unhealthy)
-- [`3 - Stubs ⚠️`](#Stubs)
-- [`4 - Major stubs ⛔️`](#Major-stubs)
+- [`2 - A little unhealthy ⚠️`](#A-little-unhealthy)
+- [`3 - Stubs ⛔️`](#Stubs)
+<!-- - [`4 - Major stubs ⛔️`](#Major-stubs) NOTE: Obsoleted on 2023, June 5th !-->
 
 <!-- Doesn't look that good
 - [`0 - Very healthy ✅️`](#Very-healthy)
@@ -37,7 +37,7 @@
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Sunday, June 4th)
+**Repo count (in this category):** `3` (as of 2023, Monday, June 5th)
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -47,7 +47,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Sunday, June 4th)
+**Repo count (in this category):** `6` (as of 2023, Monday, June 5th)
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -58,9 +58,9 @@ _☑️ These articles are healthy, but need some improvements:_
 
 #### [A little unhealthy](#A-little-unhealthy)
 
-_ℹ️ These articles are starting to fall in ill health, and need some work:_
+_⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `22` (as of 2023, Sunday, June 4th)
+**Repo count (in this category):** `22` (as of 2023, Monday, June 5th)
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -87,9 +87,9 @@ _ℹ️ These articles are starting to fall in ill health, and need some work:_
 
 #### [Stubs](#Stubs)
 
-_⚠️ These articles are stubs and need significant expansion:_
+_⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `88` (as of 2023, Sunday, June 4th)
+**Repo count (in this category):** `95` (as of 2023, Monday, June 5th)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
 - https://github.com/seanpm2001/Why-you-should-not-be-a-Google-Developer `🌟️`
@@ -131,6 +131,7 @@ _⚠️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Docs `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Flutter `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tenor `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Podcasts `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_New `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_Classic
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings
@@ -179,28 +180,32 @@ _⚠️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-For-Education
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-For-Startups
 - https://github.com/seanpm2001/Why-you-should-not-attend-Google-IO
-
-#### [Major stubs](#Major-stubs)
-
-_⛔️ These articles have the least amount of development (not even a proper linguistic detected language) and need the most work:_
-
-**Repo count (in this category):** `5` (as of 2023, Sunday, June 4th)
-
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Survey-rewards
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calculator
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Camera
 - https://github.com/seanpm2001/Why-you-should-stop-using-Android-Pay
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fi
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Orkut
+
+<!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
+
+#### [Major stubs](#Major-stubs)
+
+_⛔️ These articles have the least amount of development (not even a proper linguistic detected language) and need the most work:_
+
+**Repo count (in this category):** `0` (as of 2023, Monday, June 5th)
 
 > **Note** _This section will likely be obsoleted in the near future, and may require repurposing or deletion when necessary._
+
+!-->
 
 ***
 
 # [File info](#File-info)
 
-**File version:** `11 (2023, Sunday, June 4th at 9:28 pm PST)`
+**File version:** `12 (2023, Monday, June 5th at 9:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `213`
+**Line count (including blank lines and compiler line):** `218`
 
 ###### [EOF](#EOF)
 
