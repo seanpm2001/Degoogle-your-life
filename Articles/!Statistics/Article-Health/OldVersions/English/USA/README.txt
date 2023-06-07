@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Monday, June 5th at 9:34 pm PST`
+**Listing as of:** `2023, Tuesday, June 6th at 10:39 pm PST`
 
 #### [Legend](#Legend)
 
@@ -89,7 +89,7 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `95` (as of 2023, Monday, June 5th)
+**Repo count (in this category):** `97` (as of 2023, Tuesday, June 6th)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
 - https://github.com/seanpm2001/Why-you-should-not-be-a-Google-Developer `🌟️`
@@ -132,6 +132,7 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Flutter `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tenor `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Podcasts `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Kubernetes `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_New `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_Classic
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings
@@ -186,6 +187,7 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Android-Pay
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fi
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Orkut
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Jigsaw
 
 <!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
 
@@ -203,9 +205,9 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 # [File info](#File-info)
 
-**File version:** `12 (2023, Monday, June 5th at 9:34 pm PST)`
+**File version:** `13 (2023, Tuesday, June 6th at 10:39 pm PST)`
 
-**Line count (including blank lines and compiler line):** `218`
+**Line count (including blank lines and compiler line):** `220`
 
 ###### [EOF](#EOF)
 
