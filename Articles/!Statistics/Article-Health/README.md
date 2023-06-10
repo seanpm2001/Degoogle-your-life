@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Thursday, June 8th at 4:50 pm PST`
+**Listing as of:** `2023, Friday, June 9th at 10:50 pm PST`
 
 #### [Legend](#Legend)
 
@@ -37,7 +37,7 @@
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Thursday, June 8th)
+**Repo count (in this category):** `3` (as of 2023, Friday, June 9th)
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -47,7 +47,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Thursday, June 8th)
+**Repo count (in this category):** `6` (as of 2023, Friday, June 9th)
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -60,7 +60,7 @@ _☑️ These articles are healthy, but need some improvements:_
 
 _⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `22` (as of 2023, Thursday, June 8th)
+**Repo count (in this category):** `22` (as of 2023, Friday, June 9th)
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -89,8 +89,9 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `101` (as of 2023, Thursday, June 8th)
+**Repo count (in this category):** `103` (as of 2023, Friday, June 9th)
 
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
 - https://github.com/seanpm2001/Why-you-should-not-be-a-Google-Developer `🌟️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Services `⭐️`
@@ -136,6 +137,7 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Workspace `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-StreetView `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Maps `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Earth `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_New `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_Classic
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings
@@ -209,9 +211,9 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 # [File info](#File-info)
 
-**File version:** `15 (2023, Thursday, June 8th at 4:50 pm PST)`
+**File version:** `16 (2023, Friday, June 9th at 10:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `224`
+**Line count (including blank lines and compiler line):** `230`
 
 ###### [EOF](#EOF)
 
@@ -220,4 +222,8 @@ _⛔️ These articles have the least amount of development (not even a proper l
 <!-- MISC
 
 The 3 projects I said I couldn't get to on 2023 June 3rd (due to low time) were actually worked on the same day that I said I couldn't work on them, as I ended up with more time than expected.
+
+ORKUT:
+MAPS, STREETVIEW, EARTH
+
 !-->
