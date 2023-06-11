@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Friday, June 9th at 10:50 pm PST`
+**Listing as of:** `2023, Saturday, June 10th at 09:49 pm PST`
 
 #### [Legend](#Legend)
 
@@ -37,7 +37,7 @@
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Friday, June 9th)
+**Repo count (in this category):** `3` (as of 2023, Saturday, June 10th)`
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -47,7 +47,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Friday, June 9th)
+**Repo count (in this category):** `6` (as of 2023, Saturday, June 10th)`
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -60,7 +60,7 @@ _☑️ These articles are healthy, but need some improvements:_
 
 _⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `22` (as of 2023, Friday, June 9th)
+**Repo count (in this category):** `22` (as of 2023, Saturday, June 10th)`
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -89,7 +89,7 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `103` (as of 2023, Friday, June 9th)
+**Repo count (in this category):** `105` (as of 2023, Saturday, June 10th)`
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
@@ -194,6 +194,8 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Orkut
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Jigsaw
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-WebDriver
+- https://github.com/seanpm2001/Why-you-should-avoid-YouTube-shorts
+- https://github.com/seanpm2001/Why-you-should-stop-using-YouTube-Theater
 
 <!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
 
@@ -211,9 +213,9 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 # [File info](#File-info)
 
-**File version:** `16 (2023, Friday, June 9th at 10:50 pm PST)`
+**File version:** `17 (2023, Saturday, June 10th at 09:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `230`
+**Line count (including blank lines and compiler line):** `232`
 
 ###### [EOF](#EOF)
 
