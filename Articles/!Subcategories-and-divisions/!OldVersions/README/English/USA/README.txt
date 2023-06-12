@@ -3,7 +3,7 @@
 
 # Article subcategories and divisions
 
-Listing as of 2023, Saturday, June 10th at 09:53 pm PST
+Listing as of 2023, Sunday, June 11th at 09:59 pm PST
 
 ## Advertising
 
@@ -134,6 +134,7 @@ Listing as of 2023, Saturday, June 10th at 09:53 pm PST
 
 - https://github.com/seanpm2001/Alternating-from-YouTube
 - https://github.com/seanpm2001/Why-you-should-avoid-YouTube-shorts
+- https://github.com/seanpm2001/Why-you-should-stop-using-YouTube-Studio
 - https://github.com/seanpm2001/Why-you-should-stop-using-YouTube-Theater
 
 ## Uncategorized
@@ -207,11 +208,14 @@ Listing as of 2023, Saturday, June 10th at 09:53 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Kubernetes
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Jigsaw
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-WebDriver
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-WearOS
 
 ***
 
 # File info
 
-**File version:** `1 (2023, Saturday, June 10th at 09:53 pm PST)`
+**File version:** `2 (2023, Sunday, June 11th at 09:59 pm PST)`
+
+<!-- TODO: Eventually create a file history section !-->
 
 ***
