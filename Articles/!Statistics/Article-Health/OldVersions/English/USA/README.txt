@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Monday, June 12th at 09:51 pm PST`
+**Listing as of:** `2023, Tuesday, June 13th at 03:39 pm PST`
 
 #### [Legend](#Legend)
 
@@ -37,7 +37,7 @@
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Monday, June 12th)`
+**Repo count (in this category):** `3` (as of 2023, Tuesday, June 13th)`
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -47,7 +47,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Monday, June 12th)`
+**Repo count (in this category):** `6` (as of 2023, Tuesday, June 13th)`
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -60,7 +60,7 @@ _☑️ These articles are healthy, but need some improvements:_
 
 _⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `22` (as of 2023, Monday, June 12th)`
+**Repo count (in this category):** `22` (as of 2023, Tuesday, June 13th)`
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -89,7 +89,7 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `109` (as of 2023, Monday, June 12th)`
+**Repo count (in this category):** `111` (as of 2023, Tuesday, June 13th)`
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
@@ -200,6 +200,8 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-avoid-YouTube-shorts
 - https://github.com/seanpm2001/Why-you-should-stop-using-YouTube-Theater
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Zagat
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Talk
+- https://github.com/seanpm2001/The-Problem-with-Google-Project-Ara
 
 <!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
 
@@ -217,11 +219,509 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 # [File info](#File-info)
 
-**File version:** `19 (2023, Monday, June 12th at 09:51 pm PST)`
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-**Line count (including blank lines and compiler line):** `238`
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-<!-- TODO: Eventually create a file history section !-->
+**File version:** `20 (2023, Tuesday, June 13th at 03:39 pm PST)`
+
+**Line count (including blank lines and compiler line):** `738`
+
+**Word count:** `4,541`
+
+**Character count (including spaces):** `30,593`
+
+**Character count (excluding spaces):** `26,996`
+
+**Size (in bytes):** `31,000`
+
+**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
+
+***
+
+# [File history](#File-history)
+
+<details><summary><p><b>[Click/tap here to expand/collapse the file history section]</b></p></summary>
+
+## Version 1 (2023, Wednesday, May 24th at 5:20 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 1]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V1.md`](/OldVersions/English/USA/README_V1.md)
+
+> Changes
+
+- [x] Started the file
+- [x] Added the `title` section
+- [x] Added the `Table of contents/legend` section
+- [x] Added the `Very healthy` section
+- [x] Added the `Healthy` section
+- [x] Added the `A little unhealthy` section
+- [x] Added the `Stubs` section
+- [x] Added the `Major stubs` section
+- [x] Added the `File info` section
+- [ ] No other changes in version 1
+
+</details> <!-- End of V01 !-->
+
+## Version 2 (2023, Thursday, May 25th at 7:10 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 2]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V2.md`](/OldVersions/English/USA/README_V2.md)
+
+> Changes
+
+- [x] Converted all headings into headings with anchor links built-in
+- [x] Updated the `Title` section
+- [x] Updated the `Table of contents/legend` section
+- [x] Updated the `Very healthy` section
+- - [x] Added emojis for status
+- [x] Updated the `Healthy` section
+- - [x] Added emojis for status
+- [x] Updated the `A little unhealthy` section
+- - [x] Added emojis for status
+- [x] Updated the `Stubs` section
+- - [x] Added emojis for status
+- [x] Updated the `Major stubs` section
+- - [x] Added emojis for status
+- [x] Updated the `File info` section
+- [ ] No other changes in version 2
+
+</details> <!-- End of V02 !-->
+
+## Version 3 (2023, Friday, May 26th at 8:06 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 3]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V3.md`](/OldVersions/English/USA/README_V3.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Stubs` section
+- [x] Updated the `Major stubs` section
+- [x] Updated the `File info` section
+- [ ] No other changes in version 3
+
+</details> <!-- End of V03 !-->
+
+## Version 4 (2023, Saturday, May 27th at 1:37 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 4]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V4.md`](/OldVersions/English/USA/README_V4.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Stubs` section
+- [x] Updated the `Major stubs` section
+- [x] Updated the `File info` section
+- [ ] No other changes in version 4
+
+</details> <!-- End of V04 !-->
+
+## Version 5 (2023, Sunday, May 28th at 9:48 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 5]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V5.md`](/OldVersions/English/USA/README_V5.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Stubs` section
+- [x] Updated the `Major stubs` section
+- [x] Updated the `File info` section
+- [ ] No other changes in version 5
+
+</details> <!-- End of V05 !-->
+
+## Version 6 (2023, Monday, May 29th at 10:32 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 6]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V6.md`](/OldVersions/English/USA/README_V6.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Stubs` section
+- [x] Updated the `Major stubs` section
+- [x] Updated the `File info` section
+- [ ] No other changes in version 6
+
+</details> <!-- End of V06 !-->
+
+## Version 7 (2023, Tuesday, May 30th at 4:15 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 7]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V7.md`](/OldVersions/English/USA/README_V7.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Stubs` section
+- [x] Updated the `Major stubs` section
+- [x] Updated the `File info` section
+- [ ] No other changes in version 7
+
+</details> <!-- End of V07 !-->
+
+## Version 8 (2023, Wednesday, May 31st at 9:09 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 8]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V8.md`](/OldVersions/English/USA/README_V8.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Stubs` section
+- [x] Updated the `Major stubs` section
+- [x] Updated the `File info` section
+- [ ] No other changes in version 8
+
+</details> <!-- End of V08 !-->
+
+## Version 9 (2023, Thursday, June 1st at 4:41 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 9]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V9.md`](/OldVersions/English/USA/README_V9.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Stubs` section
+- [x] Updated the `Major stubs` section
+- [x] Updated the `File info` section
+- [ ] No other changes in version 9
+
+</details> <!-- End of V09 !-->
+
+## Version 10 (2023, Saturday, June 3rd at 9:53 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 10]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V10.md`](/OldVersions/English/USA/README_V10.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Added a repository counter
+- [x] Updated the `Healthy` section
+- - [x] Added a repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Added a repository counter
+- [x] Updated the `Stubs` section
+- - [x] Added a repository counter
+- - [x] Added 13 entries
+- [x] Updated the `Major stubs` section
+- - [x] Added a repository counter
+- - [x] Removed 11 entries
+- [x] Updated the `File info` section
+- [ ] No other changes in version 10
+
+</details> <!-- End of V10 !-->
+
+## Version 11 (2023, Sunday, June 4th at 9:28 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 11]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V11.md`](/OldVersions/English/USA/README_V11.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 9 entries
+- [x] Updated the `Major stubs` section
+- - [x] Updated the repository counter
+- - [x] Removed 7 entries
+- [x] Updated the `File info` section
+- [ ] No other changes in version 11
+
+</details> <!-- End of V11 !-->
+
+## Version 12 (2023, Monday, June 5th at 9:34 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 12]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V12.md`](/OldVersions/English/USA/README_V12.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Table of contents/legend` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 7 entries
+- [x] Removed the `Major stubs` section from public view (commented out) as it became obsolete
+- [x] Updated the `File info` section
+- [ ] No other changes in version 12
+
+</details> <!-- End of V12 !-->
+
+## Version 13 (2023, Tuesday, June 6th at 10:39 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 13]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V13.md`](/OldVersions/English/USA/README_V13.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [ ] No other changes in version 13
+
+</details> <!-- End of V13 !-->
+
+## Version 14 (2023, Wednesday, June 7th at 9:57 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 14]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V14.md`](/OldVersions/English/USA/README_V14.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [ ] No other changes in version 14
+
+</details> <!-- End of V14 !-->
+
+## Version 15 (2023, Thursday, June 8th at 4:50 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 15]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V15.md`](/OldVersions/English/USA/README_V15.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [ ] No other changes in version 15
+
+</details> <!-- End of V15 !-->
+
+## Version 16 (2023, Friday, June 9th at 10:50 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 16]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V16.md`](/OldVersions/English/USA/README_V16.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [ ] No other changes in version 16
+
+</details> <!-- End of V16 !-->
+
+## Version 17 (2023, Saturday, June 10th at 09:49 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 17]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V17.md`](/OldVersions/English/USA/README_V17.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [ ] No other changes in version 17
+
+</details> <!-- End of V17 !-->
+
+## Version 18 (2023, Sunday, June 11th at 09:57 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 18]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V18.md`](/OldVersions/English/USA/README_V18.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [ ] No other changes in version 18
+
+</details> <!-- End of V18 !-->
+
+## Version 19 (2023, Monday, June 12th at 09:51 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 19]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V19.md`](/OldVersions/English/USA/README_V19.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [ ] No other changes in version 19
+
+</details> <!-- End of V19 !-->
+
+## Version 20 (2023, Tuesday, June 13th at 03:39 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 20]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V20.md`](/OldVersions/English/USA/README_V20.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 1
+- - [x] Added an entry for version 2
+- - [x] Added an entry for version 3
+- - [x] Added an entry for version 4
+- - [x] Added an entry for version 5
+- - [x] Added an entry for version 6
+- - [x] Added an entry for version 7
+- - [x] Added an entry for version 8
+- - [x] Added an entry for version 9
+- - [x] Added an entry for version 10
+- - [x] Added an entry for version 11
+- - [x] Added an entry for version 12
+- - [x] Added an entry for version 13
+- - [x] Added an entry for version 14
+- - [x] Added an entry for version 15
+- - [x] Added an entry for version 16
+- - [x] Added an entry for version 17
+- - [x] Added an entry for version 18
+- - [x] Added an entry for version 19
+- - [x] Added an entry for version 20
+- [x] Added the `Footer` section
+- [ ] No other changes in version 20
+
+</details> <!-- End of V20 !-->
+
+</details> <!-- End of file history !-->
+
+***
+
+# [Footer](#Footer)
+
+You have reached the end of this document.
 
 ###### [EOF](#EOF)
 
