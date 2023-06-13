@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Sunday, June 11th at 09:57 pm PST`
+**Listing as of:** `2023, Monday, June 12th at 09:51 pm PST`
 
 #### [Legend](#Legend)
 
@@ -37,7 +37,7 @@
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Sunday, June 11th)`
+**Repo count (in this category):** `3` (as of 2023, Monday, June 12th)`
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -47,7 +47,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Sunday, June 11th)`
+**Repo count (in this category):** `6` (as of 2023, Monday, June 12th)`
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -60,7 +60,7 @@ _☑️ These articles are healthy, but need some improvements:_
 
 _⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `22` (as of 2023, Sunday, June 11th)`
+**Repo count (in this category):** `22` (as of 2023, Monday, June 12th)`
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -89,7 +89,7 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `107` (as of 2023, Sunday, June 11th)`
+**Repo count (in this category):** `109` (as of 2023, Monday, June 12th)`
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
@@ -137,6 +137,7 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Podcasts `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Kubernetes `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Workspace `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-V8 `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-StreetView `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Maps `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Earth `⭐️`
@@ -198,6 +199,7 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-WebDriver
 - https://github.com/seanpm2001/Why-you-should-avoid-YouTube-shorts
 - https://github.com/seanpm2001/Why-you-should-stop-using-YouTube-Theater
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Zagat
 
 <!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
 
@@ -215,9 +217,9 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 # [File info](#File-info)
 
-**File version:** `18 (2023, Sunday, June 11th at 09:57 pm PST)`
+**File version:** `19 (2023, Monday, June 12th at 09:51 pm PST)`
 
-**Line count (including blank lines and compiler line):** `236`
+**Line count (including blank lines and compiler line):** `238`
 
 <!-- TODO: Eventually create a file history section !-->
 
