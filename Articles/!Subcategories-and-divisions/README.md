@@ -3,7 +3,7 @@
 
 # Article subcategories and divisions
 
-Listing as of 2023, Tuesday, June 13th at 04:00 pm PST
+Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 
 ## Advertising and monetization
 
@@ -34,6 +34,10 @@ Listing as of 2023, Tuesday, June 13th at 04:00 pm PST
 ## Artificial Intelligence
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tensorflow
+
+## Augmented Reality
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-AR-Core
 
 ## Business lock-in
 
@@ -201,6 +205,10 @@ Listing as of 2023, Tuesday, June 13th at 04:00 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Video
 
+## Partnerships
+
+- https://github.com/seanpm2001/Google-Apple-Partnership-COVID-19
+
 ## Programming languages
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Apps-Script
@@ -285,6 +293,8 @@ Listing as of 2023, Tuesday, June 13th at 04:00 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Jamboard
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Jigsaw
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Zagat
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Backrub
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calico
 
 ***
 
@@ -295,17 +305,17 @@ Listing as of 2023, Tuesday, June 13th at 04:00 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Tuesday, June 13th at 04:00 pm PST)`
+**File version:** `5 (2023, Thursday, June 15th at 08:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `468`
+**Line count (including blank lines and compiler line):** `498`
 
-**Word count:** `2,610`
+**Word count:** `2,763`
 
-**Character count (including spaces):** `17,609`
+**Character count (including spaces):** `18,651`
 
-**Character count (excluding spaces):** `16,065`
+**Character count (excluding spaces):** `16,983`
 
-**Size (in bytes):** `17,609`
+**Size (in bytes):** `18,651`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -453,6 +463,26 @@ Listing as of 2023, Tuesday, June 13th at 04:00 pm PST
 - [ ] No other changes in version 4
 
 </details> <!-- End of V04 !-->
+
+## Version 5 (2023, Thursday, June 15th at 08:35 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 5]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V5.md`](/!OldVersions/README/English/USA/README_V5.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Added the `Augmented Reality` section
+- [x] Added the `Partnerships` section
+- [x] Updated the `Uncategorized` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
+
+</details> <!-- End of V05 !-->
 
 </details> <!-- End of file history !-->
 
