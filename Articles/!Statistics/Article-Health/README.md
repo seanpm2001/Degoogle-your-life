@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Tuesday, June 13th at 03:39 pm PST`
+**Listing as of:** `2023, Thursday, June 15th at 08:32 pm PST`
 
 #### [Legend](#Legend)
 
@@ -37,7 +37,7 @@
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Tuesday, June 13th)`
+**Repo count (in this category):** `3` (as of 2023, Thursday, June 15th)`
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -47,7 +47,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Tuesday, June 13th)`
+**Repo count (in this category):** `6` (as of 2023, Thursday, June 15th)`
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -60,7 +60,7 @@ _☑️ These articles are healthy, but need some improvements:_
 
 _⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `22` (as of 2023, Tuesday, June 13th)`
+**Repo count (in this category):** `22` (as of 2023, Thursday, June 15th)`
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -89,7 +89,7 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `111` (as of 2023, Tuesday, June 13th)`
+**Repo count (in this category):** `115` (as of 2023, Thursday, June 15th)`
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
@@ -135,6 +135,7 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Flutter `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tenor `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Podcasts `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-AR-Core `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Kubernetes `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Workspace `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-V8 `⭐️`
@@ -202,6 +203,9 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Zagat
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Talk
 - https://github.com/seanpm2001/The-Problem-with-Google-Project-Ara
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Backrub
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calico
+- https://github.com/seanpm2001/Google-Apple-Partnership-COVID-19
 
 <!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
 
@@ -223,17 +227,17 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2023, Tuesday, June 13th at 03:39 pm PST)`
+**File version:** `21 (2023, Thursday, June 15th at 08:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `738`
+**Line count (including blank lines and compiler line):** `768`
 
-**Word count:** `4,541`
+**Word count:** `4,721`
 
-**Character count (including spaces):** `30,593`
+**Character count (including spaces):** `31,814`
 
-**Character count (excluding spaces):** `26,996`
+**Character count (excluding spaces):** `28,059`
 
-**Size (in bytes):** `31,000`
+**Size (in bytes):** `32,225`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -714,6 +718,32 @@ _⛔️ These articles have the least amount of development (not even a proper l
 - [ ] No other changes in version 20
 
 </details> <!-- End of V20 !-->
+
+## Version 21 (2023, Thursday, June 15th at 08:32 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 21]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V20.md`](/OldVersions/English/USA/README_V21.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 4 entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 21
+- [ ] No other changes in version 21
+
+</details> <!-- End of V21 !-->
 
 </details> <!-- End of file history !-->
 
