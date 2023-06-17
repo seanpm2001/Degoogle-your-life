@@ -3,7 +3,7 @@
 
 # Article subcategories and divisions
 
-Listing as of 2023, Thursday, June 15th at 08:35 pm PST
+Listing as of 2023, Friday, June 16th at 11:22 pm PST
 
 ## Advertising and monetization
 
@@ -52,6 +52,10 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 ## Calendar lock-in
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calendar
+
+## Data takeout
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-the-Google-Data-Transfer-project
 
 ## DRM
 
@@ -110,6 +114,7 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 ## Google Accounts
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Accounts
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Families
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-One
 
 ## Google Chrome
@@ -119,6 +124,10 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Chrome
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Incognito-Mode
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-V8
+
+## Google Fonts
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fonts
 
 ## Google Maps and Google Earth
 
@@ -132,12 +141,14 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 ## Google Photos
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Photos
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Gallery
 
 -- Picasso
 
 ## Google Play
 
 - https://github.com/seanpm2001/Stop-reading-from-Google-Books
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Movies
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Play-Movies
 - https://github.com/seanpm2001/Why-you-should-stop-using-the-Google-Play-Store
 
@@ -147,6 +158,8 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 - https://github.com/seanpm2001/Stop-Googling--Why-you-should-stop-using-Google-Search
 - https://github.com/seanpm2001/Why-you-should-avoid-Google-AMP
 - https://github.com/seanpm2001/Why-you-should-avoid-Google-News
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Backrub (ie: stop using Google search, BackRub is the original name of Google)
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Discover
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Images
 
 ## Google Sites
@@ -172,6 +185,7 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sheets
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Slides
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Suite-GSuite
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tasks
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Workspace
 
 ## Hardware
@@ -184,6 +198,12 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Nexus
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Pixel
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Stadia
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Station
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Topaz
+
+## Health
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fit
 
 ## Instant Messaging
 
@@ -195,11 +215,29 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Meet
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Messages
 
+## Money hoarding
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Capital
+
+## Monopolized museums
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Arts-and-Culture
+
+## Multi-factor Authentication
+
+- Don't get further locked into the Google Ecosystem!
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Authenticator
+
 ## Other operating systems
 
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fuchsia
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-WearOS
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Zircon
+
+### Google Fuchsia
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fuchsia
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Peridot (There aren't very many sources for this, it was hard to research, but it appears to be something related to Google Fuchsia)
 
 ## Other video hosting services
 
@@ -217,14 +255,29 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Flutter
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Go
 
+## Research
+
+Research companies owned by Google
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calico
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Jigsaw
+
+## Review services
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Zagat
+
 ## SaaSS Server trap
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Print
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Services
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-FireBase
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Kubernetes (although no longer owned by Google, it still relies heavily on Google services, such as the Google Go programming language)
- - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Looker
- 
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Looker
+
+## Shopping
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Store
+
 ## Source Code site
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Gerrit
@@ -237,9 +290,21 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Plus
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Podcasts
 
+## Surveys
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Survey-rewards
+
 ## Translation
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Translate
+
+## Video games
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-AlphaGo
+
+## Virtual reality
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cardboard
 
 ## Voice
 
@@ -255,6 +320,10 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-WebM
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-WebP
+
+## Whiteboarding
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Jamboard
 
 ## Wiki
 
@@ -274,30 +343,11 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 
 ## Uncategorized
 
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Survey-rewards
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cardboard
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Movies
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Families
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Gallery
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Peridot
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fonts
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fit
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Topaz
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Store
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Station
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tasks
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Discover
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Capital
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Arts-and-Culture
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-AlphaGo
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Jamboard
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Jigsaw
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Zagat
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Backrub
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calico
+- This section is now empty
+https://github.com/seanpm2001/Why-you-should-stop-using-the-Google-Data-Transfer-project
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Authenticator
 
 ***
-
 
 # [File info](#File-info)
 
@@ -305,17 +355,17 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Thursday, June 15th at 08:35 pm PST)`
+**File version:** `6 (2023, Friday, June 16th at 11:22 pm PST)`
 
-**Line count (including blank lines and compiler line):** `498`
+**Line count (including blank lines and compiler line):** `586`
 
-**Word count:** `2,763`
+**Word count:** `3,101`
 
-**Character count (including spaces):** `18,651`
+**Character count (including spaces):** `20,994`
 
-**Character count (excluding spaces):** `16,983`
+**Character count (excluding spaces):** `18,973`
 
-**Size (in bytes):** `18,651`
+**Size (in bytes):** `20,994`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -483,6 +533,44 @@ Listing as of 2023, Thursday, June 15th at 08:35 pm PST
 - [ ] No other changes in version 5
 
 </details> <!-- End of V05 !-->
+
+## Version 6 (2023, Friday, June 16th at 11:22 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 6]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V6.md`](/!OldVersions/README/English/USA/README_V6.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Added the `Google Fonts` section
+- [x] Added the `Virtual Reality` section
+- [x] Updated the `Google Search` section
+- [x] Added the `Research` section
+- [x] Added the `Research` section
+- [x] Added the `Review services` section
+- [x] Updated the `Google Photos` section
+- [x] Added the `Health` section
+- [x] Added the `Whiteboarding` section
+- [x] Added the `Money hoarding` section
+- [x] Added the `Video games` section
+- [x] Added the `Mononpolized museums` section
+- [x] Updated the `Google Play` section
+- [x] Added the `Shopping` section
+- [x] Added the `Surveys` section
+- [x] Updated the `Other operating systems` section
+- - [x] Added the `Google Fuchsia` subsection
+- [x] Added the `Multi-factor authentication`
+- [x] Added the `Data takeout`
+- [x] Updated the `Uncategorized` section
+- - [x] Finished cleaning out this section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
+
+</details> <!-- End of V06 !-->
 
 </details> <!-- End of file history !-->
 
