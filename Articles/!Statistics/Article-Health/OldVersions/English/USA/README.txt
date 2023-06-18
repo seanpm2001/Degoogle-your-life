@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Friday, June 16th at 11:27 pm PST`
+**Listing as of:** `2023, Saturday, June 17th at 08:49 pm PST`
 
 #### [Legend](#Legend)
 
@@ -33,11 +33,13 @@
 - `⭐️` - A vital repository, but not a core repository. These are plentiful, as they are applied to all major, very stable Google services
 - `🗄️` - These repositories are completed/archived. They do not need further work.
 
+> **Note** _As of 2023, Saturday, June 17th, 2 entries are missing from this list (the combined count is `150` when it should be `152`)_
+
 #### [Very healthy](#Very-healthy)
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Friday, June 16th)`
+**Repo count (in this category):** `3` (as of 2023, Saturday, June 17th)`
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -47,7 +49,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Friday, June 16th)`
+**Repo count (in this category):** `6` (as of 2023, Saturday, June 17th)`
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -60,7 +62,7 @@ _☑️ These articles are healthy, but need some improvements:_
 
 _⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `22` (as of 2023, Friday, June 16th)`
+**Repo count (in this category):** `22` (as of 2023, Saturday, June 17th)`
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -89,7 +91,7 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `117` (as of 2023, Friday, June 16th)`
+**Repo count (in this category):** `119` (as of 2023, Saturday, June 17th)`
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
@@ -208,6 +210,8 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Backrub
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calico
 - https://github.com/seanpm2001/Google-Apple-Partnership-COVID-19
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Source-Repositories
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Colaboratory
 
 <!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
 
@@ -229,17 +233,17 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `22 (2023, Friday, June 16th at 11:27 pm PST)`
+**File version:** `23 (2023, Saturday, June 17th at 08:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `797`
+**Line count (including blank lines and compiler line):** `829`
 
-**Word count:** `4,890`
+**Word count:** `5,088`
 
-**Character count (including spaces):** `32,947`
+**Character count (including spaces):** `34,272`
 
-**Character count (excluding spaces):** `29,028`
+**Character count (excluding spaces):** `30,158`
 
-**Size (in bytes):** `33,366`
+**Size (in bytes):** `34,691`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -773,6 +777,34 @@ _⛔️ These articles have the least amount of development (not even a proper l
 - [ ] No other changes in version 22
 
 </details> <!-- End of V22 !-->
+
+## Version 23 (2023, Saturday, June 17th at 08:49 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 23]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V23.md`](/OldVersions/English/USA/README_V23.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Legend` section
+- - [x] Added a note about 2 missing entries
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 23
+- [ ] No other changes in version 23
+
+</details> <!-- End of V23 !-->
 
 </details> <!-- End of file history !-->
 
