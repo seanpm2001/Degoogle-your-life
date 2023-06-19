@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Saturday, June 17th at 08:51 pm PST
+Listing as of 2023, Sunday, June 18th at xx:xx pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -57,9 +57,15 @@ Listing as of 2023, Saturday, June 17th at 08:51 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-the-Google-Data-Transfer-project
 
+## [Domain registration](#Domain-registration)
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Domains
+
 ## [DRM](#DRM)
 
 > "DRM fails completely at preventing copying, but it is brilliant at preventing innovation" - Cory Doctorow
+
+> **Note** _I highly recommend reading into [defectivebydesign](https://www.defectivebydesign.org/) and joining the anti-DRM movement._
 
 ### [ReCaptcha](#ReCatptcha)
 
@@ -240,6 +246,7 @@ Listing as of 2023, Saturday, June 17th at 08:51 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fuchsia
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Peridot (There aren't very many sources for this, it was hard to research, but it appears to be something related to Google Fuchsia)
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Garnet (There aren't very many sources for this, it was hard to research, but it appears to be another entity related to Google Fuchsia)
 
 ## [Other video hosting services](#Other-video-hosting-services)
 
@@ -347,7 +354,7 @@ Listing as of 2023, Saturday, June 17th at 08:51 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Saturday, June 17th)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Sunday, June 18th, 3 days)
 
 ***
 
@@ -357,17 +364,17 @@ Listing as of 2023, Saturday, June 17th at 08:51 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Saturday, June 17th at 08:51 pm PST)`
+**File version:** `8 (2023, Sunday, June 18th at 05:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `612`
+**Line count (including blank lines and compiler line):** `641`
 
-**Word count:** `3,392`
+**Word count:** `3,590`
 
-**Character count (including spaces):** `23,255`
+**Character count (including spaces):** `24,572`
 
-**Character count (excluding spaces):** `21,053`
+**Character count (excluding spaces):** `22,189`
 
-**Size (in bytes):** `23,255`
+**Size (in bytes):** `24,572`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -597,6 +604,28 @@ Listing as of 2023, Saturday, June 17th at 08:51 pm PST
 - [ ] No other changes in version 7
 
 </details> <!-- End of V07 !-->
+
+## Version 8 (2023, Sunday, June 18th at 05:31 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 8]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V8.md`](/!OldVersions/README/English/USA/README_V8.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Added the `Domain registration` section
+- [x] Updated the `Other Operating Systems` section
+- - [x] Updated the `Google Fucksia` subsection
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (3 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
+
+</details> <!-- End of V08 !-->
 
 </details> <!-- End of file history !-->
 
