@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Sunday, June 18th at xx:xx pm PST
+Listing as of 2023, Monday, June 19th at 09:45 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -145,6 +145,11 @@ Listing as of 2023, Sunday, June 18th at xx:xx pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Earth
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Trips
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Travel
+
+## [Google dot org](#Google-dot-org)
+
+- https://github.com/seanpm2001/The-Problem-with-Google-Green
+- https://github.com/seanpm2001/The-Problem-with-Google.org
 
 ## [Google Photos](#Google-Photos)
 
@@ -354,7 +359,7 @@ Listing as of 2023, Sunday, June 18th at xx:xx pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Sunday, June 18th, 3 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Monday, June 19th, 4 days)
 
 ***
 
@@ -364,17 +369,17 @@ Listing as of 2023, Sunday, June 18th at xx:xx pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2023, Sunday, June 18th at 05:31 pm PST)`
+**File version:** `9 (2023, Monday, June 19th at 09:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `641`
+**Line count (including blank lines and compiler line):** `666`
 
-**Word count:** `3,590`
+**Word count:** `3,731`
 
-**Character count (including spaces):** `24,572`
+**Character count (including spaces):** `25,482`
 
-**Character count (excluding spaces):** `22,189`
+**Character count (excluding spaces):** `22,971`
 
-**Size (in bytes):** `24,572`
+**Size (in bytes):** `25,482`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -626,6 +631,26 @@ Listing as of 2023, Sunday, June 18th at xx:xx pm PST
 - [ ] No other changes in version 8
 
 </details> <!-- End of V08 !-->
+
+## Version 9 (2023, Monday, June 19th at 09:45 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 9]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V9.md`](/!OldVersions/README/English/USA/README_V9.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Added the `Google Dot Org` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (4 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
+
+</details> <!-- End of V09 !-->
 
 </details> <!-- End of file history !-->
 
