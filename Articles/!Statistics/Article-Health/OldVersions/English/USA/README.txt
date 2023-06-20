@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Sunday, June 18th at 05:36 pm PST`
+**Listing as of:** `2023, Monday, June 19th at 09:43 pm PST`
 
 #### [Legend](#Legend)
 
@@ -33,13 +33,13 @@
 - `⭐️` - A vital repository, but not a core repository. These are plentiful, as they are applied to all major, very stable Google services
 - `🗄️` - These repositories are completed/archived. They do not need further work.
 
-> **Note** _As of 2023, Sunday, June 18th, 2 entries are missing from this list (the combined count is `152` when it should be `154`)_
+> **Note** _As of 2023, Monday, June 19th, 2 entries are missing from this list (the combined count is `154` when it should be `156`)_
 
 #### [Very healthy](#Very-healthy)
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Sunday, June 18th)`
+**Repo count (in this category):** `3` (as of 2023, Monday, June 19th)`
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -49,7 +49,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Sunday, June 18th)`
+**Repo count (in this category):** `6` (as of 2023, Monday, June 19th)`
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -62,7 +62,7 @@ _☑️ These articles are healthy, but need some improvements:_
 
 _⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `22` (as of 2023, Sunday, June 18th)`
+**Repo count (in this category):** `23` (as of 2023, Monday, June 19th)`
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -86,12 +86,13 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 - https://github.com/seanpm2001/Why-you-should-avoid-Google-AMP `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-ReCaptcha `⭐️`
 - https://github.com/seanpm2001/What-the-FLoC
+- https://github.com/seanpm2001/The-Problem-with-Google-Green
 
 #### [Stubs](#Stubs)
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `121` (as of 2023, Sunday, June 18th)`
+**Repo count (in this category):** `122` (as of 2023, Monday, June 19th)`
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
@@ -214,6 +215,7 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Colaboratory
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Domains
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Garnet
+- https://github.com/seanpm2001/The-Problem-with-Google.org
 
 <!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
 
@@ -235,17 +237,17 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2023, Sunday, June 18th at 05:36 pm PST)`
+**File version:** `25 (2023, Monday, June 19th at 09:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `860`
+**Line count (including blank lines and compiler line):** `891`
 
-**Word count:** `5,273`
+**Word count:** `5,450`
 
-**Character count (including spaces):** `35,480`
+**Character count (including spaces):** `36,651`
 
-**Character count (excluding spaces):** `31,182`
+**Character count (excluding spaces):** `32,173`
 
-**Size (in bytes):** `35,899`
+**Size (in bytes):** `37,070`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -836,6 +838,35 @@ _⛔️ These articles have the least amount of development (not even a proper l
 - [ ] No other changes in version 24
 
 </details> <!-- End of V24 !-->
+
+## Version 25 (2023, Monday, June 19th at 09:43 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 25]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V25.md`](/OldVersions/English/USA/README_V25.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Legend` section
+- - [x] Updated the note about 2 missing entries, as it is still true
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- - [x] Added 1 entry
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 1 entry
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 25
+- [ ] No other changes in version 25
+
+</details> <!-- End of V25 !-->
 
 </details> <!-- End of file history !-->
 
