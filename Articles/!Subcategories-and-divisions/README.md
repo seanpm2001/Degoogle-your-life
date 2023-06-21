@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Monday, June 19th at 09:45 pm PST
+Listing as of 2023, Tuesday, June 20th at 05:36 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -56,6 +56,10 @@ Listing as of 2023, Monday, June 19th at 09:45 pm PST
 ## [Data takeout](#Data-takeout)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-the-Google-Data-Transfer-project
+
+## [Data wrangling](#Data-wrangling)
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Refine
 
 ## [Domain registration](#Domain-registration)
 
@@ -163,6 +167,7 @@ Listing as of 2023, Monday, June 19th at 09:45 pm PST
 - https://github.com/seanpm2001/Stop-reading-from-Google-Books
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Movies
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Play-Movies
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Play-NewsStand
 - https://github.com/seanpm2001/Why-you-should-stop-using-the-Google-Play-Store
 
 ## [Google Search](#Google-Search)
@@ -359,7 +364,7 @@ Listing as of 2023, Monday, June 19th at 09:45 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Monday, June 19th, 4 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Tuesday, June 20th, 5 days)
 
 ***
 
@@ -369,17 +374,17 @@ Listing as of 2023, Monday, June 19th at 09:45 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2023, Monday, June 19th at 09:45 pm PST)`
+**File version:** `10 (2023, Tuesday, June 20th at 05:36 pm PST)`
 
 **Line count (including blank lines and compiler line):** `666`
 
-**Word count:** `3,731`
+**Word count:** `3,880`
 
-**Character count (including spaces):** `25,482`
+**Character count (including spaces):** `26,471`
 
-**Character count (excluding spaces):** `22,971`
+**Character count (excluding spaces):** `23,827`
 
-**Size (in bytes):** `25,482`
+**Size (in bytes):** `26,471`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -651,6 +656,27 @@ Listing as of 2023, Monday, June 19th at 09:45 pm PST
 - [ ] No other changes in version 9
 
 </details> <!-- End of V09 !-->
+
+## Version 10 (2023, Tuesday, June 20th at 05:36 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 10]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V10.md`](/!OldVersions/README/English/USA/README_V10.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Google Play` section
+- [x] Added the `Data wrangling` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (5 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
+
+</details> <!-- End of V10 !-->
 
 </details> <!-- End of file history !-->
 
