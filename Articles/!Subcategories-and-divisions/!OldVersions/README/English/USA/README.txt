@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Tuesday, June 20th at 05:36 pm PST
+Listing as of 2023, Wednesday, June 21st at 05:45 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -233,6 +233,10 @@ Listing as of 2023, Tuesday, June 20th at 05:36 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Meet
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Messages
 
+## [JPEG tools](#JPEG-Tools)
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Guetzli
+
 ## [Money hoarding](#Money-hoarding)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Capital
@@ -350,6 +354,10 @@ Listing as of 2023, Tuesday, June 20th at 05:36 pm PST
 
 - https://github.com/seanpm2001/DeGoogle-your-Life_Wiki_2021
 
+## ["Wikipedia Killer"](#Wikipedia-Killer)
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Knol
+
 ## [Wireless lock-in](#Wireless-lock-in)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fi
@@ -364,7 +372,7 @@ Listing as of 2023, Tuesday, June 20th at 05:36 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Tuesday, June 20th, 5 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Wednesday, June 21st, 6 days)
 
 ***
 
@@ -374,17 +382,17 @@ Listing as of 2023, Tuesday, June 20th at 05:36 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2023, Tuesday, June 20th at 05:36 pm PST)`
+**File version:** `11 (2023, Wednesday, June 21st at 05:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `666`
+**Line count (including blank lines and compiler line):** `721`
 
-**Word count:** `3,880`
+**Word count:** `4,032`
 
-**Character count (including spaces):** `26,471`
+**Character count (including spaces):** `27,496`
 
-**Character count (excluding spaces):** `23,827`
+**Character count (excluding spaces):** `24,714`
 
-**Size (in bytes):** `26,471`
+**Size (in bytes):** `27,496`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -673,10 +681,31 @@ Listing as of 2023, Tuesday, June 20th at 05:36 pm PST
 - - [x] Updated the counter for how long this section has been empty (5 days)
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
-- - [x] Added an entry for version 9
-- [ ] No other changes in version 9
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
 
 </details> <!-- End of V10 !-->
+
+## Version 11 (2023, Wednesday, June 21st at 05:45 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 11]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V11.md`](/!OldVersions/README/English/USA/README_V11.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Added the `JPEG tols` section
+- [x] Added the `"Wikipedia Killer"` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (6 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 11
+- [ ] No other changes in version 11
+
+</details> <!-- End of V11 !-->
 
 </details> <!-- End of file history !-->
 
