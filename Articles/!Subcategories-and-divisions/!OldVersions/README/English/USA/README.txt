@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Wednesday, June 21st at 05:45 pm PST
+Listing as of 2023, Thursday, June 22nd at 09:42 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -154,6 +154,7 @@ Listing as of 2023, Wednesday, June 21st at 05:45 pm PST
 
 - https://github.com/seanpm2001/The-Problem-with-Google-Green
 - https://github.com/seanpm2001/The-Problem-with-Google.org
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Business-Groups-GBG
 
 ## [Google Photos](#Google-Photos)
 
@@ -314,6 +315,7 @@ Listing as of 2023, Wednesday, June 21st at 05:45 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Orkut
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Plus
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Podcasts
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Wave
 
 ## [Surveys](#Surveys)
 
@@ -372,7 +374,7 @@ Listing as of 2023, Wednesday, June 21st at 05:45 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Wednesday, June 21st, 6 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Thursday, June 22nd, 7 days)
 
 ***
 
@@ -382,17 +384,17 @@ Listing as of 2023, Wednesday, June 21st at 05:45 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `11 (2023, Wednesday, June 21st at 05:45 pm PST)`
+**File version:** `12 (2023, Thursday, June 22nd at 09:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `721`
+**Line count (including blank lines and compiler line):** `744`
 
-**Word count:** `4,032`
+**Word count:** `4,179`
 
-**Character count (including spaces):** `27,496`
+**Character count (including spaces):** `28,451`
 
-**Character count (excluding spaces):** `24,714`
+**Character count (excluding spaces):** `25,540`
 
-**Size (in bytes):** `27,496`
+**Size (in bytes):** `28,451`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -686,7 +688,7 @@ Listing as of 2023, Wednesday, June 21st at 05:45 pm PST
 
 </details> <!-- End of V10 !-->
 
-## Version 11 (2023, Wednesday, June 21st at 05:45 pm PST)
+## Version 11 (2023, Wednesday, June 21st at xx:xx pm PST)
 
 <details><summary><p><b>[Click/tap here to expand/collapse release notes for version 11]</b></p></summary>
 
@@ -696,7 +698,7 @@ Listing as of 2023, Wednesday, June 21st at 05:45 pm PST
 > Changes
 
 - [x] Updated the `Title` section
-- [x] Added the `JPEG tols` section
+- [x] Added the `JPEG tools` section
 - [x] Added the `"Wikipedia Killer"` section
 - [x] Updated the `Uncategorized` section
 - - [x] Updated the counter for how long this section has been empty (6 days)
@@ -706,6 +708,27 @@ Listing as of 2023, Wednesday, June 21st at 05:45 pm PST
 - [ ] No other changes in version 11
 
 </details> <!-- End of V11 !-->
+
+## Version 12 (2023, Thursday, June 22nd at 09:42 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 12]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V12.md`](/!OldVersions/README/English/USA/README_V12.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Google Dot Org` section
+- [x] Updated the `Social Media` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (7 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 12
+- [ ] No other changes in version 12
+
+</details> <!-- End of V12 !-->
 
 </details> <!-- End of file history !-->
 
