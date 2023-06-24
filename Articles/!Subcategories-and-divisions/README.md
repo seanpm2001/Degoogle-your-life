@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Thursday, June 22nd at 09:42 pm PST
+Listing as of 2023, Friday, June 23rd at 05:40 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -160,8 +160,7 @@ Listing as of 2023, Thursday, June 22nd at 09:42 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Photos
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Gallery
-
--- Picasso
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Picasa
 
 ## [Google Play](#Google-Play)
 
@@ -223,6 +222,7 @@ Listing as of 2023, Thursday, June 22nd at 09:42 pm PST
 ## [Health](#Health)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fit
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Health
 
 ## [Instant Messaging](#Instant-Messaging)
 
@@ -374,7 +374,7 @@ Listing as of 2023, Thursday, June 22nd at 09:42 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Thursday, June 22nd, 7 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Friday, June 23rd, 8 days)
 
 ***
 
@@ -384,17 +384,17 @@ Listing as of 2023, Thursday, June 22nd at 09:42 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2023, Thursday, June 22nd at 09:42 pm PST)`
+**File version:** `13 (2023, Friday, June 23rd at 05:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `744`
+**Line count (including blank lines and compiler line):** `765`
 
-**Word count:** `4,179`
+**Word count:** `4,321`
 
-**Character count (including spaces):** `28,451`
+**Character count (including spaces):** `29,372`
 
-**Character count (excluding spaces):** `25,540`
+**Character count (excluding spaces):** `26,337`
 
-**Size (in bytes):** `28,451`
+**Size (in bytes):** `29,372`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -729,6 +729,27 @@ Listing as of 2023, Thursday, June 22nd at 09:42 pm PST
 - [ ] No other changes in version 12
 
 </details> <!-- End of V12 !-->
+
+## Version 13 (2023, Friday, June 23rd at 05:40 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 13]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V13.md`](/!OldVersions/README/English/USA/README_V13.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Google Photos` section
+- [x] Updated the `Health` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (8 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 13
+- [ ] No other changes in version 13
+
+</details> <!-- End of V13 !-->
 
 </details> <!-- End of file history !-->
 
