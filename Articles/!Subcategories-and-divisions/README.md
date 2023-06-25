@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Friday, June 23rd at 05:40 pm PST
+Listing as of 2023, Saturday, June 24th at 10:49 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -64,6 +64,10 @@ Listing as of 2023, Friday, June 23rd at 05:40 pm PST
 ## [Domain registration](#Domain-registration)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Domains
+
+## [Desktop spyware](#Desktop-spyware)
+
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Desktop
 
 ## [DRM](#DRM)
 
@@ -267,6 +271,10 @@ Listing as of 2023, Friday, June 23rd at 05:40 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Video
 
+## [Packages and bundles](#Packages-and-bundles)
+
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Pack
+
 ## [Partnerships](#Partnerships)
 
 - https://github.com/seanpm2001/Google-Apple-Partnership-COVID-19
@@ -374,7 +382,7 @@ Listing as of 2023, Friday, June 23rd at 05:40 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Friday, June 23rd, 8 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Saturday, June 24th, 9 days)
 
 ***
 
@@ -384,17 +392,17 @@ Listing as of 2023, Friday, June 23rd at 05:40 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `13 (2023, Friday, June 23rd at 05:40 pm PST)`
+**File version:** `14 (2023, Saturday, June 24th at 10:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `765`
+**Line count (including blank lines and compiler line):** `794`
 
-**Word count:** `4,321`
+**Word count:** `4,476`
 
-**Character count (including spaces):** `29,372`
+**Character count (including spaces):** `30,422`
 
-**Character count (excluding spaces):** `26,337`
+**Character count (excluding spaces):** `27,247`
 
-**Size (in bytes):** `29,372`
+**Size (in bytes):** `30,422`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -750,6 +758,27 @@ Listing as of 2023, Friday, June 23rd at 05:40 pm PST
 - [ ] No other changes in version 13
 
 </details> <!-- End of V13 !-->
+
+## Version 14 (2023, Saturday, June 24th at 10:49 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 14]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V14.md`](/!OldVersions/README/English/USA/README_V14.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Added the `Desktop spyware` section
+- [x] Added the `Packages and bundles` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (9 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 14
+- [ ] No other changes in version 14
+
+</details> <!-- End of V14 !-->
 
 </details> <!-- End of file history !-->
 
