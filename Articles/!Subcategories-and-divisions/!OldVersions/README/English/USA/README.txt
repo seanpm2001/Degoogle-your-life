@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Saturday, June 24th at 10:49 pm PST
+Listing as of 2023, Sunday, June 25th at 11:03 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -147,6 +147,7 @@ Listing as of 2023, Saturday, June 24th at 10:49 pm PST
 
 ## [Google Maps and Google Earth](#Google-Maps-and-Google-Earth)
 
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Maps-Maker
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-maps-and-Google-Earth
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-StreetView
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Maps
@@ -158,6 +159,7 @@ Listing as of 2023, Saturday, June 24th at 10:49 pm PST
 
 - https://github.com/seanpm2001/The-Problem-with-Google-Green
 - https://github.com/seanpm2001/The-Problem-with-Google.org
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-PowerMeter
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Business-Groups-GBG
 
 ## [Google Photos](#Google-Photos)
@@ -382,7 +384,7 @@ Listing as of 2023, Saturday, June 24th at 10:49 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Saturday, June 24th, 9 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Sunday, June 25th, 10 days)
 
 ***
 
@@ -392,17 +394,17 @@ Listing as of 2023, Saturday, June 24th at 10:49 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2023, Saturday, June 24th at 10:49 pm PST)`
+**File version:** `15 (2023, Sunday, June 25th at 11:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `794`
+**Line count (including blank lines and compiler line):** `817`
 
-**Word count:** `4,476`
+**Word count:** `4,622`
 
-**Character count (including spaces):** `30,422`
+**Character count (including spaces):** `31,371`
 
-**Character count (excluding spaces):** `27,247`
+**Character count (excluding spaces):** `28,067`
 
-**Size (in bytes):** `30,422`
+**Size (in bytes):** `31,371`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -779,6 +781,27 @@ Listing as of 2023, Saturday, June 24th at 10:49 pm PST
 - [ ] No other changes in version 14
 
 </details> <!-- End of V14 !-->
+
+## Version 15 (2023, Sunday, June 25th at 11:03 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 15]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V15.md`](/!OldVersions/README/English/USA/README_V15.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Google Maps` section
+- [x] Updated the `Google dot org` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (10 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 15
+- [ ] No other changes in version 15
+
+</details> <!-- End of V15 !-->
 
 </details> <!-- End of file history !-->
 
