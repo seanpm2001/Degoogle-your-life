@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Sunday, June 25th at 11:03 pm PST
+Listing as of 2023, Monday, June 26th at 09:46 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -33,7 +33,8 @@ Listing as of 2023, Sunday, June 25th at 11:03 pm PST
 
 ## [Artificial Intelligence (AI)](#Artificial-Intelligence-AI)
 
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tensorflow
+- This section is temporarily empty. Its past content was moved to [#TensorFlow](#TensorFlow)
+- Bard
 
 ## [Augmented Reality (AR)](#Augmented-Reality-AR)
 
@@ -149,6 +150,7 @@ Listing as of 2023, Sunday, June 25th at 11:03 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Maps-Maker
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-maps-and-Google-Earth
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Maps-Navigation
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-StreetView
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Maps
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Earth
@@ -335,6 +337,11 @@ Listing as of 2023, Sunday, June 25th at 11:03 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Translate
 
+## [TensorFlow](#TensorFlow)
+
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Swift-for-TensorFlow
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tensorflow
+
 ## [Video games](#Video-games)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-AlphaGo
@@ -384,7 +391,7 @@ Listing as of 2023, Sunday, June 25th at 11:03 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Sunday, June 25th, 10 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Monday, June 26th, 11 days)
 
 ***
 
@@ -394,17 +401,17 @@ Listing as of 2023, Sunday, June 25th at 11:03 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2023, Sunday, June 25th at 11:03 pm PST)`
+**File version:** `16 (2023, Monday, June 26th at 09:46 pm PST)`
 
-**Line count (including blank lines and compiler line):** `817`
+**Line count (including blank lines and compiler line):** `846`
 
-**Word count:** `4,622`
+**Word count:** `4,794`
 
-**Character count (including spaces):** `31,371`
+**Character count (including spaces):** `32,540`
 
-**Character count (excluding spaces):** `28,067`
+**Character count (excluding spaces):** `29,079`
 
-**Size (in bytes):** `31,371`
+**Size (in bytes):** `32,540`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -802,6 +809,28 @@ Listing as of 2023, Sunday, June 25th at 11:03 pm PST
 - [ ] No other changes in version 15
 
 </details> <!-- End of V15 !-->
+
+## Version 16 (2023, Monday, June 26th at 09:46 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 16]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V16.md`](/!OldVersions/README/English/USA/README_V16.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Artificial Intelligence (AI)` section
+- [x] Updated the `Google Maps and Google Earth` section
+- [x] Added the `TensorFlow` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (11 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 16
+- [ ] No other changes in version 16
+
+</details> <!-- End of V16 !-->
 
 </details> <!-- End of file history !-->
 
