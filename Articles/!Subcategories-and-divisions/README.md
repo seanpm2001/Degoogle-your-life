@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Monday, June 26th at 09:46 pm PST
+Listing as of 2023, Tuesday, June 27th at 10:43 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -203,6 +203,7 @@ Listing as of 2023, Monday, June 26th at 09:46 pm PST
 
 ## [GSuite](#GSuite)
 
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-QuickOffice
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Base
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Docs
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings
@@ -234,6 +235,7 @@ Listing as of 2023, Monday, June 26th at 09:46 pm PST
 
 ## [Instant Messaging](#Instant-Messaging)
 
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Reply
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-SMS
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Talk
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Chat
@@ -391,7 +393,7 @@ Listing as of 2023, Monday, June 26th at 09:46 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Monday, June 26th, 11 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Tuesday, June 27th, 12 days)
 
 ***
 
@@ -401,17 +403,17 @@ Listing as of 2023, Monday, June 26th at 09:46 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2023, Monday, June 26th at 09:46 pm PST)`
+**File version:** `17 (2023, Tuesday, June 27th at 10:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `846`
+**Line count (including blank lines and compiler line):** `870`
 
-**Word count:** `4,794`
+**Word count:** `4,942`
 
-**Character count (including spaces):** `32,540`
+**Character count (including spaces):** `33,529``
 
-**Character count (excluding spaces):** `29,079`
+**Character count (excluding spaces):** `29,935`
 
-**Size (in bytes):** `32,540`
+**Size (in bytes):** `33,529`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -831,6 +833,28 @@ Listing as of 2023, Monday, June 26th at 09:46 pm PST
 - [ ] No other changes in version 16
 
 </details> <!-- End of V16 !-->
+
+## Version 17 (2023, Tuesday, June 27th at 10:43 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 17]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V17.md`](/!OldVersions/README/English/USA/README_V17.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Instant messaging` section
+- [x] Updated the `GSuite` section
+- [x] Added the `TensorFlow` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (12 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 17
+- [ ] No other changes in version 17
+
+</details> <!-- End of V17 !-->
 
 </details> <!-- End of file history !-->
 
