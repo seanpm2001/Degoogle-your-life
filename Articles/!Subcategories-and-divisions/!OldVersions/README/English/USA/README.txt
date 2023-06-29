@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Tuesday, June 27th at 10:43 pm PST
+Listing as of 2023, Wednesday, June 28th at 10:26 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -43,6 +43,10 @@ Listing as of 2023, Tuesday, June 27th at 10:43 pm PST
 ## [Business lock-in](#Business-lock-in)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-For-Startups
+
+## [Browser extensions](#Browser-extensions)
+
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Browser-Sync
 
 ## [Catalog](#Catalog)
 
@@ -114,6 +118,7 @@ Listing as of 2023, Tuesday, June 27th at 10:43 pm PST
 
 ## [GMAIL/GFAIL](#GMAIL-GFAIL)
 
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Inbox-by-GMail
 - https://github.com/seanpm2001/Why-you-should-stop-using-GMail
 
 ## [GIF](#GIF)
@@ -393,7 +398,7 @@ Listing as of 2023, Tuesday, June 27th at 10:43 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Tuesday, June 27th, 12 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Wednesday, June 28th, 13 days)
 
 ***
 
@@ -403,17 +408,17 @@ Listing as of 2023, Tuesday, June 27th at 10:43 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2023, Tuesday, June 27th at 10:43 pm PST)`
+**File version:** `18 (2023, Wednesday, June 28th at 10:26 pm PST)`
 
-**Line count (including blank lines and compiler line):** `870`
+**Line count (including blank lines and compiler line):** `896`
 
-**Word count:** `4,942`
+**Word count:** `5,093`
 
-**Character count (including spaces):** `33,529``
+**Character count (including spaces):** `34,547`
 
-**Character count (excluding spaces):** `29,935`
+**Character count (excluding spaces):** `30,821`
 
-**Size (in bytes):** `33,529`
+**Size (in bytes):** `34,547`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -855,6 +860,27 @@ Listing as of 2023, Tuesday, June 27th at 10:43 pm PST
 - [ ] No other changes in version 17
 
 </details> <!-- End of V17 !-->
+
+## Version 18 (2023, Wednesday, June 28th at 10:26 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 18]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V18.md`](/!OldVersions/README/English/USA/README_V18.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `GMAIL/GFAIL` section
+- [x] Added the `Browser extensions` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (13 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 18
+- [ ] No other changes in version 18
+
+</details> <!-- End of V18 !-->
 
 </details> <!-- End of file history !-->
 
