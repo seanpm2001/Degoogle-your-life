@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Wednesday, June 28th at 10:26 pm PST
+Listing as of 2023, Thursday, June 29th at 11:16 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -47,6 +47,7 @@ Listing as of 2023, Wednesday, June 28th at 10:26 pm PST
 ## [Browser extensions](#Browser-extensions)
 
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Browser-Sync
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Chrome-Frame
 
 ## [Catalog](#Catalog)
 
@@ -311,6 +312,7 @@ Listing as of 2023, Wednesday, June 28th at 10:26 pm PST
 
 ## [SaaSS Server trap](#SaaSS-Server-trap)
 
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Cloud-Connect
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Print
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Services
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Source-Repositories
@@ -398,7 +400,7 @@ Listing as of 2023, Wednesday, June 28th at 10:26 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Wednesday, June 28th, 13 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Thursday, June 29th, 14 days)
 
 ***
 
@@ -408,17 +410,17 @@ Listing as of 2023, Wednesday, June 28th at 10:26 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2023, Wednesday, June 28th at 10:26 pm PST)`
+**File version:** `19 (2023, Thursday, June 29th at 11:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `896`
+**Line count (including blank lines and compiler line):** `919`
 
-**Word count:** `5,093`
+**Word count:** `5,239`
 
-**Character count (including spaces):** `34,547`
+**Character count (including spaces):** `35,510`
 
-**Character count (excluding spaces):** `30,821`
+**Character count (excluding spaces):** `31,656`
 
-**Size (in bytes):** `34,547`
+**Size (in bytes):** `35,510`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -881,6 +883,27 @@ Listing as of 2023, Wednesday, June 28th at 10:26 pm PST
 - [ ] No other changes in version 18
 
 </details> <!-- End of V18 !-->
+
+## Version 19 (2023, Thursday, June 29th at 11:16 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 19]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V19.md`](/!OldVersions/README/English/USA/README_V19.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Google Cloud` section
+- [x] Updated the `Browser extensions` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (14 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 19
+- [ ] No other changes in version 19
+
+</details> <!-- End of V19 !-->
 
 </details> <!-- End of file history !-->
 
