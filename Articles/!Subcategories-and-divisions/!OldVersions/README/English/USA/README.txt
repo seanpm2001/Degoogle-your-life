@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Thursday, June 29th at 11:16 pm PST
+Listing as of 2023, Saturday, July 1st at 08:20 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -170,6 +170,10 @@ Listing as of 2023, Thursday, June 29th at 11:16 pm PST
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-PowerMeter
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Business-Groups-GBG
 
+## [Google News](#Google-News)
+
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-FastFlip
+
 ## [Google Photos](#Google-Photos)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Photos
@@ -214,6 +218,7 @@ Listing as of 2023, Thursday, June 29th at 11:16 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Docs
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Forms
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-GSuite
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Keep
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sheets
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Slides
@@ -400,7 +405,7 @@ Listing as of 2023, Thursday, June 29th at 11:16 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Thursday, June 29th, 14 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Friday, June 30th, 15 days)
 
 ***
 
@@ -410,17 +415,17 @@ Listing as of 2023, Thursday, June 29th at 11:16 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `19 (2023, Thursday, June 29th at 11:16 pm PST)`
+**File version:** `20 (2023, Saturday, July 1st at 08:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `919`
+**Line count (including blank lines and compiler line):** `945`
 
-**Word count:** `5,239`
+**Word count:** `5,386`
 
-**Character count (including spaces):** `35,510`
+**Character count (including spaces):** `36,476`
 
-**Character count (excluding spaces):** `31,656`
+**Character count (excluding spaces):** `32,490`
 
-**Size (in bytes):** `35,510`
+**Size (in bytes):** `36,476`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -904,6 +909,27 @@ Listing as of 2023, Thursday, June 29th at 11:16 pm PST
 - [ ] No other changes in version 19
 
 </details> <!-- End of V19 !-->
+
+## Version 20 (2023, Saturday, July 1st at 08:20 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 20]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V20.md`](/!OldVersions/README/English/USA/README_V20.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `GSuite` section
+- [x] Added the `Google News` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (15 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 20
+- [ ] No other changes in version 20
+
+</details> <!-- End of V20 !-->
 
 </details> <!-- End of file history !-->
 
