@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Saturday, July 1st at 08:20 pm PST
+Listing as of 2023, Sunday, July 2nd at 11:16 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -66,6 +66,10 @@ Listing as of 2023, Saturday, July 1st at 08:20 pm PST
 ## [Data wrangling](#Data-wrangling)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Refine
+
+## [Data visualization](#Data-visualization)
+
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Fusion-Tables
 
 ## [Domain registration](#Domain-registration)
 
@@ -255,6 +259,10 @@ Listing as of 2023, Saturday, July 1st at 08:20 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Meet
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Messages
 
+## [Image scanning](#Image-scanning)
+
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Goggles
+
 ## [JPEG tools](#JPEG-Tools)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Guetzli
@@ -405,7 +413,7 @@ Listing as of 2023, Saturday, July 1st at 08:20 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Friday, June 30th, 15 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Sunday, July 2nd, 17 days)
 
 ***
 
@@ -415,17 +423,17 @@ Listing as of 2023, Saturday, July 1st at 08:20 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2023, Saturday, July 1st at 08:20 pm PST)`
+**File version:** `21 (2023, Sunday, July 2nd at 11:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `945`
+**Line count (including blank lines and compiler line):** `974`
 
-**Word count:** `5,386`
+**Word count:** `5,539`
 
-**Character count (including spaces):** `36,476`
+**Character count (including spaces):** `37,513`
 
-**Character count (excluding spaces):** `32,490`
+**Character count (excluding spaces):** `33,389`
 
-**Size (in bytes):** `36,476`
+**Size (in bytes):** `37,513`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -923,13 +931,34 @@ Listing as of 2023, Saturday, July 1st at 08:20 pm PST
 - [x] Updated the `GSuite` section
 - [x] Added the `Google News` section
 - [x] Updated the `Uncategorized` section
-- - [x] Updated the counter for how long this section has been empty (15 days)
+- - [x] Updated the counter for how long this section has been empty (16 days)
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 20
 - [ ] No other changes in version 20
 
 </details> <!-- End of V20 !-->
+
+## Version 21 (2023, Sunday, July 2nd at 11:16 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 21]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V21.md`](/!OldVersions/README/English/USA/README_V21.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Added the `Data visualization` section
+- [x] Added the `Image scanning` section
+- [x] Updated the `Uncategorized` section
+- - [x] Updated the counter for how long this section has been empty (17 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 21
+- [ ] No other changes in version 21
+
+</details> <!-- End of V21 !-->
 
 </details> <!-- End of file history !-->
 
