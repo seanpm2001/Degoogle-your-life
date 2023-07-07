@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Wednesday, July 5th at 11:09 pm PST
+Listing as of 2023, Thursday, July 6th at 10:59 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -253,6 +253,8 @@ Listing as of 2023, Wednesday, July 5th at 11:09 pm PST
 
 ## [Instant Messaging](#Instant-Messaging)
 
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Duo
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Meet
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Reply
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-SMS
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Talk
@@ -417,7 +419,7 @@ Listing as of 2023, Wednesday, July 5th at 11:09 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Wednesday, July 5th, 20 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Thursday, July 6th, 21 days)
 
 ***
 
@@ -427,17 +429,17 @@ Listing as of 2023, Wednesday, July 5th at 11:09 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `23 (2023, Wednesday, July 5th a 11:09 pm PST)`
+**File version:** `24 (2023, Thursday, July 6th at 10:59 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,019`
+**Line count (including blank lines and compiler line):** `1,040`
 
-**Word count:** `5,824`
+**Word count:** `5,957`
 
-**Character count (including spaces):** `39,396`
+**Character count (including spaces):** `40,256`
 
-**Character count (excluding spaces):** `35,023`
+**Character count (excluding spaces):** `35,768`
 
-**Size (in bytes):** `39,396`
+**Size (in bytes):** `40,256`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1004,6 +1006,25 @@ Listing as of 2023, Wednesday, July 5th at 11:09 pm PST
 - [ ] No other changes in version 23
 
 </details> <!-- End of V23 !-->
+
+## Version 24 (2023, Thursday, July 6th at 10:59 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 24]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V24.md`](/!OldVersions/README/English/USA/README_V24.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Instant Messaging` section
+- - [x] Updated the counter for how long this section has been empty (21 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 24
+- [ ] No other changes in version 24
+
+</details> <!-- End of V24 !-->
 
 </details> <!-- End of file history !-->
 
