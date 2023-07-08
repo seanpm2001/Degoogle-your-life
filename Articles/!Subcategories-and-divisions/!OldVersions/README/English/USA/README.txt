@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Thursday, July 6th at 10:59 pm PST
+Listing as of 2023, Friday, July 7th at 11:30 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -198,6 +198,7 @@ Listing as of 2023, Thursday, July 6th at 10:59 pm PST
 - https://github.com/seanpm2001/Stop-Googling--Why-you-should-stop-using-Google-Search
 - https://github.com/seanpm2001/Why-you-should-avoid-Google-AMP
 - https://github.com/seanpm2001/Why-you-should-avoid-Google-News
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Answers
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Now
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-URL-Shortener
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Web-Accelerator
@@ -350,6 +351,7 @@ Listing as of 2023, Thursday, July 6th at 10:59 pm PST
 
 ## [Social Media](#Social-Media)
 
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Buzz
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Plus
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Currents
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Orkut
@@ -419,7 +421,7 @@ Listing as of 2023, Thursday, July 6th at 10:59 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Thursday, July 6th, 21 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Friday, July 7th, 22 days)
 
 ***
 
@@ -429,17 +431,17 @@ Listing as of 2023, Thursday, July 6th at 10:59 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2023, Thursday, July 6th at 10:59 pm PST)`
+**File version:** `25 (2023, Friday, July 7th at 11:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,040`
+**Line count (including blank lines and compiler line):** `1,062`
 
-**Word count:** `5,957`
+**Word count:** `6,096`
 
-**Character count (including spaces):** `40,256`
+**Character count (including spaces):** `41,152`
 
-**Character count (excluding spaces):** `35,768`
+**Character count (excluding spaces):** `36,542`
 
-**Size (in bytes):** `40,256`
+**Size (in bytes):** `41,152`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1025,6 +1027,26 @@ Listing as of 2023, Thursday, July 6th at 10:59 pm PST
 - [ ] No other changes in version 24
 
 </details> <!-- End of V24 !-->
+
+## Version 25 (2023, Friday, July 7th at 11:30 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 25]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V25.md`](/!OldVersions/README/English/USA/README_V25.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Social Media` section
+- [x] Updated the `Google Search` section
+- - [x] Updated the counter for how long this section has been empty (22 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 25
+- [ ] No other changes in version 25
+
+</details> <!-- End of V25 !-->
 
 </details> <!-- End of file history !-->
 
