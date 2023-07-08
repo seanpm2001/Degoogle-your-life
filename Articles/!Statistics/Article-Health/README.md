@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Thursday, July 6th at 10:58 pm PST`
+**Listing as of:** `2023, Friday, July 7th at 11:29 pm PST`
 
 #### [Legend](#Legend)
 
@@ -33,13 +33,13 @@
 - `⭐️` - A vital repository, but not a core repository. These are plentiful, as they are applied to all major, very stable Google services
 - `🗄️` - These repositories are completed/archived. They do not need further work.
 
-> **Note** _As of 2023, Thursday, July 6th, 2 entries are missing from this list (the combined count is `184` when it should be `186`)_
+> **Note** _As of 2023, Friday, July 7th, 2 entries are missing from this list (the combined count is `186` when it should be `188`)_
 
 #### [Very healthy](#Very-healthy)
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Thursday, July 6th)
+**Repo count (in this category):** `3` (as of 2023, Friday, July 7th)
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -49,7 +49,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Thursday, July 6th)
+**Repo count (in this category):** `6` (as of 2023, Friday, July 7th)
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -62,7 +62,7 @@ _☑️ These articles are healthy, but need some improvements:_
 
 _⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `23` (as of 2023, Thursday, July 6th)
+**Repo count (in this category):** `23` (as of 2023, Friday, July 7th)
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -92,7 +92,7 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `152` (as of 2023, Thursday, July 6th)
+**Repo count (in this category):** `154` (as of 2023, Friday, July 7th)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
@@ -248,6 +248,8 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Web-Accelerator
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Duo
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Meet
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Answers
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Buzz
 
 <!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
 
@@ -269,17 +271,17 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `40 (2023, Thursday, July 6th at 10:58 pm PST)`
+**File version:** `41 (2023, Friday, July 7th at xx:xx pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,343`
+**Line count (including blank lines and compiler line):** `1,373`
 
-**Word count:** `8,144`
+**Word count:** `8,321`
 
-**Character count (including spaces):** `54,565`
+**Character count (including spaces):** `55,726`
 
-**Character count (excluding spaces):** `47,473`
+**Character count (excluding spaces):** `48,460`
 
-**Size (in bytes):** `54,984`
+**Size (in bytes):** `56,145`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1319,6 +1321,34 @@ _⛔️ These articles have the least amount of development (not even a proper l
 - [ ] No other changes in version 40
 
 </details> <!-- End of V40 !-->
+
+## Version 41 (2023, Friday, July 7th at 11:29 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 41]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V41.md`](/OldVersions/English/USA/README_V41.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Legend` section
+- - [x] Updated the note about 2 missing entries, as it is still true
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 41
+- [ ] No other changes in version 41
+
+</details> <!-- End of V41 !-->
 
 </details> <!-- End of file history !-->
 
