@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Friday, July 7th at 11:30 pm PST
+Listing as of 2023, Friday, July 21st at 06:29 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -33,8 +33,9 @@ Listing as of 2023, Friday, July 7th at 11:30 pm PST
 
 ## [Artificial Intelligence (AI)](#Artificial-Intelligence-AI)
 
-- This section is temporarily empty. Its past content was moved to [#TensorFlow](#TensorFlow)
-- Bard
+<!-- - This section is temporarily empty. Its past content was moved to [#TensorFlow](#TensorFlow) !-->
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Bard
 
 ## [Augmented Reality (AR)](#Augmented-Reality-AR)
 
@@ -330,6 +331,10 @@ Listing as of 2023, Friday, July 7th at 11:30 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Zagat
 
+## [Ride sharing](#Ride-sharing)
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Waymo
+
 ## [SaaSS Server trap](#SaaSS-Server-trap)
 
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Cloud-Connect
@@ -421,7 +426,7 @@ Listing as of 2023, Friday, July 7th at 11:30 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Friday, July 7th, 22 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Friday, July 21st, 36 days)
 
 ***
 
@@ -431,17 +436,17 @@ Listing as of 2023, Friday, July 7th at 11:30 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `25 (2023, Friday, July 7th at 11:30 pm PST)`
+**File version:** `26 (2023, Friday, July 21st at 06:29 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,062`
+**Line count (including blank lines and compiler line):** `1,087`
 
-**Word count:** `6,096`
+**Word count:** `6,238`
 
-**Character count (including spaces):** `41,152`
+**Character count (including spaces):** `42,099`
 
-**Character count (excluding spaces):** `36,542`
+**Character count (excluding spaces):** `37,361`
 
-**Size (in bytes):** `41,152`
+**Size (in bytes):** `42,099`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1047,6 +1052,26 @@ Listing as of 2023, Friday, July 7th at 11:30 pm PST
 - [ ] No other changes in version 25
 
 </details> <!-- End of V25 !-->
+
+## Version 26 (2023, Friday, July 21st at 06:29 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 26]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V26.md`](/!OldVersions/README/English/USA/README_V26.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Artificial Intelligence` section
+- [x] Added the `Ride sharing` section
+- - [x] Updated the counter for how long this section has been empty (36 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 26
+- [ ] No other changes in version 26
+
+</details> <!-- End of V26 !-->
 
 </details> <!-- End of file history !-->
 
