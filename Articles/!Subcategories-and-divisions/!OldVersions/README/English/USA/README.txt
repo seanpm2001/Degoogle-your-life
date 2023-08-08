@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Friday, July 21st at 06:29 pm PST
+Listing as of 2023, Mondya, August 7th at 08:17 pm PST
 
 ## [Advertising and monetization](#Advertising-and-monetization)
 
@@ -121,6 +121,7 @@ Listing as of 2023, Friday, July 21st at 06:29 pm PST
 - https://github.com/seanpm2001/Google-security-issues
 - https://github.com/seanpm2001/Why-you-should-not-be-a-Google-Developer
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Apps
 
 ## [GMAIL/GFAIL](#GMAIL-GFAIL)
 
@@ -377,6 +378,10 @@ Listing as of 2023, Friday, July 21st at 06:29 pm PST
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Swift-for-TensorFlow
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tensorflow
 
+## [Utilities](#Utilities)
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Gears
+
 ## [Video games](#Video-games)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-AlphaGo
@@ -426,7 +431,7 @@ Listing as of 2023, Friday, July 21st at 06:29 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Friday, July 21st, 36 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Monday, August 7th, 54 days)
 
 ***
 
@@ -436,17 +441,17 @@ Listing as of 2023, Friday, July 21st at 06:29 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `26 (2023, Friday, July 21st at 06:29 pm PST)`
+**File version:** `27 (2023, Monday, August 7th at 08:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,087`
+**Line count (including blank lines and compiler line):** `1,112`
 
-**Word count:** `6,238`
+**Word count:** `6,377`
 
-**Character count (including spaces):** `42,099`
+**Character count (including spaces):** `43,016`
 
-**Character count (excluding spaces):** `37,361`
+**Character count (excluding spaces):** `38,155`
 
-**Size (in bytes):** `42,099`
+**Size (in bytes):** `43,016`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1072,6 +1077,26 @@ Listing as of 2023, Friday, July 21st at 06:29 pm PST
 - [ ] No other changes in version 26
 
 </details> <!-- End of V26 !-->
+
+## Version 27 (2023, Monday, August 7th at 08:17 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 27]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V27.md`](/!OldVersions/README/English/USA/README_V27.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `General` section
+- [x] Added the `Utilities` section
+- [x] Updated the counter for how long this section has been empty (36 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 27
+- [ ] No other changes in version 27
+
+</details> <!-- End of V27 !-->
 
 </details> <!-- End of file history !-->
 
