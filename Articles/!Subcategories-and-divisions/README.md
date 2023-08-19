@@ -3,9 +3,9 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Mondya, August 7th at 08:17 pm PST
+Listing as of 2023, Friday, August 18th at 08:09 pm PST
 
-## [Advertising and monetization](#Advertising-and-monetization)
+## [Advertising, malvertizing, and monetization](#Advertising-malvertizing-and-monetization)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdMob
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdSense
@@ -275,6 +275,10 @@ Listing as of 2023, Mondya, August 7th at 08:17 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Guetzli
 
+## [JavaScript tests](#JavaScript-tests)
+
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sputnik
+
 ## [Money hoarding](#Money-hoarding)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Capital
@@ -378,6 +382,10 @@ Listing as of 2023, Mondya, August 7th at 08:17 pm PST
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Swift-for-TensorFlow
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tensorflow
 
+## [Toolbars](#Toolbars)
+
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Toolbar
+
 ## [Utilities](#Utilities)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Gears
@@ -431,7 +439,7 @@ Listing as of 2023, Mondya, August 7th at 08:17 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Monday, August 7th, 54 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Friday, August 18th, 65 days)
 
 ***
 
@@ -441,17 +449,17 @@ Listing as of 2023, Mondya, August 7th at 08:17 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `27 (2023, Monday, August 7th at 08:17 pm PST)`
+**File version:** `28 (2023, Friday, August 18th at 08:09 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,112`
+**Line count (including blank lines and compiler line):** `1,141`
 
-**Word count:** `6,377`
+**Word count:** `6,540`
 
-**Character count (including spaces):** `43,016`
+**Character count (including spaces):** `44,160`
 
-**Character count (excluding spaces):** `38,155`
+**Character count (excluding spaces):** `39,151`
 
-**Size (in bytes):** `43,016`
+**Size (in bytes):** `44,160`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1097,6 +1105,27 @@ Listing as of 2023, Mondya, August 7th at 08:17 pm PST
 - [ ] No other changes in version 27
 
 </details> <!-- End of V27 !-->
+
+## Version 28 (2023, Friday, August 18th at 08:09 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 28]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V28.md`](/!OldVersions/README/English/USA/README_V28.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Advertising and monetization` section
+- - [x] Renamed to `Advertising, Malvertising, and monetization` due to frequent incidents of malvertisements (malware-laced ads)
+- [x] Added the `Toolbars` section
+- [x] Updated the counter for how long this section has been empty (65 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 28
+- [ ] No other changes in version 28
+
+</details> <!-- End of V28 !-->
 
 </details> <!-- End of file history !-->
 
