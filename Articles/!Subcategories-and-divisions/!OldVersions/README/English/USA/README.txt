@@ -3,9 +3,11 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Friday, August 18th at 08:09 pm PST
+Listing as of 2023, Monday, August 21st at 08:09 pm PST
 
 ## [Advertising, malvertizing, and monetization](#Advertising-malvertizing-and-monetization)
+
+<!-- - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Ads (to be created sometime within the next 2 weeks) !-->
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdMob
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdSense
@@ -279,6 +281,10 @@ Listing as of 2023, Friday, August 18th at 08:09 pm PST
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sputnik
 
+## [Misinformation](#Misinformation)
+
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Flu-Trends
+
 ## [Money hoarding](#Money-hoarding)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Capital
@@ -362,12 +368,13 @@ Listing as of 2023, Friday, August 18th at 08:09 pm PST
 ## [Social Media](#Social-Media)
 
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Buzz
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Friends-Connect
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Plus
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Wave
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Currents
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Orkut
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Plus
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Podcasts
-- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Wave
 
 ## [Surveys](#Surveys)
 
@@ -439,7 +446,7 @@ Listing as of 2023, Friday, August 18th at 08:09 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Friday, August 18th, 65 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Monday, August 21st, 68 days)
 
 ***
 
@@ -449,17 +456,17 @@ Listing as of 2023, Friday, August 18th at 08:09 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `28 (2023, Friday, August 18th at 08:09 pm PST)`
+**File version:** `29 (2023, Monday, August 21st at 09:29 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,141`
+**Line count (including blank lines and compiler line):** `1,170`
 
-**Word count:** `6,540`
+**Word count:** `6,719`
 
-**Character count (including spaces):** `44,160`
+**Character count (including spaces):** `45,363`
 
-**Character count (excluding spaces):** `39,151`
+**Character count (excluding spaces):** `40,196`
 
-**Size (in bytes):** `44,160`
+**Size (in bytes):** `45,363`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1126,6 +1133,28 @@ Listing as of 2023, Friday, August 18th at 08:09 pm PST
 - [ ] No other changes in version 28
 
 </details> <!-- End of V28 !-->
+
+## Version 29 (2023, Monday, August 21st at 09:29 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 29]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V28.md`](/!OldVersions/README/English/USA/README_V28.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Advertising and monetization` section
+- - [x] Added a source code comment about a future repository
+- [x] Added the `Misinformation` section
+- [x] Updated the `Social Media` section
+- [x] Updated the counter for how long this section has been empty (68 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 29
+- [ ] No other changes in version 29
+
+</details> <!-- End of V29 !-->
 
 </details> <!-- End of file history !-->
 
