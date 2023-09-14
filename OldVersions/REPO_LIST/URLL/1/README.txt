@@ -1,6 +1,6 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification/
-//// DeGoogle repository listing as of 2023, Friday, July 21st at 06:19 pm PST
+//// DeGoogle repository listing as of 2023, Wednesday, September 6th at 11:59 pm PST
 //// ----------------------------------------------------------------------------------------- ////
 //// START:
 https://github.com/seanpm2001/Degoogle-your-life
@@ -193,8 +193,19 @@ https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Answers
 https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Buzz
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Bard
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Waymo
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Apps
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Gears
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Sputnik
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Toolbar
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Flu-Trends
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Friends-Connect
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Directory
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Express
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Ads
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Zygote-Body
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Offers
 //// END.
-//// Repo count: 190
+//// Repo count: 201
 //// ----------------------------------------------------------------------------------------- ////
 //// Related projects:
 //// The REAL Data liberation front (2 repositories)
@@ -480,8 +491,8 @@ https://github.com/seanpm2001/Please-do-NOT-turn-off-your-adblocker
 //// END.
 //// ----------------------------------------------------------------------------------------- ////
 //// Repo count: 270
-//// Combined repository count: 460
+//// Combined repository count: 471
 //// FILE INFO:
-//// File version: 54 (2023, Friday, July 21st at 06:19 pm PST)
-//// Line count (including blank lines and compiler line): 488
+//// File version: 59 (2023, Thursday, September 7th at 05:48 pm PST)
+//// Line count (including blank lines and compiler line): 499
 //// End of file

@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Friday, July 21st at 06:25 pm PST`
+**Listing as of:** `2023, Thursday, September 7th at 05:55 pm PST`
 
 #### [Legend](#Legend)
 
@@ -33,13 +33,13 @@
 - `⭐️` - A vital repository, but not a core repository. These are plentiful, as they are applied to all major, very stable Google services
 - `🗄️` - These repositories are completed/archived. They do not need further work.
 
-> **Note** _As of 2023, Friday, July 21st, 2 entries are missing from this list (the combined count is `188` when it should be `190`)_
+> **Note** _As of 2023, Thursday, September 7th, 2 entries are missing from this list (the combined count is `199` when it should be `201`)_
 
 #### [Very healthy](#Very-healthy)
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Friday, July 21st)
+**Repo count (in this category):** `3` (as of 2023, Thursday, September 7th)
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -49,7 +49,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Friday, July 21st)
+**Repo count (in this category):** `6` (as of 2023, Thursday, September 7th)
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -62,7 +62,7 @@ _☑️ These articles are healthy, but need some improvements:_
 
 _⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `23` (as of 2023, Friday, July 21st)
+**Repo count (in this category):** `23` (as of 2023, Thursday, September 7th)
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -92,9 +92,10 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `156` (as of 2023, Friday, July 21st)
+**Repo count (in this category):** `167` (as of 2023, Thursday, September 7th)
 
-- https://github.com/seanpm2001/Why-you-should-stop-using-Google `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google `🌟️` (this is Googles heart, and is the highest priority)
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Ads `🌟️` (this is basically Googles economic heart, and is the second highest priority)
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics `🌟️`
 - https://github.com/seanpm2001/Why-you-should-not-be-a-Google-Developer `🌟️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cloud-Services `⭐️`
@@ -142,6 +143,7 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Podcasts `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-the-Google-Data-Transfer-project `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Authenticator `⭐️`
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Apps `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-AR-Core `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Kubernetes `⭐️`
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Workspace `⭐️`
@@ -154,6 +156,7 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cardboard
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-VPN
+- https://github.com/seanpm2001/Why-you-should-stop-using-Google-Gears
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Blockly
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Keep
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Video
@@ -252,6 +255,12 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Meet
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Answers
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Buzz
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Toolbar
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Sputnik
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Flu-Trends
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Friends-Connect
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Directory
+- https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Express
 
 <!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
 
@@ -273,17 +282,17 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `42 (2023, Friday, July 21st at 06:25 pm PST)`
+**File version:** `47 (2023, Thursday, September 7th at 05:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,403`
+**Line count (including blank lines and compiler line):** `1,552`
 
-**Word count:** `8,498`
+**Word count:** `9,395`
 
-**Character count (including spaces):** `56,913`
+**Character count (including spaces):** `62,931`
 
-**Character count (excluding spaces):** `49,471`
+**Character count (excluding spaces):** `54,598`
 
-**Size (in bytes):** `57,340`
+**Size (in bytes):** `63,368`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1357,7 +1366,7 @@ _⛔️ These articles have the least amount of development (not even a proper l
 <details><summary><p><b>[Click/tap here to expand/collapse release notes for version 42]</b></p></summary>
 
 - **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
-- **View this version as an archive:** [`README_V41.md`](/OldVersions/English/USA/README_V42.md)
+- **View this version as an archive:** [`README_V42.md`](/OldVersions/English/USA/README_V42.md)
 
 > Changes
 
@@ -1379,6 +1388,146 @@ _⛔️ These articles have the least amount of development (not even a proper l
 - [ ] No other changes in version 42
 
 </details> <!-- End of V42 !-->
+
+## Version 43 (2023, Monday, August 7th at 08:13 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 43]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V43.md`](/OldVersions/English/USA/README_V43.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Legend` section
+- - [x] Updated the note about 2 missing entries, as it is still true
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 43
+- [ ] No other changes in version 43
+
+</details> <!-- End of V43 !-->
+
+## Version 44 (2023, Friday, August 18th at 07:59 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 44]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V44.md`](/OldVersions/English/USA/README_V44.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Legend` section
+- - [x] Updated the note about 2 missing entries, as it is still true
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 44
+- [ ] No other changes in version 44
+
+</details> <!-- End of V44 !-->
+
+## Version 45 (2023, Monday, August 21st at 09:15 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 45]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V45.md`](/OldVersions/English/USA/README_V45.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Legend` section
+- - [x] Updated the note about 2 missing entries, as it is still true
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 45
+- [ ] No other changes in version 45
+
+</details> <!-- End of V45 !-->
+
+## Version 46 (2023, Wednesday, August 23rd at 06:50 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 46]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V46.md`](/OldVersions/English/USA/README_V46.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Legend` section
+- - [x] Updated the note about 2 missing entries, as it is still true
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 46
+- [ ] No other changes in version 46
+
+</details> <!-- End of V46 !-->
+
+## Version 47 (2023, Thursday, September 7th at 05:55 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 47]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V47.md`](/OldVersions/English/USA/README_V47.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Legend` section
+- - [x] Updated the note about 2 missing entries, as it is still true
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 47
+- [ ] No other changes in version 47
+
+</details> <!-- End of V47 !-->
 
 </details> <!-- End of file history !-->
 
