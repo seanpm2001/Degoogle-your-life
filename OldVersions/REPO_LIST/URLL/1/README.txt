@@ -1,6 +1,6 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification/
-//// DeGoogle repository listing as of 2023, Wednesday, September 6th at 11:59 pm PST
+//// DeGoogle repository listing as of 2023, Sunday, October 29th at 11:59 pm PST
 //// ----------------------------------------------------------------------------------------- ////
 //// START:
 https://github.com/seanpm2001/Degoogle-your-life
@@ -204,13 +204,17 @@ https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Express
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Ads
 https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Zygote-Body
 https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Offers
+https://github.com/seanpm2001/Why-you-should-avoid-Google-Protocol-Buffers
+https://github.com/seanpm2001/Why-you-should-avoid-Google-Mojom
 //// END.
-//// Repo count: 201
+//// Repo count: 203
 //// ----------------------------------------------------------------------------------------- ////
 //// Related projects:
 //// The REAL Data liberation front (2 repositories)
 https://github.com/seanpm2001/The-REAL-Data-Liberation-Front
 https://github.com/seanpm2001/The-REAL-Data-Liberation-Front_Docs
+//// Criticism of Google (1 repository)
+https://github.com/seanpm2001/Criticism-of-Google
 //// Go-ogle (1 repository)
 https://github.com/seanpm2001/Go-ogle
 //// NetM project (3 repositories)
@@ -490,9 +494,9 @@ https://github.com/seanpm2001/Android-x32_Android0.9_LiveCD_Edition
 https://github.com/seanpm2001/Please-do-NOT-turn-off-your-adblocker
 //// END.
 //// ----------------------------------------------------------------------------------------- ////
-//// Repo count: 270
-//// Combined repository count: 471
+//// Repo count: 271
+//// Combined repository count: 474
 //// FILE INFO:
-//// File version: 59 (2023, Thursday, September 7th at 05:48 pm PST)
-//// Line count (including blank lines and compiler line): 499
+//// File version: 60 (2023, Monday, December 25th at 05:24 pm PST)
+//// Line count (including blank lines and compiler line): 503
 //// End of file
