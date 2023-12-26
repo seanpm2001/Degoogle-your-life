@@ -3,7 +3,7 @@
 
 # [Article subcategories and divisions](#Article-subcategories-and-divisions)
 
-Listing as of 2023, Thursday, September 7th at 06:00 pm PST
+_Listing as of 2023, Sunday, October 29th at 05:38 pm PST_
 
 ## [Advertising, malvertizing, and monetization](#Advertising-malvertizing-and-monetization)
 
@@ -331,6 +331,8 @@ Listing as of 2023, Thursday, September 7th at 06:00 pm PST
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Flutter
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Go
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Noop
+- https://github.com/seanpm2001/Why-you-should-avoid-Google-Protocol-Buffers
+- https://github.com/seanpm2001/Why-you-should-avoid-Google-Mojom
 
 ## [Research](#Research)
 
@@ -452,7 +454,7 @@ Listing as of 2023, Thursday, September 7th at 06:00 pm PST
 
 ## [Uncategorized](#Uncategorized)
 
-- This section is now empty (from 2023, Friday, June 16th to 2023, Thursday, September 7th, 85 days)
+- This section is now empty (from 2023, Friday, June 16th to 2023, Monday, December 25th, 194 days)
 
 ***
 
@@ -462,17 +464,17 @@ Listing as of 2023, Thursday, September 7th at 06:00 pm PST
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `31 (2023, Thursday, September 7th at 06:00 pm PST)`
+**File version:** `32 (2023, Monday, December 25th at 05:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,220`
+**Line count (including blank lines and compiler line):** `1,241`
 
-**Word count:** `7,035`
+**Word count:** `7,167`
 
-**Character count (including spaces):** `47,455`
+**Character count (including spaces):** `48,320`
 
-**Character count (excluding spaces):** `42,004`
+**Character count (excluding spaces):** `42,755`
 
-**Size (in bytes):** `47,455`
+**Size (in bytes):** `48,320`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1190,7 +1192,7 @@ Listing as of 2023, Thursday, September 7th at 06:00 pm PST
 <details><summary><p><b>[Click/tap here to expand/collapse release notes for version 31]</b></p></summary>
 
 - **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
-- **View this version as an archive:** [`README_V30.md`](/!OldVersions/README/English/USA/README_V31.md)
+- **View this version as an archive:** [`README_V31.md`](/!OldVersions/README/English/USA/README_V31.md)
 
 > Changes
 
@@ -1205,6 +1207,25 @@ Listing as of 2023, Thursday, September 7th at 06:00 pm PST
 - [ ] No other changes in version 31
 
 </details> <!-- End of V31 !-->
+
+## Version 32 (2023, Monday, December 25th at 05:38 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 32]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V32.md`](/!OldVersions/README/English/USA/README_V32.md)
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Programming languages` section
+- [x] Updated the counter for how long this section has been empty (194 days)
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 32
+- [ ] No other changes in version 32
+
+</details> <!-- End of V32 !-->
 
 </details> <!-- End of file history !-->
 
