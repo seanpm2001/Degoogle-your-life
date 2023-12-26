@@ -7,7 +7,7 @@
 
 ### [Article health](#Article-health)
 
-**Listing as of:** `2023, Thursday, September 7th at 05:55 pm PST`
+**Listing as of:** `2023, Sunday, October 29th at 11:59 pm PST` ***(file last updated on 2023, Monday, December 25th at 5:32 pm PST)***
 
 #### [Legend](#Legend)
 
@@ -33,13 +33,13 @@
 - `⭐️` - A vital repository, but not a core repository. These are plentiful, as they are applied to all major, very stable Google services
 - `🗄️` - These repositories are completed/archived. They do not need further work.
 
-> **Note** _As of 2023, Thursday, September 7th, 2 entries are missing from this list (the combined count is `199` when it should be `201`)_
+> **Note** _As of 2023, Monday, December 25th, 2 entries are missing from this list (the combined count is `201` when it should be `203`)_
 
 #### [Very healthy](#Very-healthy)
 
 _✅️ These articles are very healthy, and do not require urgent improvement:_
 
-**Repo count (in this category):** `3` (as of 2023, Thursday, September 7th)
+**Repo count (in this category):** `3` (as of 2023, Monday, December 25th)
 
 - https://github.com/seanpm2001/Degoogle-your-life `🌟️`
 - https://github.com/seanpm2001/Widevine-l3-decryptor-wiki `🗄️`
@@ -49,7 +49,7 @@ _✅️ These articles are very healthy, and do not require urgent improvement:_
 
 _☑️ These articles are healthy, but need some improvements:_
 
-**Repo count (in this category):** `6` (as of 2023, Thursday, September 7th)
+**Repo count (in this category):** `6` (as of 2023, Monday, December 25th)
 
 - https://github.com/seanpm2001/Google-is-a-monopoly `🌟️`
 - https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue `🌟️`
@@ -62,7 +62,7 @@ _☑️ These articles are healthy, but need some improvements:_
 
 _⚠️ These articles are starting to fall in ill health, and need some work:_
 
-**Repo count (in this category):** `23` (as of 2023, Thursday, September 7th)
+**Repo count (in this category):** `23` (as of 2023, Monday, December 25th)
 
 - https://github.com/seanpm2001/Google-security-issues `🌟️`
 - https://github.com/seanpm2001/Google-Outage-History `🌟️`
@@ -92,7 +92,7 @@ _⚠️ These articles are starting to fall in ill health, and need some work:_
 
 _⛔️ These articles are stubs and need significant expansion:_
 
-**Repo count (in this category):** `167` (as of 2023, Thursday, September 7th)
+**Repo count (in this category):** `169` (as of 2023, Monday, December 25th)
 
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google `🌟️` (this is Googles heart, and is the highest priority)
 - https://github.com/seanpm2001/Why-you-should-stop-using-Google-Ads `🌟️` (this is basically Googles economic heart, and is the second highest priority)
@@ -261,6 +261,8 @@ _⛔️ These articles are stubs and need significant expansion:_
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Friends-Connect
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Directory
 - https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Express
+- https://github.com/seanpm2001/Why-you-should-avoid-Google-Protocol-Buffers
+- https://github.com/seanpm2001/Why-you-should-avoid-Google-Mojom
 
 <!-- This section was made obsolete on 2023 June 5th, but is kept for historic purposes. It may also be added back in the future.
 
@@ -282,17 +284,17 @@ _⛔️ These articles have the least amount of development (not even a proper l
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `47 (2023, Thursday, September 7th at 05:55 pm PST)`
+**File version:** `48 (2023, Monday, December 25th at 05:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,552`
+**Line count (including blank lines and compiler line):** `1,584`
 
-**Word count:** `9,395`
+**Word count:** `9,606`
 
-**Character count (including spaces):** `62,931`
+**Character count (including spaces):** `64,303`
 
-**Character count (excluding spaces):** `54,598`
+**Character count (excluding spaces):** `55,762`
 
-**Size (in bytes):** `63,368`
+**Size (in bytes):** `64,740`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1528,6 +1530,36 @@ _⛔️ These articles have the least amount of development (not even a proper l
 - [ ] No other changes in version 47
 
 </details> <!-- End of V47 !-->
+
+## Version 48 (2023, Monday, December 25th at 05:32 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse release notes for version 48]</b></p></summary>
+
+- **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version as an archive:** [`README_V48.md`](/OldVersions/English/USA/README_V48.md)
+
+> **Note** _This update is over 2 months late, as I was procrastinating pretty badly on updating the core DeGoogle-your-Life repository._
+
+> Changes
+
+- [x] Updated the `Title` section
+- [x] Updated the `Legend` section
+- - [x] Updated the note about 2 missing entries, as it is still true
+- [x] Updated the `Very healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Healthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `A little unhealthy` section
+- - [x] Updated the repository counter
+- [x] Updated the `Stubs` section
+- - [x] Updated the repository counter
+- - [x] Added 2 entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 48
+- [ ] No other changes in version 48
+
+</details> <!-- End of V48 !-->
 
 </details> <!-- End of file history !-->
 
