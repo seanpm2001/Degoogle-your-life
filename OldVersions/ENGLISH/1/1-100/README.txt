@@ -84,6 +84,8 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 > [00.1 - Index](#Index)
 
+> [00.2 - Google is officially a monopoly](#Google-is-officially-a-monopoly)
+
 [01.0 - Basic description](#Basic-description)
 
 > [01.1 - Repository header](#Degoogle-your-life)
@@ -195,6 +197,22 @@ Due to maintenance issues, many translations are out of date and are using an ou
 > [27.9 - EOF](#EOF)
 
 </details>
+
+***
+
+## `Google is officially an illegal monopoly`
+
+**2024, Monday, August 5th**
+
+[`justive.gov`](https://www.justice.gov/opa/pr/justice-department-statements-us-district-court-district-columbias-decision-us-v-google)
+
+On 2024, Monday, Augusy 5th, the United States Department of Justice declared Google to be an illegal monopoly, citing the reason of bribing competitors (such as Apple) to set Google as the default search engine to stifle competition. Some in the tech community have known Google to be a monopoly long before this decision, and unfortunately, this isn't the only monopolistic thing Google is doing. This antitrust lawsuit is a breakthrough moment. At the moment, Google plans to try and repeal it. This project will continue to function nonetheless.
+
+[1](https://www.nytimes.com/2024/08/05/technology/google-antitrust-ruling.html) [2](https://www.reuters.com/legal/us-judge-rules-google-broke-antitrust-law-search-case-2024-08-05/) [3](https://www.washingtonpost.com/technology/2024/08/05/doj-google-monopoly-trial-judgment/) [4](https://www.politico.com/news/2024/08/05/google-antitrust-lawsuit-00172678) [5](https://arstechnica.com/tech-policy/2024/08/google-loses-dojs-big-monopoly-trial-over-search-business/) [6](https://www.npr.org/2024/08/05/nx-s1-5064624/google-justice-department-antitrust-search) [7](https://www.businessinsider.com/google-violated-antitrust-law-to-keep-search-monopoly-judge-rules-2024-8?op=1) [8](https://variety.com/2024/biz/news/google-illegal-search-monopoly-judge-ruling-doj-1236096055/) [9](https://www.aljazeera.com/economy/2024/8/6/google-has-illegal-monopoly-over-internet-search-us-judge-rules) [10](https://www.latimes.com/business/story/2024-08-05/google-federal-anti-trust-loses-search-case)
+
+Old document from 2023, Wednesday, April 26th I have of breaking up Google into smaller companies. This likely won't happen, and is incomplete and outdated, but I felt this was the best time to release it.
+
+- [Plans for splitting up Google (V2) (2023)](/Extras/Splitting-up-Google/V2/2023/README.md)
 
 ***
 
@@ -1170,9 +1188,9 @@ There are other alternates, just search for them.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `2,776`
+**Line count (including blank lines and compiler line):** `2,831`
 
-**File version:** `64 (2023, Monday, March 20h at 2:56 pm PST)`
+**File version:** `65 (2024, Monday, August 5th at 09:11 pm PST)`
 
 **All times are UTC-7 (PDT/Pacific Time)** account for daylight savings time as well (it's a pain, I know)
 
@@ -2236,11 +2254,20 @@ TODO: Make all version entries into dropdowns
 - - [x] Added an entry for version 64
 - [ ] No other changes in version 64
 
-**Version 65 (Coming soon)**
+**Version 65 (2024, Monday, August 5th at 09:11 pm PST)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
+
+> **Note** _This release takes advantage of the newest major update, where Google has legally been declared a monopoly in the United States._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the index
+- [x] Added the `Google is officially a monopoly` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 65
+- - [x] Added blank entries for versions 127 to 130
 - [ ] No other changes in version 65
 
 **Version 66 (Coming soon)**
@@ -2669,6 +2696,34 @@ TODO: Make all version entries into dropdowns
 
 - [ ] Coming soon
 - [ ] No other changes in version 126
+
+**Version 127 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 127
+
+**Version 128 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 128
+
+**Version 129 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 129
+
+**Version 130 (Coming soon)**
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 130
 
 </details>
 
