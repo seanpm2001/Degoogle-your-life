@@ -1,9 +1,10 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification/
-//// DeGoogle repository listing as of 2025, Monday, August 18th at xx:xx pm PST
+//// DeGoogle repository listing as of 2025, Wednesday, August 20th at 08:11 pm PST
 //// ----------------------------------------------------------------------------------------- ////
 //// START:
 https://github.com/seanpm2001/Degoogle-your-life
+https://github.com/seanpm2001/DeGoogle-your-Life_Docs
 https://github.com/seanpm2001/UnGoogle-your-Life
 https://github.com/seanpm2001/UnGoogle-your-Life_Docs
 https://github.com/seanpm2001/Political-reasons-for-DeGoogling
@@ -211,8 +212,8 @@ https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Offers
 https://github.com/seanpm2001/Why-you-should-avoid-Google-Protocol-Buffers
 https://github.com/seanpm2001/Why-you-should-avoid-Google-Mojom
 //// END.
-//// Repo count: 207
-//// SOME ENTRIES BETWEEN 2023, OCTOBER 29TH & 2025, AUGUST 17TH MAY BE MISSING
+//// Repo count: 208
+//// SOME ENTRIES BETWEEN 2023, OCTOBER 29TH & 2025, AUGUST 17TH ARE MISSING
 //// ----------------------------------------------------------------------------------------- ////
 //// Related projects:
 //// The REAL Data liberation front (2 repositories)
@@ -499,9 +500,9 @@ https://github.com/seanpm2001/Android-x32_Android0.9_LiveCD_Edition
 https://github.com/seanpm2001/Please-do-NOT-turn-off-your-adblocker
 //// END.
 //// ----------------------------------------------------------------------------------------- ////
-//// Repo count: 271
-//// Combined repository count: 478
+//// Repo count: 272
+//// Combined repository count: 479
 //// FILE INFO:
-//// File version: 61 (2025, Monday, August 18th at 08:00 pm PST)
-//// Line count (including blank lines and compiler line): 508
+//// File version: 62 (2025, Wednesday, August 20th at 08:11 pm PST)
+//// Line count (including blank lines and compiler line): 509
 //// End of file
