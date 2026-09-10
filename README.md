@@ -8,9 +8,9 @@
 
 <details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
-| <img alt="Old DeGoogle logo failed to load. Click/tap here to attempt to view it" src="/DEGOOGLE1.jpeg" width="200" height="200"/> | <img alt="2015 DeGoogle logo failed to load. Click/tap here to attempt to view it" src="/Anti-Google_Icon2015_1024px_V1_HighCompression.png" width="200" height="200"/> |
-|---|---|
-| [`Old logo variant`](/DEGOOGLE1.jpeg) | [`New (2015) logo variant`](/Anti-Google_Icon2015_1024px_V1_HighCompression.png) |
+| <img alt="Old DeGoogle logo failed to load. Click/tap here to attempt to view it" src="/DEGOOGLE1.jpeg" width="200" height="200"/> | <img alt="2015 DeGoogle logo failed to load. Click/tap here to attempt to view it" src="/Anti-Google_Icon2015_1024px_V1_HighCompression.png" width="200" height="200"/> | <img alt="2025 DeGoogle logo failed to load. Click/tap here to attempt to view it" src="/DeGoogle-Logo-2025_V1_2026.09.05.svg" width="200" height="200"/> |
+|---|---|---|
+| [`Old logo variant`](/DEGOOGLE1.jpeg) | [`New (2015) logo variant`](/Anti-Google_Icon2015_1024px_V1_HighCompression.png) | [`Newest (2025) logo variant`](/DeGoogle-Logo-2025_V1_2026.09.05.svg) |
 
 </details>
 
@@ -85,6 +85,8 @@ Due to maintenance issues, many translations are out of date and are using an ou
 > [00.1 - Index](#Index)
 
 > [00.2 - Google is officially a monopoly](#Google-is-officially-a-monopoly)
+
+> [00.3 - Current campaign](#Current-campaign)
 
 [01.0 - Basic description](#Basic-description)
 
@@ -213,6 +215,75 @@ On 2024, Monday, Augusy 5th, the United States Department of Justice declared Go
 Old document from 2023, Wednesday, April 26th I have of breaking up Google into smaller companies. This likely won't happen, and is incomplete and outdated, but I felt this was the best time to release it.
 
 - [Plans for splitting up Google (V2) (2023)](/Extras/Splitting-up-Google/V2/2023/README.md)
+
+**
+
+## Current campaign
+
+Due to the upcoming Google Play Services update, which will make Android cease to be an open platform, by adding developer fees, and personal identification to develop apps (which is extremely dangerous for those living in authoritarian regimes) starting on 2027, January 1st, I have put forth extra effort into DeGoogling from Android by backing up my data, and getting a new device. I have been doing a daily Mastodon thread to try and figure out how to do this. The current issue is backing up application data, and possibly rooting my device.
+
+- Day 001 (149 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117046352071034790)
+- Day 002 (148 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117052608161769448)
+- Day 003 (147 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117058336940306169)
+- Day 004 (146 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117063976211324121)
+- Day 005 (145 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117063976211324121)
+- Day 006 (144 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117075223777262819)
+- Day 007 (143 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117081043129150942)
+- Day 008 (142 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117086378947416182)
+- Day 009 (141 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117086378947416182)
+- Day 010 (140 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117097952766726397)
+- Day 011 (139 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117103781972216867)
+- Day 012 (138 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117109434678618695)
+- Day 013 (137 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117114774187802029)
+- Day 014 (136 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117119136940085453)
+- Day 015 (135 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117126150387959016)
+- Day 016 (134 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117131449616671691)
+- Day 017 (133 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117136331792009445)
+- Day 018 (132 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117142725072819039)
+- Day 019 (131 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117148618963244863)
+- Day 020 (130 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117154550992140971)
+- Day 021 (129 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117160209678585083)
+- Day 022 (128 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117160209678585083)
+- Day 023 (127 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117171820533872226)
+- Day 024 (126 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117176519735835040)
+- Day 025 (125 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117182968377425402)
+- Day 026 (124 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117188260193566891)
+- Day 027 (123 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117194186990628932)
+- Day 028 (122 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117199733993314366)
+- Day 029 (121 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117205631692511299)
+- Day 020 (120 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117205631692511299)
+- Day 031 (119 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117216866095008167)
+- Day 032 (118 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117222591327420152)
+- Day 033 (117 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117228183385173693)
+- Day 034 (116 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117234012760295496)
+- Day 035 (115 days left): [`Link coming soon`](https://techhub.social/@seanpm2001/)
+
+Petition link: [`KeepAndroidOpen`](https://keepandroidopen.org/)
+
+Methods
+
+I would like to create a set of plans here, so that those switching from Android can see these posts, and find options.
+
+[PLAN A] [UNTESTED] (I am not sure if the option is safe, or efficient, and still need feedback)
+Rooting: https://www.thecustomdroid.com/samsung-galaxy-s20-magisk-rooting-guide/
+Backup: https://www.xda-developers.com/how-to-backup-android/ use: Titanium backup (it will be used once, then discarded)
+Context: https://techhub.social/deck/@seanpm2001/117126150387959016
+
+[PLAN B] [UNTESTED]
+The European/Non-American long option
+[Link to plan](https://techhub.social/deck/@seanpm2001/117136331792009445)
+
+[PLAN Y] [UNTESTED]
+Absolute last resort I
+[Link to plan](https://techhub.social/deck/@seanpm2001/117136331792009445)
+
+[PLAN Z] [UNTESTED]
+Absolute last resort II
+[Link to plan](https://techhub.social/deck/@seanpm2001/117136331792009445)
+
+Regarding a path forward, PostMarketOS, GrapheneOS, LineageOS, and Mobian are still active considerations for replacement, although APK functionality on them is unknown to me right now.
+
+Will a rooted Android phone still automatically download and install (autoupdate) the 2027 update? Can I bypass this update simply by rooting my phone? Will I not get the update regardless, since Android 11 has been End of Life for a little over 2 years? (last update: 2024, March 5th)
 
 ***
 
@@ -1188,9 +1259,9 @@ There are other alternates, just search for them.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `2,831`
+**Line count (including blank lines and compiler line):** `2,911`
 
-**File version:** `65 (2024, Monday, August 5th at 09:11 pm PST)`
+**File version:** `66 (2024, Wednesday, September 9th at 09:19 pm PST)`
 
 **All times are UTC-7 (PDT/Pacific Time)** account for daylight savings time as well (it's a pain, I know)
 
@@ -2270,11 +2341,20 @@ TODO: Make all version entries into dropdowns
 - - [x] Added blank entries for versions 127 to 130
 - [ ] No other changes in version 65
 
-**Version 66 (Coming soon)**
+**Version 66 (2026, Wednesday, September 9th at 09:19 pm PST)**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
+
+> **Note** _This release comes afteer a hiatus of over 1 year. A new logo is now being used, and information has been added regarding Android._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Added the 2025 logo
+- [x] Updated the index
+- [x] Added the `Current campaign` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 66
 - [ ] No other changes in version 66
 
 **Version 67 (Coming soon)**
@@ -2743,7 +2823,7 @@ You have reached the end of this file.
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 
-## Contributors ✨
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
