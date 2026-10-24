@@ -256,7 +256,52 @@ Due to the upcoming Google Play Services update, which will make Android cease t
 - Day 032 (118 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117222591327420152)
 - Day 033 (117 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117228183385173693)
 - Day 034 (116 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117234012760295496)
-- Day 035 (115 days left): [`Link coming soon`](https://techhub.social/@seanpm2001/)
+- Day 035 (115 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117239635370445855)
+- Day 036 (114 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117245137439704331)
+- Day 037 (113 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117250716096963551)
+- Day 038 (112 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117256348799250926)
+- Day 039 (111 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117262280485787769)
+- Day 040 (110 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117267722418105700)
+- Day 041 (109 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117273676668209260)
+- Day 042 (108 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117279280641147383)
+- Day 043 (107 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117284811777628466)
+- Day 044 (106 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117290608376088360)
+- Day 045 (105 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117296238932164036)
+- Day 046 (104 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117301924259361047)
+- Day 047 (103 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117307197858789000)
+- Day 048 (102 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117312699964897479)
+- Day 049 (101 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117318628107538020)
+- Day 050 (100 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117324525031158561)
+- Day 051 (099 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117330212705308087)
+- Day 052 (098 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117335090484989674)
+- Day 053 (097 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117341208048432553)
+- Day 054 (096 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117346835459611785)
+- Day 055 (095 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117352206861582275)
+- Day 056 (094 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117358272418156722)
+- Day 057 (093 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117363887203957459)
+- Day 058 (092 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117369693877113482)
+- Day 059 (091 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117375528993168677)
+- Day 060 (090 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117380961060626290)
+- Day 061 (089 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117386796925102954)
+- Day 062 (088 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117391974085446936)
+- Day 063 (087 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117398168425336587)
+- Day 064 (086 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117403615950748448)
+- Day 065 (085 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117409364232997870)
+- Day 066 (084 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117415242385379229)
+- Day 067 (083 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117420553237016041)
+- Day 068 (082 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117426393600399771)
+- Day 069 (081 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117432151437265927)
+- Day 070 (080 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117432151437265927)
+- Day 071 (079 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117443450082031061)
+- Day 072 (078 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117449071130838911)
+- Day 073 (077 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117454794950524586)
+- Day 074 (076 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117460508906703652)
+- Day 075 (075 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117466105827771432)
+- Day 076 (074 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117471512807479447)
+- Day 077 (073 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117476889879184071)
+- Day 078 (072 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/deck/@seanpm2001/117482932638579088)
+- Day 079 (071 days left): [`Link to post (techhub.social (Mastodon))`](https://techhub.social/@seanpm2001/117488447859928818)
+- Day 080 (070 days left): [`Link coming soon`](https://techhub.social/@seanpm2001/)
 
 Petition link: [`KeepAndroidOpen`](https://keepandroidopen.org/)
 
@@ -1259,9 +1304,9 @@ There are other alternates, just search for them.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `2,911`
+**Line count (including blank lines and compiler line):** `2,963`
 
-**File version:** `66 (2024, Wednesday, September 9th at 09:19 pm PST)`
+**File version:** `67 (2026, Friday, October 23rd at 10:30 pm pm NPST (2026, Friday, October 23rd at 11:30 pm PST)`
 
 **All times are UTC-7 (PDT/Pacific Time)** account for daylight savings time as well (it's a pain, I know)
 
@@ -2357,11 +2402,18 @@ TODO: Make all version entries into dropdowns
 - - [x] Added an entry for version 66
 - [ ] No other changes in version 66
 
-**Version 67 (Coming soon)**
+**Version 67 (2026, Friday, October 23rd at 10:30 pm NPST (2026, Friday, October 23rd at 11:30 pm PST))**
+
+**This version was developed by [@seanpm2001](https://github.com/seanpm2001/)**
+
+> **Note** _This release comes after a hiatus of a little over a month. Updated the campaign links, and fixed a typo._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the `Current campaign` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 67
 - [ ] No other changes in version 67
 
 **Version 68 (Coming soon)**
@@ -2819,7 +2871,7 @@ You have reached the end of this file.
 
 ***
 
-> **Note** Most links are dead, as my organizations had to be deleted in 2022 by GitHubs request. If new icons start appearing on this table, it means that someone has created a user/organization under this name. The only official names left are: @seanpm2001 @all-contributors @GaurPeeyush @gamer191 and @indatawetrust . All others were deleted. 2 organizations partially survived the deletion (@seanpm2001-all & @seanwallawalla-forks) but cannot be accessed, as they are still technically deleted.
+> **Note** Most links are dead, as my organizations had to be deleted in 2022 upon GitHubs request. If new icons start appearing on this table, it means that someone has created a user/organization under this name. The only official names left are: @seanpm2001 @all-contributors @GaurPeeyush @gamer191 and @indatawetrust . All others were deleted. 2 organizations partially survived the deletion (@seanpm2001-all & @seanwallawalla-forks) but cannot be accessed, as they are still technically deleted.
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 
